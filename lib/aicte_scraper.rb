@@ -120,6 +120,7 @@ class AicteScraper
   # "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY" => "Dr. B.R. Ambedkar Institute Of Technology"
   # TODO: Remove trailing comma, if any.
   def fix_text(original_text)
+    return if original_text.nil?
     original_text.downcase.split('.').map(&:capitalize).join('.').split(' ').map { |w| w.sub(/\S/, &:upcase) }.join(' ')
   end
 
