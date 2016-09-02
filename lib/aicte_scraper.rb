@@ -115,11 +115,13 @@ class AicteScraper
     end
   end
 
-  # "DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY" => "Dr. B.R. Ambedkar Institute Of Technology"
-  # TODO: Remove trailing comma, if any.
+  # " DR. B.R. AMBEDKAR INSTITUTE OF   TECHNOLOGY,  " => "Dr. B.R. Ambedkar Institute Of Technology"
   def fix_text(original_text)
     return if original_text.nil?
-    original_text.downcase.split('.').map(&:capitalize).join('.').split(' ').map { |w| w.sub(/\S/, &:upcase) }.join(' ')
+    squish_text = original_text.squish
+    capitalize_before_periods = squish_text.downcase.split('.').map(&:capitalize).join('.')
+    capitalize_before_spaces = capitalize_before_periods.split(' ').map { |w| w.sub(/\S/, &:upcase) }.join(' ')
+    _remove_ending_comma = capitalize_before_spaces[-1] == ',' ? capitalize_before_spaces[0..-2] : capitalize_before_spaces
   end
 
   def state_cache_name
