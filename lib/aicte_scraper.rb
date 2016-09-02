@@ -78,7 +78,7 @@ class AicteScraper
   end
 
   def log(message)
-    puts "[#{log_index}] #{message}"
+    print "[#{log_index}] #{message}\n"
   end
 
   def update_colleges_cache(md5, response)
