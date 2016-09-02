@@ -43,9 +43,7 @@ class AicteScraper
 
   def scrape
     Parallel.each(states, in_processes: processes) do |current_state|
-      # puts "Setting @state as #{current_state}"
       @state = current_state
-      # puts "Retrieving state from accessor: #{state}"
 
       log 'Loading index of colleges from AICTE...'
 
