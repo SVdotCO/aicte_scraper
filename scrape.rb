@@ -1,4 +1,4 @@
-require_relative '../lib/aicte_scraper'
+require_relative 'lib/aicte_scraper'
 
 require 'optparse'
 
