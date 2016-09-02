@@ -31,16 +31,21 @@ Scrapes information on colleges from AICTE's website, and stores it in YAML form
 ## Instructions
 
     bundle install
-    bundle exec bin/scrape.rb
+    bundle exec ruby scrape.rb --help
     
 Output will be stored to `outputs/colleges.yml`
     
 To load info for a single state:
 
-    bundle exec bin/scrape.rb "Andaman and Nicobar Islands"
-    
+    bundle exec ruby scrape.rb -s "Andaman and Nicobar Islands"
+
+You can speed up scraping by running multiple processes, at the risk hitting the AICTE server's rate limiter (handled). I'm not sure what the rate limit is, so there's no way to automatically run at maximum speed at the moment.
+
+    bundle exec ruby scrape.rb -p 4
+
 For a list of valid states, check `AicteScraper::Constants`.
 
 ## TODO
 
-* Speed up the process by calling URL-s in parallel.
+* Cache index data in memory before dumping to file.
+* <strike>Speed up the process by calling URL-s in parallel.</strike>
