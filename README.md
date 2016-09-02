@@ -37,7 +37,7 @@ Scrapes information on colleges from AICTE's website, and stores it in YAML form
         -s, --state STATE                Choose state
         -p, --processes COUNT            Number of processes to run simultaneously
 
-Output will be stored to `outputs/colleges.yml`
+Output will be stored to `outputs/[STATE].yml`
     
 To load info for a single state:
 
