@@ -30,6 +30,17 @@ class AicteScraper
     @processes = processes.to_i
   end
 
+  def rescued_get(url)
+    begin
+      RestClient.get url
+    rescue RestClient::Exception => e
+      log "RestClient::Exception => #{e.class}"
+      log 'Encountered an issue while attempting to load URL. Sleeping for 20 seconds before retrying...'
+      sleep 20
+      retry
+    end
+  end
+
   def scrape
     Parallel.each(states, in_processes: processes) do |current_state|
       # puts "Setting @state as #{current_state}"
@@ -38,15 +49,7 @@ class AicteScraper
 
       log 'Loading index of colleges from AICTE...'
 
-      begin
-        response = RestClient.get colleges_url
-      rescue RestClient::Exception => e
-        log "RestClient::Exception => #{e.class}"
-        log 'Encountered an issue while attempting to load colleges index. Sleeping for 20 seconds before retrying...'
-        sleep 20
-        retry
-      end
-
+      response = rescued_get colleges_url
       md5 = Digest::MD5.digest response.body
 
       if cache_expired?(state, md5)
@@ -104,15 +107,7 @@ class AicteScraper
         log "Progress of adding university info: #{index + 1} / #{total_colleges}"
       end
 
-      begin
-        response = RestClient.get course_details_url(aicte_id)
-      rescue RestClient::Exception => e
-        log "RestClient::Exception => #{e.class}"
-        log 'Encountered an issue while attempting to load university info. Sleeping for 20 seconds before retrying...'
-        sleep 20
-        retry
-      end
-
+      response = rescued_get course_details_url(aicte_id)
       doc = Nokogiri::HTML response.body
       universities = doc.css('tbody > tr').map { |tr| tr.xpath('./td')[1].text }.uniq
 
