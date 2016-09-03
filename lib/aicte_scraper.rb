@@ -108,7 +108,8 @@ class AicteScraper
 
       response = rescued_get course_details_url(aicte_id)
       doc = Nokogiri::HTML response.body
-      universities = doc.css('tbody > tr').map { |tr| tr.xpath('./td')[1].text }.uniq
+      universities = doc.css('tbody > tr').map { |tr| fix_text(tr.xpath('./td')[1].text) }.uniq
+      universities -= %w(None)
 
       cache_to_yml aicte_id, {
         'universities' => universities
