@@ -5,9 +5,9 @@ require 'fileutils'
 
 # Gems
 require 'parallel'
-require 'active_support/all'
 require 'rest-client'
 require 'nokogiri'
+require 'titleize'
 
 # Local
 require_relative 'aicte_scraper/constants'
@@ -22,8 +22,8 @@ class AicteScraper
   end
 
   def initialize(state, processes)
-    if state.present?
-      raise "Invalid state. Pick one of the following:\n#{Constants::STATES.join ', '}" unless state.in?(Constants::STATES)
+    unless state.nil?
+      raise "Invalid state. Pick one of the following:\n#{Constants::STATES.join ', '}" unless Constants::STATES.include?(state)
       @state = state
     end
 
@@ -65,7 +65,7 @@ class AicteScraper
   end
 
   def states
-    state.present? ? [state] : Constants::STATES
+    state.nil? ? Constants::STATES : [state]
   end
 
   # The bit to the left of each log line, indicating which state the log is for. Super useful when running with
@@ -128,18 +128,60 @@ class AicteScraper
     universities - %w(None)
   end
 
-  # " DR. B.R. AMBEDKAR INSTITUTE OF   TECHNOLOGY,  " => "Dr. B.R. Ambedkar Institute Of Technology"
+  # ' DR. B.R. AMBEDKAR INSTITUTE OF   TECHNOLOGY , SOMEWHERE,  ' => "Dr. B.R. Ambedkar Institute of Technology, Somewhere"
   def fix_text(original_text)
     return if original_text.nil?
-    squish_text = original_text.squish
-    capitalize_before_periods = squish_text.downcase.split('.').map(&:capitalize).join('.')
-    capitalize_before_spaces = capitalize_before_periods.split(' ').map { |w| w.sub(/\S/, &:upcase) }.join(' ')
-    _remove_ending_comma = capitalize_before_spaces[-1] == ',' ? capitalize_before_spaces[0..-2] : capitalize_before_spaces
+    case_fixed = downcase_all_caps(original_text)
+    line_breaks_removed = remove_line_breaks(case_fixed)
+    space_before_comma_removed = remove_space_before_comma(line_breaks_removed)
+    space_added_after_comma = add_space_after_comma(space_before_comma_removed)
+    capitalized_after_space = capitalize_after_spaces(space_added_after_comma)
+    squish_text = capitalized_after_space.titleize
+    capitalized_after_periods = capitalize_after_periods(squish_text)
+    remove_trailing_comma(capitalized_after_periods)
+  end
+
+  # The reasoning behind this conversion is that all-caps text doesn't have any real casing information. So we can
+  # attempt to reconstruct it, even if the output isn't perfect (contains abbreviations), it's better than all-caps.
+  # 'HELLO' => 'hello'
+  # 'HellO' => 'HellO'
+  # "vavanoor,(via) koottanad,palakkad dist. \r\n679 533"
+  def downcase_all_caps(text)
+    text.upcase == text ? text.downcase : text
+  end
+
+  # "Hello\r\nWorld" => "Hello World"
+  def remove_line_breaks(text)
+    text.gsub(/\r\n?/, ' ')
+  end
+
+  # 'Street ,City' => 'Street,City'
+  def remove_space_before_comma(text)
+    text.gsub(/\s,/, ',')
+  end
+
+  # 'Street,City, State,' => 'Street, City, State,'
+  def add_space_after_comma(text)
+    text.gsub(/,([\w()])/, ', \1')
+  end
+
+  def capitalize_after_spaces(text)
+    text.split(' ').map { |w| w.sub(/\S/, &:upcase) }.join(' ')
+  end
+
+  # 'b.r. ambedkar' => 'B.R. Ambedkar'
+  def capitalize_after_periods(text)
+    text.split('.').map { |w| w.sub(/\S/, &:upcase) }.join('.')
+  end
+
+  # 'B.R. Ambedkar of ,' => 'B.R. Ambedkar of'
+  def remove_trailing_comma(text)
+    text[-1] == ',' ? text[0..-2] : text
   end
 
   # The name of the cache file to which output is written.
   def state_cache_name
-    state.split.map(&:capitalize).join.underscore
+    state.split.map(&:downcase).join('_')
   end
 
   # The path to the output file.
