@@ -51,5 +51,5 @@ For a list of valid states, check `AicteScraper::Constants`.
 
 ## TODO
 
-* Cache index data in memory before dumping to file.
+* <strike>Cache index data in memory before dumping to file.</strike>
 * <strike>Speed up the process by calling URL-s in parallel.</strike>

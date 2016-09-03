@@ -90,15 +90,16 @@ class AicteScraper
   def update_colleges_cache(response)
     log 'Cache expired. Storing index of colleges...'
 
-    JSON.parse(response.body).each do |college_data|
-      cache_to_yml(
-        college_data[0],
+    collected_colleges = JSON.parse(response.body).each_with_object({}) do |college_data, colleges|
+      colleges[college_data[0]] = {
         'name' => fix_text(college_data[1]),
         'address' => fix_text(college_data[2]),
         'district' => fix_text(college_data[3]),
         'institution_type' => fix_text(college_data[4])
-      )
+      }
     end
+
+    update_cached_colleges collected_colleges
   end
 
   # Load and store universities associated with colleges.
@@ -116,7 +117,7 @@ class AicteScraper
       response = rescued_get course_details_url(aicte_id)
       universities = extract_universitied_from_course_details(response)
 
-      cache_to_yml aicte_id, 'universities' => universities
+      update_cached_college aicte_id, 'universities' => universities
     end
   end
 
@@ -189,12 +190,16 @@ class AicteScraper
     File.expand_path(File.join(File.dirname(__FILE__), '..', 'output', "#{state_cache_name}.yml"))
   end
 
-  # Method that actually updates contents of the cache file.
-  def cache_to_yml(id, data)
+  def update_cached_colleges(colleges)
     cache = YAML.load(File.read(cache_file_path)) || {}
     cache[state] ||= {}
-    cache[state]['colleges'] ||= {}
-    cache[state]['colleges'][id] ||= {}
+    cache[state]['colleges'] = colleges
+    File.write(cache_file_path, cache.to_yaml)
+  end
+
+  # Method that actually updates contents of the cache file.
+  def update_cached_college(id, data)
+    cache = YAML.load(File.read(cache_file_path))
     cache[state]['colleges'][id].merge! data
     File.write(cache_file_path, cache.to_yaml)
   end
