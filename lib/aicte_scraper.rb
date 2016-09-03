@@ -86,7 +86,6 @@ class AicteScraper
   end
 
   # Store basic information about collegs to YAML.
-  # TODO: Remove unused argument.
   # TODO: Try optimizing. It's probably not necessary to write to disk after each iteration over the loop.
   def update_colleges_cache(response)
     log 'Cache expired. Storing index of colleges...'
