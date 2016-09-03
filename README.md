@@ -2,12 +2,20 @@
 
 Scrapes information on colleges from AICTE's website, and stores it in YAML form.
 
-## Example Output
+## Output
+
+In the interest of saving everyone time (and to spare AICTE's webserver), cached files are available in the `output` directory.
+
+This script will check whether existing data is up-to-date (one URL call per state) before attempting a rebuild.
+
+To force a rebuild, empty the cache.
+
+### Format
 
     ---
     Andaman and Nicobar Islands:
       colleges:
-        1-2811997238:
+        1-2811997238: # <- AICTE's ID for a college.
           name: DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY
           address: POLYTECHNIC ROAD PAHAR GAON PO JUNGLIGHAT
           district: PORT BLAIR
@@ -48,8 +56,3 @@ You can speed up scraping by running multiple processes, at the risk hitting the
     bundle exec ruby scrape.rb -p 4
 
 For a list of valid states, check `AicteScraper::Constants`.
-
-## TODO
-
-* <strike>Cache index data in memory before dumping to file.</strike>
-* <strike>Speed up the process by calling URL-s in parallel.</strike>

@@ -1,0 +1,446 @@
+---
+Jharkhand:
+  colleges:
+    1-2811525125:
+      name: GOVT. POLYTECHNIC DUMKA
+      address: SONWA DANGAL P.O.SHIV PAHAR DUMKA
+      district: DUMKA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811532047:
+      name: GOVERNMENT POLYTECHNIC, KHARSAWAN
+      address: WARD NO-3, TALSAI, P.O.-KHARASAWAN
+      district: SERAIKELA-KHARSAWAN
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811537984:
+      name: UNIVERSITY COLLEGE OF ENGINEERING AND TECHNOLOGY (UCET)
+      address: UCET, VINOBA BHAVE UNIVERSITY, RANCHI - PATNA ROAD, NH - 33
+      district: HAZARIBAG
+      institution_type: University Managed-Govt
+      universities:
+      - Vinoba Bhave University, Hazaribagh
+    1-2811545872:
+      name: BITT POLYTECHNIC
+      address: GETLATU, RANCHI, PS - SADAR, PO - NEORI VIKAS
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811550173:
+      name: RANCHI COLLEGE OF PHARMACY
+      address: BIMMS CAMPUS, PREM NAGAR, HESAG, HATIA
+      district: RANCHI
+      institution_type: Govt Aided
+      universities:
+      - Department of Technical Education
+    1-2811556252:
+      name: TECHNO INDIA SILLI
+      address: SILLI, MOORI, RANCHI, JHARKHAND
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811556440:
+      name: GOVERNMENT POLYTECHNIC BHAGA
+      address: PO - BHAGA DIST. - DHANBAD
+      district: DHANBAD
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811561740:
+      name: GOVERNMENT POLYTECHNIC NIRSA, DHANBAD
+      address: PRINCIPAL, GOVT. POLYTECHNIC NIRSA, DHANBAD, P.O.- B. POLYTECHNIC,
+        DHANBAD, JHARKHAND, PIN- 828130
+      district: DHANBAD
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811562272:
+      name: VIDYA MEMORIAL INSTITUTE OF TECHNOLOGY
+      address: DEVI MANDAP ROAD
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811569849:
+      name: TECHNO INDIA RAMGARH
+      address: RAMGARH, JHARKHAND
+      district: RAMGARH
+      institution_type: Govt Aided
+      universities:
+      - Vinoba Bhave University, Hazaribag
+    1-2811570482:
+      name: INSTITUTE OF SCIENCE AND MANAGEMENT
+      address: ISM CAMPUS PUNDAG RANCHI 834004
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities: []
+    1-2811573687:
+      name: GOVERNMENT WOMEN'S POLYTECHNIC, JAMSHEDPUR
+      address: NEAR THANA MORE, GAMHARIA
+      district: SERAIKELA-KHARSAWAN
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811576718:
+      name: SHINE-ABDUR RAZZAQUE ANSARI INSTITUTE OF HEALTH EDUCATION & RESEARCH
+      address: OINA IRBA
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811580823:
+      name: GOVT. POLYTECHNIC, KHUTRI
+      address: 'VILLAGE : KHUTRI'
+      district: BOKARO
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811588985:
+      name: K.K. COLLEGE OF ENGINEERING & MANAGEMENT
+      address: 'VILLAGE+AT: NAIRO POST OFF:-BAGSUMA THANA: GOVINDPUR DIST:-DHANBAD
+        PIN: 828109 JHARKHAND'
+      district: DHANBAD
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+      - Vinoba Bhave University, Hazaribag
+    1-2811591698:
+      name: RAMGOVIND POLYTECHNIC INSTITUTE
+      address: AT-MAHUVAN PO-KARMA JHUMRI TELAIYA KODARMA
+      district: KODERMA
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811592186:
+      name: GOVERNMENT WOMEN'S POLYTECHNIC BOKARO
+      address: NEAR GARGA DAM BALIDIH
+      district: BOKARO
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811610445:
+      name: JAIN INSTITUTE OF MANAGEMENT & ENTREPRENEURSHIP
+      address: 312/A MOHANPUROPPOSITE TO KERALA PUBLIC SCHOOL GAMHARIA SARAI KELA
+        KHARSAWAN JHARKHAND 832108
+      district: SERAIKELA-KHARSAWAN
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand
+    1-2811622368:
+      name: KHANDOLI INSTITUTE OF TECHNOLOGY
+      address: AT-DIGHARIAKALA PO-MOTILEDA
+      district: GIRIDIH
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand
+    1-2811624220:
+      name: KEJRIWAL INSTITUTE OF MANAGEMENT AND DEVELOPMENT STUDIES
+      address: PINDRAKOM, NAMKUM, RANCHI, JHARKHAND 834010
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities: []
+    1-2811624329:
+      name: DAV INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: BETLA ROAD, P.O. POLPOL, MEDININAGAR (DALTONGANJ), DIST - PALAMAU,
+        (JHARKHAND)
+      district: PALAMU
+      institution_type: Unaided - Private
+      universities:
+      - Nilamber-Pitamber University, Palamu
+    1-2811643064:
+      name: GOVERNMENT POLYTECHNIC DHANBAD
+      address: B. POLYTECHNIC
+      district: DHANBAD
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811659928:
+      name: SATYENDRA NARAYAN SINHA INSTITUTE OF BUSINESS MANAGEMENT
+      address: SATYENDRA NARAYAN SINHA INSTITUTE OF BUSINESS MANAGEMENT DHURWA, RANCHI
+        - 834 004. JHARKHAND - INDIA. PHONE NO. - 91-0651-2408907, 2505031 FAX - 9
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - Ranchi University, Ranchi
+    1-2811668860:
+      name: CAMBRIDGE INSTITUTE OF TECHNOLOGY
+      address: CAMBRIDGE VILLAGE, TATISILWAI, RANCHI -835103
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - Ranchi University, Ranchi
+    1-2811696384:
+      name: TECHNO INDIA DUMKA
+      address: DUMKA
+      district: DUMKA
+      institution_type: Govt Aided
+      universities:
+      - Sido Kanhu University, Dumka
+    1-2811709084:
+      name: BIRLA INSTITUTE OF TECHNOLOGY, MESRA, OFF CAMPUS DEOGHAR
+      address: BIT EXTENSION CENTRE DEO`GHAR, POST:JASIDIH DIST:DEOGHAR JHARKHAND
+        814142
+      district: DEOGHAR
+      institution_type: Private-Aided
+      universities:
+      - Birla Institute of Technology, Ranchi
+    1-2811712951:
+      name: RAMGOVIND INSTITUTE OF TECHNOLOGY
+      address: "'MAHUVAN', MAHAUTANAR, P.O. KARMA, JHUMRI TILLAIYA, KODARMA"
+      district: KODERMA
+      institution_type: Unaided - Private
+      universities:
+      - Vinoba Bhave University, Hazaribag
+      - Vinoba Bhave University, Hazaribagh
+    1-2811714076:
+      name: XAVIER INSTITUTE OF SOCIAL SERVICE
+      address: DR. CAMIL BULCKE PATH (PURULIA ROAD) POST BOX - 7
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities: []
+    1-2811725935:
+      name: MARYLAND INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+      address: VILLAGE CHARINDA / JORISA, GALUDIH
+      district: EAST SINGHABHUM
+      institution_type: Unaided - Private
+      universities:
+      - Ranchi University, Ranchi
+    1-2811727705:
+      name: INSTITUTE OF SCIENCE AND MANAGEMENT
+      address: ISM CAMPUS PUNDAG RANCHI 834004 JHARKHAND
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities: []
+    1-2811735322:
+      name: UNIVERSITY POLYTECHNIC, BIT, MESRA
+      address: OPPOSITE INDUSTRIAL ESTATE BIT-STEP, MESRA
+      district: RANCHI
+      institution_type: Govt Aided
+      universities:
+      - Birla Institute of Technology, Ranchi
+    1-2811745894:
+      name: GOVERNMENT POLYTECHNIC-LATEHAR
+      address: P.O. - KURA DIST. LATEHAR
+      district: PALAMU
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811764212:
+      name: GOVERNMENT TOOL ROOM AND TRAINING CENTRE
+      address: VILL-JARDAHA, PS-TALJHARI, P.O-LAKHNA, VIA-GHORMARA
+      district: DUMKA
+      institution_type: Govt Aided
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811770524:
+      name: B.A.COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: 'VILLAGE : GHUTIA, TALUK : GHATSHILA, BARAKHURSI, VIA - MAHULIA DISTRICT
+        : EAST SINGHBHUM'
+      district: EAST SINGHABHUM
+      institution_type: Unaided - Private
+      universities:
+      - KOLHAN UNIVERSITY
+    1-2811781771:
+      name: BIRLA INSTITUTE OF TECHNOLOGY
+      address: MESRA, RANCHI - 835215
+      district: RANCHI
+      institution_type: Govt Aided
+      universities:
+      - Birla Institute of Technology, Ranchi
+    1-2811805692:
+      name: RAMCHANDRA CHANDRAVANSI INSTITUTE OF TECHNOLOGY
+      address: AT. NAWADIH P.O BISHRAMPUR P.S. BISHRAMPUR DISTT. PALAMU
+      district: PALAMU
+      institution_type: Unaided - Private
+      universities:
+      - Nilamber-Pitamber University, Palamu
+    1-2811836762:
+      name: AL-KABIR POLYTECHNIC
+      address: KABIRNAGAR, P.O. KOPALI, VIA MANGO
+      district: SERAIKELA-KHARSAWAN
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811850910:
+      name: XAVIER LABOUR RELATIONS INSTITUTE (XLRI)
+      address: C. H. AREA (EAST) JAMSHEDPUR - 831001
+      district: EAST SINGHABHUM
+      institution_type: Unaided - Private
+      universities: []
+    1-2811866315:
+      name: GOVRNMENT POLYTECHNIC, RANCHI
+      address: GOVT. POLYTECHNIC, RANCHI, CHURCH ROAD, RANCHI
+      district: RANCHI
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811872430:
+      name: NETAJI SUBHAS INSTITUTE OF BUSINESS MANAGEMENT
+      address: AT- POKHARI, PO- BHILAI PAHARI, PS-MGM, DIST- EAST SINGHBHUM
+      district: EAST SINGHABHUM
+      institution_type: Unaided - Private
+      universities:
+      - Ranchi University, Ranchi
+    1-2811895183:
+      name: GURU GOBIND SINGH EDUCATIONAL SOCIETY'S TECHNICAL CAMPUS
+      address: KANDRA(V)
+      district: BOKARO
+      institution_type: Unaided - Private
+      universities:
+      - Vinoba Bhave University, Hazaribag
+    1-2811901937:
+      name: SAROJINI INSTITUTE OF TECHNOLOGY
+      address: NH33, TATA RANCHI ROAD
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811913808:
+      name: CENTRE FOR BIOINFORMATICS
+      address: CENTRE FOR BIOINFORMATICS VILLAGE- BALSIRING TALUKA- TUPUDANA DIST-
+        RANCHI STATE- JHARKHAND PIN- 834007
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811932212:
+      name: NETAJI SUBHAS INSTITUTE OF HOTEL MANAGEMENT & TOURISM
+      address: POKHARI, PO-BHILAI PAHARI, PS-MGM, DIST - EAST SINGHBHUM
+      district: EAST SINGHABHUM
+      institution_type: Private-Aided
+      universities:
+      - State Board of Technical Education, Jharkhand
+    1-2811932437:
+      name: INDO DANISH TOOL ROOM
+      address: M4(PART), PHASE-VI, TATA-KANDRA ROAD, GAMHARIA.
+      district: SERAIKELA-KHARSAWAN
+      institution_type: Govt Aided
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811932615:
+      name: RTC INSTITUTE OF TECHNOLOGY
+      address: ANANADI, ORMANJHI, RANCHI
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand
+      - Ranchi University, Ranchi
+    1-2811933016:
+      name: RAMCHANDRA CHANDRAVANSI POLYTECHNIC INSTITUTE
+      address: NAWADIHKALA, PO:BISHRAMPUR, PS:BISHRAMPUR DIST:PALAMU
+      district: PALAMU
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811935913:
+      name: JHARKHAND GOVERNMENT MINI TOOL ROOM & TRAINING CENTRE
+      address: PLOT NO-38 PHASE-I TATISILWAI INDUSTRIAL AREA TATISILWAI
+      district: RANCHI
+      institution_type: Govt Aided
+      universities: []
+    1-2811957168:
+      name: XAVIER INSTITUTE OF POLYTECHNIC AND TECHNOLOGY
+      address: VILL - BARGAWAN, PO - NAMKUM
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811977155:
+      name: K. K. POLYTECHNIC
+      address: AT - DEOLI PO - JANGALPUR PS-GOBINDPUR DHANBAD PIN- 828109 JHARKHAND
+      district: DHANBAD
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2811997790:
+      name: GOVERNMENT POLYTECHNIC ADITYAPUR
+      address: ADITYAPUR INDUSTRIAL AREA
+      district: SERAIKELA-KHARSAWAN
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2812068402:
+      name: B I T SINDRI
+      address: PO -SINDRI INSTITUTE
+      district: DHANBAD
+      institution_type: Government
+      universities:
+      - Vinoba Bhave University, Hazaribag
+    1-2812073791:
+      name: GOVT. POLYTECHNIC, KODERMA
+      address: BAGITAND, P.O.- KODERMA, DISTT- KODERMA, STATE- JHARKHAND PIN- 825410
+      district: KODERMA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2812178115:
+      name: SHINE-ABDUR RAZZAQUE ANSARI INSTITUTE OF HEALTH EDUCATION & RESEARCH
+      address: OINA, IRBA
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2812182210:
+      name: TECHNO INDIA CHAIBASA
+      address: JHIKPANI, CHAIBASA, JHARKHAND, EAST SINGHABHUM
+      district: WEST SINGHBHUM
+      institution_type: Govt Aided
+      universities:
+      - Kolhan University, West Singhbhum
+    1-2812188773:
+      name: R. V. S. COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: EDALBERA BHILAI PAHARI NH 33
+      district: EAST SINGHABHUM
+      institution_type: Unaided - Private
+      universities:
+      - Kolhan University, West Singhbhum
+    1-2844516246:
+      name: BIRLA INSTITUTE OF TECHNOLOGY, LALPUR EXT. CENTRE
+      address: LALPUR
+      district: RANCHI
+      institution_type: University Managed-Private
+      universities:
+      - Birla Institute of Technology, Ranchi
+    1-2851332727:
+      name: SAI NATH UNIVERSITY, FACULTY OF SCIENCE AND TECHNOLOGY
+      address: 876, JIRAWAR, CHANDWAY - KUCHU ROAD, ORMANJHI
+      district: RANCHI
+      institution_type: University Managed-Private
+      universities:
+      - Self
+    1-2858778481:
+      name: CAMBRIDGE INSTITUTE OF POLYTECHNIC
+      address: VILLAGE BAHEYA, ANGARA, RANCHI - 835103, JHARKHAND
+      district: RANCHI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2864395757:
+      name: GOVERNMENT WOMEN'S POLYTECHNIC
+      address: GOVERNMENT WOMEN'S POLYTECHNIC, THARPAKHNA, RANCHI
+      district: RANCHI
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2875458759:
+      name: GOVERNMENT POLYTECHNIC, PAKUR
+      address: P.O.- PAKUR, BEHIND COMBINED BUILDING, PAKUR
+      district: PAKUR
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Jharkhand, Ranchi
+    1-2889131411:
+      name: GOVERNMENT PHARMACY INSTITUTE
+      address: GOVT. PHARMACY INSTITUTE RAMESHWAR ORON PATH, BARIATU, RANCHI
+      district: RANCHI
+      institution_type: Government
+      universities:
+      - Department of Health Education and Family Welfare, Jharkhand
+  updated_at: '2016-09-03T18:59:39+05:30'
+  md5: !binary |-
+    gYRzl2FHq7HKNPWUeNPBAQ==

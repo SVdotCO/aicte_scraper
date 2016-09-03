@@ -1,0 +1,20 @@
+---
+Daman and Diu:
+  colleges:
+    1-2809620761:
+      name: GOVERMENT POLYTECHNIC, DAMAN
+      address: VARKUND, MOTA FALIA, NANI DAMAN DAMAN
+      district: DAMAN
+      institution_type: Government
+      universities:
+      - State Board of Technical Examinations Gujarat, Gandhinagar
+    1-2809811023:
+      name: GOVERNMENT POLYTECHNIC, DIU
+      address: TECHNICAL TRAINING INSTITUTE CAMPUS, FORT ROAD, DIU
+      district: DIU
+      institution_type: Govt Aided
+      universities:
+      - State Board of Technical Examinations Gujarat, Gandhinagar
+  updated_at: '2016-09-03T18:49:59+05:30'
+  md5: !binary |-
+    QiUL1fOIVKv4CHyZGGn3ag==

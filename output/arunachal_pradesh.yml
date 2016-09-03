@@ -1,0 +1,64 @@
+---
+Arunachal Pradesh:
+  colleges:
+    1-2451410609:
+      name: GOVERNMENT POLYTECHNIC ROING
+      address: PO ROING
+      district: DIBANG VALLEY
+      institution_type: Government
+      universities:
+      - Arunachal Pradesh State Council for Technical Education, Itanagar
+    1-2451410622:
+      name: GOVERNMENT POLYTECHNIC DIRANG
+      address: PO DIRANG WEST KAMENG
+      district: WEST KAMENG
+      institution_type: Government
+      universities:
+      - Arunachal Pradesh State Council for Technical Education, Itanagar
+    1-2811901610:
+      name: TOMI POLYTECHNIC COLLEGE
+      address: PO:BASAR PS:BASAR DIST:WESTSIANG STATE:ARUNACHAL PRADESH PIN:791101
+      district: WEST SIANG
+      institution_type: Unaided - Private
+      universities:
+      - Arunachal Pradesh State Council for Technical Education, Itanagar
+    1-2812175538:
+      name: RAJIV GANDHI GOVT POLYTECHNIC
+      address: BEHIND DNGC VIVEK VIHAR
+      district: PAPUM PARE
+      institution_type: Government
+      universities:
+      - Directorate of Higher and Technical Education, Itanagar
+    1-2846484581:
+      name: GOVERNMENT POLYTECHNIC LAYING
+      address: LAYING
+      district: LOWER SUBANSIRI
+      institution_type: Government
+      universities:
+      - Arunachal Pradesh State Council for Technical Education, Itanagar
+    1-2846484776:
+      name: GOVERNMENT POLYTECHNIC PASIGHAT
+      address: PO. PASIGHAT
+      district: EAST SIANG
+      institution_type: Government
+      universities:
+      - Arunachal Pradesh State Council for Technical Education, Itanagar
+    1-2847781931:
+      name: GOVT POLYTECHNIC NAMSAI
+      address: VILL JOIPUR, P.O. NAMSAI
+      district: LOHIT
+      institution_type: Government
+      universities:
+      - Arunachal Pradesh State Council for Technical Education, Itanagar
+    1-2860280821:
+      name: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, RAJIV GANDHI UNIVERSITY,
+        ITANAGAR
+      address: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, RAJIV GANDHI UNIVERSITY,
+        RONO HILLS, DOIMUKH, ITANAGAR
+      district: PAPUM PARE
+      institution_type: Central University
+      universities:
+      - Rajiv Gandhi University, Itanagar
+  updated_at: '2016-09-03T18:49:34+05:30'
+  md5: !binary |-
+    z8RgTkbA//Ng0vV3PDx/lA==

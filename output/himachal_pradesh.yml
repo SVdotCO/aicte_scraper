@@ -1,0 +1,544 @@
+---
+Himachal Pradesh:
+  colleges:
+    1-2455706678:
+      name: GOVT. PG COLLEGE UNA (HP)
+      address: GOVT. PG COLLEGE UNA (HP)-174303
+      district: UNA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2495469681:
+      name: PRABHUDYAL MEMORIAL POLYTECHNIC
+      address: V.P.O. BIJNI
+      district: MANDI
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+      - Himachal Pradesh Technical Education Board
+    1-2813558823:
+      name: SIRDA INSTITUTE OF ENGINEERING TECHNOLOGY
+      address: VILLAGE-TAROT, POST OFFICE-KANAID, TEHSIL- SUNDERNAGAR, DISTRICT- MANDI,
+        HIMACHAL PRADESH
+      district: MANDI
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+      - Himachal Pradesh University, Shimla
+    1-2813571044:
+      name: MIT COLLEGE OF ENGINEERING & MANAAGEMENT
+      address: 'VILLAGE : GANOH RAJPUTAN, PO: BANI, TEHSIL BARSAR, DISTT HAMIRPUR
+        -174304'
+      district: HAMIRPUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813573387:
+      name: HIMACHAL INSTITUTE OF ENGINERING AND TECHNOLOGY
+      address: HIET, SHAHPUR(AT VIDYANAGAR), DISTT. KANGRA(HP)
+      district: KANGRA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813579489:
+      name: GOVERENMENT POLYTECHNIC KANGRA
+      address: GOVT. POLYTECHNIC KANGRA, DISTT. KANGRA, (H.P.)
+      district: KANGRA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813609292:
+      name: HIMALAYAN INSTITUTE OF MANAGEMENT
+      address: SADHORA ROAD, KALA-AMB, DISTT. SIRMOUR (H.P)
+      district: SIRMAUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813615512:
+      name: AIT POLYTECHNIC
+      address: WARD NO 9, NEAR GOVT. ITI NALAGARH
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813625884:
+      name: IITT COLLEGE OF ENGINEERING KALA AMB
+      address: TRILOKPUR ROAD, KALA AMB, DISTT SIRMOUR HIMACHAL PRADESH
+      district: SIRMAUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh University, Shimla
+    1-2813644222:
+      name: DEV BHUMY POLYTECHNIC
+      address: VILLAGE - CHANDPUR, DISTT - UNA HIMACHAL PRADESH
+      district: UNA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813648282:
+      name: DREAMZ COLLEGE OF PHARMACY
+      address: VILLAGE KHILRA POST OFFICE MERAMASIT
+      district: MANDI
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813657423:
+      name: K L B DA V GIRLS COLLEGE FOR TECHNOLOGY
+      address: KLBDAV GIRLS COLLEGE VPO BUNDLA TEH PALAMPUR DISTT KANGRA
+      district: KANGRA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh University, Shimla
+    1-2813667485:
+      name: GOVT. PG COLLEGE DHARAMSHALA
+      address: CIVIL LINES GOVT. COLLEGE DHARAMSHALA
+      district: KANGRA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813691233:
+      name: HIMACHAL INSTITUTE OF PHARMACY
+      address: RAMPUR GHAT ROAD, PAONTA SAHIB, DISTT SIRMOUR
+      district: SIRMAUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+      - Himachal Pradesh University, Shimla
+    1-2813695147:
+      name: SAI RAM COLLEGE OF POLYTECHNIC
+      address: VPO-TIPPER, TEHSIL- BARSAR, DISTT.-HAMIRPUR, HIMACHAL PRADESH-174312
+      district: HAMIRPUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813704335:
+      name: ABHILASHI COLLEGE OF PHARMACY
+      address: TANDA, P.O. BALT (NER CHOWK), TEH. SADAR, DISTT. MANDI H.P.
+      district: MANDI
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh University, Shimla
+    1-2813706495:
+      name: T.R. ABHILASHI MEMORIAL INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: TANDA, P.O. BALT (NER CHOWK) TEH. SADAR, DISTT. MANDI H.P.
+      district: MANDI
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+      - Himachal Pradesh University, Shimla
+    1-2813728255:
+      name: GREEN HILLS ENGINEERING COLLEGE
+      address: GREEN HILLS ENGINEERING COLLEGE VILL-GANDHIGRAM, P.O. BAHOLI, KUMARHATTI-NAHAN
+        ROAD, KUMARHATTI, DISTT. SOLAN (H.P.)-173229
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813734459:
+      name: K.C.POLYTECHNIC
+      address: PANDOGA UPARLA, TEH. & DISTT- UNA(H.P)
+      district: UNA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813739522:
+      name: SIRDA POLYTECHNIC
+      address: VILL. TAROT, P.O. - KANAID
+      district: MANDI
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813778374:
+      name: K.C.GROUP OF RESEARCH & PROFESSIONAL INSTITITUES PANDOGA
+      address: V.P.O PANDOGA UPARLA TEH & DIST. UNA, HIMACHAL PRADESH
+      district: UNA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813792607:
+      name: GOVERENMENT MILLENNIUM POLYTECHNIC
+      address: GOVERENMENT MILLENNIUM POLYTECHNIC, SAROL, CHAMBA
+      district: CHAMBA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813801650:
+      name: GOVT POLYTECHNIC BANIKHET
+      address: GP BANIKHET VPO BANIKHET TEH. DALHOUSIE DISTT. CHAMBA H.P.
+      district: CHAMBA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813819083:
+      name: MINERVA POLYTECHNIC INDORA (KANGRA) H.P.-176401
+      address: VILL. CHANGRARA, P/O. BHAPOO, TEHSIL. INDORA, DISTT. KANGRA, PIN CODE:-176401
+      district: KANGRA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813853505:
+      name: GREEN HILLS POLYTECHNIC
+      address: VILLAGE GANDHI GRAM POST OFFICE BAHOLI KUMARHATTI-- NAHAN ROAD TEH
+        & DISTT SOLAN HIMACHAL PRADESH
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813857971:
+      name: SAI RAM EDUCATION TRUST COLLEGE OF ENGINEERING TECHNOLOGY & PHARMACY (AN
+        INTEGRATED CAMPUS)
+      address: 'V.P.O. TIPPER, TEHSIL: BARSAR, DISTT: HAMIRPUR, PIN: 174312'
+      district: HAMIRPUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh University, Shimla
+    1-2813872957:
+      name: JAWAHARLAL NEHRU GOVERNMENT ENGINEERING COLLEGE
+      address: SUNDERNAGAR DISTT. MANDI HIMACHAL PRADESH -174401
+      district: MANDI
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813888075:
+      name: KLBDAV GIRLS COLLEGE FOR MANAGEMENT
+      address: KLBDAV GIRLS COLLEGE FOR MANAGEMENT
+      district: KANGRA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813909444:
+      name: HIMACHAL INSTITUTE OF TECHNOLOGY
+      address: NEAR DENTAL COLLEGE, RAMPUR GHAT ROAD
+      district: SIRMAUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813911098:
+      name: SHIVA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: LUHNOO KANATAIN PO CHANDPUR TEH. BILASPUR DISTT BILASPUR (HP)-174004
+      district: BILASPUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+      - Himachal Pradesh Technical University, Hamirpur
+      - Himachal Pradesh University, Shimla
+    1-2813920395:
+      name: HIMALAYAN INSTITUTE OF COMPUTER SCIENCES
+      address: SADHORA ROAD, KALA-AMB, DISTT. SIRMOUR (H.P)
+      district: SIRMAUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh University, Shimla
+    1-2813942365:
+      name: HIMACHAL INSTITUTE OF PHARMACEUTICAL EDUCATION & RESEARCH
+      address: HIMACHAL INSTITUTE OF PHARMACEUTICAL EDUCATION & RESEARCH, (HIPER),
+        V.P.O.NADAUN, TEHSIL- NADAUN, DISTT. HAMIRPUR, (H.P.)-177033
+      district: HAMIRPUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2813945288:
+      name: GOVT. POLYECHNIC BILASPUR AT GOVT. POLYTECHNIC HAMIRPUR
+      address: VPO KALOL TEHSIL JHANDUTA DISTT. BILASPUR HP AT GOVT. POLYTECHNIC HAMIRPUR
+        PO MOHIN HAMIRPUR HP-177001
+      district: BILASPUR
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813953300:
+      name: DR. B.R. AMBEDKAR GOVT. POLYTECHNIC
+      address: AMBOTA, DISTT. UNA (HP) PIN 177205
+      district: UNA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2813979630:
+      name: DEV BHUMY INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: VILLAGE -CHANDPUR, NEAR - LALEHARI, TEHSIL - HAROLI, DISTT - UNA -
+        177020
+      district: UNA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814060470:
+      name: GOVT. POLYTECHNIC, LAHAUL & SPITI AT J.N.G.E.C, SNR (H.P.)
+      address: UDAYPUR, DISTT. LAHAUL & SPITI (H.P.)
+      district: LAHAUL AND SPITI
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814060549:
+      name: GOVT.POLYTECHNIC KULLU
+      address: DISTT. KULLU SEOBAG
+      district: KULU
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814089943:
+      name: GOVT. POLYTECHNIC PAONTA SAHIB AT DR. B. AMBEDKAR, GOVT. POLYTECHNIC AMBOTA
+      address: VILL.- DHUNDHLO P.O. - DHAULA KUAN TEH. - PONTA SAHIB, DISTT. - SIRMOUR,
+        (H.P.) - 173031
+      district: SIRMAUR
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814127051:
+      name: SCHOOL OF PHARMACY AND EMERGING SCIENCES
+      address: VILLAGE MAKHNUMAJRA, P.O.BHUD BADDI, DISTT. SOLAN(H.P) TEHSIL NALAGARH
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities:
+      - Baddi University of Energing Science & Technology, Makhnimajra, BADDI, Distt.Solan,
+        Himachal Pradesh
+    1-2814148510:
+      name: KC INSTITUTE OF PHARMACEUTICAL SCIENCES
+      address: VPO PANDOGA UPARLA
+      district: UNA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814185602:
+      name: SHIVALIK POLYTECHNIC
+      address: SHIVALIK POLYTECHNIC BADHERA TEHSIL HAROLI DISTT. UNA HP
+      district: UNA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814193251:
+      name: L. R. INSTITUTE OF PHARMACY
+      address: VILLAGE JABLI-KYAR P.O. OCHGHAT RAJGARH ROAD SOLAN- 173223 (H.P.)
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814200201:
+      name: HIMALAYAN INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: SADHORA ROAD, KALA-AMB, TEH. NAHAN, DISTT SIRMOUR, HIMACHAL PARDESH.
+      district: SIRMAUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814215886:
+      name: HIMALAYAN INSTITUTE OF PHARMACY
+      address: NEAR SUKETI FOSSIL PARK ROAD, KALA-AMB, DISTT. SIRMOUR (HP)
+      district: SIRMAUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+      - Himachal Pradesh Technical University, Hamirpur
+      - Himachal Pradesh University, Shimla
+    1-2814217090:
+      name: HIMALAYAN POLYTECHNIC
+      address: NEAR SUKETI FOSSIL PARK ROAD, KALA-AMB, DISTT. SIRMOUR (H.P)
+      district: SIRMAUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814222174:
+      name: GOVT. POLYTECHNIC KINNAUR (AT GOVT. POLYTECHNIC ROHRU AS MENTOR INSTITUTE)
+      address: KALPA KINNAUR
+      district: KINNAUR
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814223501:
+      name: GOVT. POLYTECHNIC FOR WOMEN, KANDAGHAT
+      address: GOVT. POLYTECHNIC FOR WOMEN, KANDAGHAT
+      district: SOLAN
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814224929:
+      name: SCHOOL OF PHARMACY
+      address: VILL- BAJHOL PO. SULTANPUR, VIA- KUMARHATTI, DISTT- SOLAN HP 173229
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities:
+      - Shoolini University, Solan
+      - Himachal Pradesh University, Shimla
+    1-2814234490:
+      name: DDM COLLEGE OF PHARMACY
+      address: GONDPUR BANEHRA UPPER TEH AMB DISTT UNA (H.P)
+      district: UNA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814269707:
+      name: GOVT. POLYTECHNIC ROHRU
+      address: POST OFFICE ROHRU, DISTT. SHIMLA H.P.
+      district: SHIMLA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814275491:
+      name: SAI SCHOOL OF ENGINEERINGA & TECHNOLOGY
+      address: VPO. SUNGAL, TEH. PALAMPUR DISTT. KANGRA
+      district: KANGRA
+      institution_type: Unaided - Private
+      universities:
+      - Sri Sai University, Palampur
+      - Sri Sai University, Palampur, Palampur
+    1-2814288211:
+      name: GOVT. POLYTECHNIC SUNDERNAGAR
+      address: DISTT. MANDI
+      district: MANDI
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814301658:
+      name: VAISHNO COLLEGE OF ENGINEERING
+      address: VILLAGE - THAPKOUR, POST OFFICE - BHADROYA, TEHSIL NURPUR, DISTT. KANGRA,
+        H.P
+      district: KANGRA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+      - Himachal Pradesh Technical University, Hamirpur
+      - Himachal Pradesh University, Shimla
+    1-2814305166:
+      name: PT.GAURI SHANKER MEMORIAL POLYTECHNIC
+      address: DEVNAGER P.O. BAKHALAG TEHSIL ARKI DISTT. SOLAN (H.P.) 173208
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814305913:
+      name: GAUTAM INSTITUTE OF MANAGEMENT & TECHNOLOGY
+      address: WARD NO. 10 NEAR BUS STAND HAMIRPUR (H.P.)
+      district: HAMIRPUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814313985:
+      name: MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY
+      address: ATAL SHIKSHA KUNJ ATAL NAGAR VILLAGE KALUJHANDA, NEAR BROTIWALA, BADDI
+        DISTT. SOLAN, PIN CODE 174103 (H.P)
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities: []
+    1-2814316777:
+      name: GOVT. COLLEGE OF PHARMACY, ROHRU
+      address: 'GOVT. COLLEGE OF PHARMACY, ROHRU, DISTT. SHIMLA. HIMACHAL PRADESH
+        PIN: 171207'
+      district: SHIMLA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814329207:
+      name: ATAL BIHARI VAJPAYEE GOVERNMENT INSTITUTE OF ENGINEERING & TECHNOLOGY
+        (DIPLOMA PROGRAMME)
+      address: PRAGATINAGAR
+      district: SHIMLA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814335475:
+      name: HP INSTITUTE OF MANAGEMENT STUDIES
+      address: MAUJA MAJETH AIRPORT ROAD TOTU SHIMLA
+      district: SHIMLA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh University, Shimla
+    1-2814345611:
+      name: LAUREATE INSTITUTE OF PHARMACY
+      address: VPO KATHOG, TEH. DEHRA, DISTT. KANGRA, H.P.
+      district: KANGRA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814353346:
+      name: NATRAJ POLYTECHNIC
+      address: VILL. SAITHAL P.O. RAJWARI NEAR HATESHWARI TEMPLE SUNDER NAGAR DISTT.
+        MANDI
+      district: MANDI
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814357280:
+      name: VINAYAKA COLLEGE OF PHARMACY
+      address: VILL. BAHOGUNA P. O. GARSA DISTT. KULLU (H.P.) PIN-175141
+      district: KULU
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+      - Himachal Pradesh University, Shimla
+    1-2814361209:
+      name: BELLS INSTITUTE OF MANAGEMENT & TECHNOLOGY GROUP OF INSTITUTIONS
+      address: KNOWLEDGE CITY, MEHLI, SHIMLA-09
+      district: SHIMLA
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+      - Himachal Pradesh Technical University, Hamirpur
+      - Himachal Pradesh University, Shimla
+    1-2814381229:
+      name: ATAL BIHARI VAJPAYEE GOVT. INSTITUTE OF ENGINEERING & TECHNOLOGY ( DEGREE
+        PROGRAMME)
+      address: ATAL BIHARI VAJPAYEE GOVT. INSTITUTE OF ENGINEERING & TECHNOLOGY (
+        DEGREE PROGRAMME), PRAGATINAGAR
+      district: SHIMLA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814381517:
+      name: UNIVERSITY INSTITUTE OF INFORMATION TECHNOLOGY
+      address: NETAJI SUBHASH BUILDING HIMACHAL PRADESH UNIVERSITY SHIMLA
+      district: SHIMLA
+      institution_type: University Managed-Govt
+      universities:
+      - Himachal Pradesh University, Shimla
+    1-2814381796:
+      name: DREAMZ POLYTECHNIC
+      address: VILLAGE KHILRA, P.O. MERAMASIT TEHSIL SUNDERNAGAR DISTT.MANDI (HP)-175036
+      district: MANDI
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814384902:
+      name: SHIVA INSTITUTE OF B PHARMACY
+      address: VILL.LUHANOO KANETAIN P.O.CHANDPUR TEHSIL SADAR DISTT.BILASPUR H.P.-174004
+      district: BILASPUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2814424416:
+      name: GOVERNMENT POLYTECHNIC TALWAR
+      address: VILL. TALWAR P.O TALWAR TEH. JAISINGHPUR DISTT. KANGRA
+      district: KANGRA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814463547:
+      name: GOVT. POLYTECHNIC HAMIRPUR
+      address: POST OFFICE MOHIN, TEH & DISTT. HAMIRPUR (HP)-177030
+      district: HAMIRPUR
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Takniki Shiksha Board, Dharamshala
+    1-2814466214:
+      name: DEVASAY POLYTECHNIC HAMIRPUR
+      address: CO/ DEV RAJ SURESH KUMAR WARD NO - 05, NEAR CIVIL HOSPITAL, HAMIRPUR,
+        H.P.
+      district: HAMIRPUR
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical Education Board
+    1-2816417778:
+      name: HIMACHAL PHARMACY COLLEGE
+      address: VILL:- MAJHAULI - MAGANPURA NALAGARH DISTT:- SOLAN HIMACHAL PRADESH
+      district: SOLAN
+      institution_type: Unaided - Private
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+    1-2847968671:
+      name: RAJIV GANDHI GOVT. ENGG. COLLEGE KANGRA AT NAGROTA KANGRA
+      address: RAJIV GANDHI GOVT. ENGG. COLLEGE KANGRA VILLAGE - MASSAL, TEHSIL NAGROTA
+        BAGWAN
+      district: KANGRA
+      institution_type: Government
+      universities:
+      - Himachal Pradesh Technical University, Hamirpur
+  updated_at: '2016-09-03T18:59:23+05:30'
+  md5: !binary |-
+    fdVhC3VsCfQTZwRnowTNnQ==

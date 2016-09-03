@@ -1,0 +1,91 @@
+---
+Tripura:
+  colleges:
+    1-2811689527:
+      name: REGIONAL INSTITUTE OF PHARMACEUTICAL SCIENCE AND TECHNOLOGY
+      address: P/O ABHOYNAGAR, AGARTALA, WEST TRIPURA, PIN 799005
+      district: WEST TRIPURA
+      institution_type: Government
+      universities:
+      - Tripura University, Agartala
+    1-2811696229:
+      name: GOMATI DISTRICT POLYTECHNIC
+      address: 'P.O: R. K. PUR, UDAIPUR, FULKUMARI, GOMATI DISTRICT TRIPURA.'
+      district: SOUTH TRIPURA
+      institution_type: Government
+      universities:
+      - Tripura University, Agartala
+    1-2811709314:
+      name: TECHNO INDIA AGARTALA
+      address: 'MAHESHKHOLA, PO:ANANDANAGAR, PS: AMTALI'
+      district: WEST TRIPURA
+      institution_type: Unaided - Private
+      universities:
+      - Tripura University, Agartala
+    1-2811738545:
+      name: WOMEN'S POLYTECHNIC
+      address: P.O:- AMTALI, VIA SEKERKOTE, WEST TRIPURA, INDIA, PIN- 799130
+      district: WEST TRIPURA
+      institution_type: Government
+      universities:
+      - Tripura University, Agartala
+    1-2811866640:
+      name: TRIPURA INSTITUTE OF TECHNOLOGY
+      address: TRIPURA INSTITUTE OF TECHNOLOGY, PO NARSINGATH AERODROME
+      district: WEST TRIPURA
+      institution_type: Government
+      universities:
+      - Tripura University, Agartala
+    1-2811935844:
+      name: TRIPURA UNIVERSITY
+      address: SURYAMANINAGAR
+      district: WEST TRIPURA
+      institution_type: Central University
+      universities:
+      - Tripura University, Agartala
+    1-2811988622:
+      name: DHALAI DISTRICT POLYTECHNIC
+      address: AMBASSA, DHALAI, TRIPURA:-799289
+      district: DHALAI
+      institution_type: Government
+      universities:
+      - Tripura University, Agartala
+    1-2812031959:
+      name: TRIPURA UNIVERSITY
+      address: SURYAMANINAGAR
+      district: WEST TRIPURA
+      institution_type: Central University
+      universities:
+      - Tripura University, Agartala
+    1-2812032053:
+      name: TRIPURA UNIVERSITY
+      address: SURYAMANINAGAR
+      district: WEST TRIPURA
+      institution_type: Central University
+      universities:
+      - Tripura University, Agartala
+    1-2812193325:
+      name: NORTH TRIPURA DISTRICT POLYTECHNIC
+      address: P.O:BAGBASSA, DHARMANAGAR, NORTH TRIPURA, 799253
+      district: NORTH TRIPURA
+      institution_type: Government
+      universities:
+      - Directorate of Higher & Technical Education, Tripura
+    1-2816271750:
+      name: TRIPURA INSTITUTE OF TECHNOLOGY (ERSTWHILE POLYTECHNIC INSTITUTE)
+      address: 'PO: AGARTALA AERODROME, NARSINGARH, AGARTALA, TRIPURA (WEST), TRIPURA
+        799009'
+      district: WEST TRIPURA
+      institution_type: Government
+      universities:
+      - Tripura University, Agartala
+    1-2846173691:
+      name: TTAADC POLYTECHNIC INSTITUTE
+      address: BESIDE TSR CAMP, P.O.:RADHAPUR, KHUMULWNG, TTAADC HQ. COMPLEX
+      district: WEST TRIPURA
+      institution_type: Government
+      universities:
+      - Tripura University, Agartala
+  updated_at: '2016-09-03T19:32:01+05:30'
+  md5: !binary |-
+    c/ylbWTWUKORFJdEXUKGgg==

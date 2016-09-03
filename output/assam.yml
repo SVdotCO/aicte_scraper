@@ -1,0 +1,340 @@
+---
+Assam:
+  colleges:
+    1-1506650723:
+      name: DEPARTMENT OF PETROLEUM TECHNOLOGY
+      address: DI BRUGARH UNIVERSITY RAJABHETA
+      district: DIBRUGARH
+      institution_type: University Managed-Govt
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2811529156:
+      name: DR. BHUPEN HAZARIKA REGIONAL GOVERNMENT FILM AND TELEVISION INSTITUTE
+      address: KAHILIPARA
+      district: KAMRUP
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2811529557:
+      name: CENTRE FOR COMPUTER STUDIES
+      address: DIBRUGARH UNIVERSITY, DIBRUGARH-786004 ASSAM
+      district: DIBRUGARH
+      institution_type: University Managed-Govt
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2811531788:
+      name: CENTRAL INSTITUTE OF TECHNOLOGY
+      address: BALAGAON, BODOLAND TERRITORIAL COUNCIL, KOKRAJHAR, ASSAM-783370
+      district: KOKRAJHAR
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2811542423:
+      name: PADMASHREE CHANDRAPRAVA SAIKIANI GIRLS' POLYTECHNIC
+      address: BAMUNIMAIDAN GUWAHATI-21 KAMRUP ASSAM
+      district: KAMRUP
+      institution_type: Government
+      universities:
+      - Direcorate of Technical Education, Assam
+      - Directorate of Technical Education, Guwahati
+    1-2811545614:
+      name: DIBRUGARH POLYTECHNIC
+      address: LAHOWAL DIBRUGARH
+      district: DIBRUGARH
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2811559033:
+      name: KU SCHOOL OF ENGINEERING TECHNOLOGY AND MANAGEMENT
+      address: KORAIKHOWA GAON; NH-37; MOUZA-PARBATIA; DIST-JORHAT
+      district: JORHAT
+      institution_type: Unaided - Private
+      universities:
+      - Assam Kaziranga University, Jorhat, Assam
+    1-2811569783:
+      name: BODOLAND UNIVERSITY
+      address: 'RANGALIKHATA, PO:- DEBARGAON DIST: KOKRAJHAR'
+      district: KOKRAJHAR
+      institution_type: Government
+      universities:
+      - Gauhati University, Guwahati
+    1-2811580988:
+      name: TRIGUNA SEN SCHOOL OF TECHNOLOGY
+      address: ASSAM UNIVERSITY (CENTRAL UNIVERSITY), SILCHAR
+      district: CACHAR
+      institution_type: Central University
+      universities:
+      - Assam University, Silchar
+    1-2811585426:
+      name: JORHAT INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: 'SATAI, CHENIAMGURI P.O: CHENIJAN JORHAT'
+      district: JORHAT
+      institution_type: Government
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2811589474:
+      name: CENTRAL INSTITUTE OF TECHNOLOGY
+      address: BALAGAON BODOLAND TERRITORIAL COUNCIL KOKRAJHAR, ASSAM 783370
+      district: KOKRAJHAR
+      institution_type: Government
+      universities:
+      - Gauhati University, Guwahati
+    1-2811591908:
+      name: TECHNOLOGY CAMPUS TEZPUR UNIVERSITY
+      address: NAPAM TEZPUR-784028 DISTRICT:SONITPUR ASSAM, INDIA
+      district: SONITPUR
+      institution_type: Government
+      universities:
+      - Tezpur University, Tezpur
+    1-2811603202:
+      name: BINESWAR BRAHMA ENGINEERING |COLLEGE
+      address: CHANDRAPARA
+      district: KOKRAJHAR
+      institution_type: Government
+      universities:
+      - Gauhati University, Guwahati
+    1-2811626768:
+      name: ASSAM TEXTILE INSTITUTE
+      address: GNB ROAD. AMBARI.
+      district: KAMRUP METROPOLITAN
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2811629830:
+      name: GAUHATI UNIVERSITY INSTITUTE OF SCIENCE AND TECHNOLOGY
+      address: INSTITUTE OF SCIENCE AND TECHNOLOGY, GAUHATI UNIVERSITY, GUWAHATI-781014,
+        ASSAM
+      district: KAMRUP
+      institution_type: Govt Aided
+      universities:
+      - Gauhati University, Guwahati
+    1-2811631032:
+      name: DEPARTMENT OF PHARMACEUTICAL SCIENCES, DIBRUGARH UNIVERSITY
+      address: DEPARTMENT OF PHARMACEUTICAL SCIENCES, DIBRUGARH UNIVERSITY, DIBRUGARH-786004,
+        ASSAM
+      district: DIBRUGARH
+      institution_type: University Managed-Govt
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2811631951:
+      name: TEZPUR UNIVERSITY
+      address: 'NAPAAM TEZPUR - 784 028 DISTRICT : SONITPUR ASSAM, INDIA'
+      district: SONITPUR
+      institution_type: Government
+      universities:
+      - Tezpur University, Tezpur
+    1-2811632401:
+      name: GIRIJANANDA CHOWDHURY INSTITUTE OF PHARMACEUTICAL SCIENCE
+      address: GIRIJANANDA CHOWDHURY INSTITUTE OF PHARMACEUTICAL SCIENCE AZARA, HATHKHOWAPARA,
+        NH37 GUWAHATI, ASSAM. PIN:781017
+      district: KAMRUP
+      institution_type: Unaided - Private
+      universities:
+      - Gauhati University, Guwahati
+    1-2811652935:
+      name: GIRIJANANDA CHOWDHURY INSTITUTE OF MANAGEMENT AND TECHNOLOGY (GIMT), TEZPUR
+      address: 'VILL : DEKACHUBURI AND KUNDABOURI MOUZA : HALLESWAR P.O.: TEZPUR DIST
+        : SONITPUR STATE : ASSAM PIN : 784001'
+      district: SONITPUR
+      institution_type: Unaided - Private
+      universities:
+      - Gauhati University, Guwahati
+    1-2811658226:
+      name: CENTRAL INSTITUTE OF PLASTICS ENGINEERING & TECHNOLOGY
+      address: DEPT. OF CHEMICALS & PETROCHEMICALS, MINISTRY OF CHEMICALS & FERTILIZERS
+        GOVT. OF INDIA PO-CHANGSARI
+      district: KAMRUP
+      institution_type: Government
+      universities: []
+    1-2811691601:
+      name: NERIM (NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT) GUWAHATI
+      address: PARUKUTTY BHAWAN, NABIN NAGAR, R.G.BARUAH ROAD, GUWAHATI
+      district: KAMRUP METROPOLITAN
+      institution_type: Unaided - Private
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2811701237:
+      name: DIBRUGARH UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: DIBRUGARH UNIVERSITY CAMPUS
+      district: DIBRUGARH
+      institution_type: University Managed-Govt
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2811702154:
+      name: ASSAM ENGINEERING INSTITUTE
+      address: M.D. ROAD, CHANDMARI, GUWAHATI, ASSAM -781003
+      district: KAMRUP
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2811741779:
+      name: RESIDENTIAL GIRLS' POLYTECHNIC
+      address: PULIBOR
+      district: GOLAGHAT
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2811749497:
+      name: INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY GUWAHATI
+      address: NH-37, JAWAHAR NAGAR, KHANAPARA, GUWAHATI-781022
+      district: KAMRUP METROPOLITAN
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2811749654:
+      name: SILCHAR POLYTECHNIC
+      address: P.O.- MEHERPUR
+      district: CACHAR
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2811769849:
+      name: GCC CENTRE OF MANAGEMENT STUDIES
+      address: GAUHATI COMMERCE COLLEGE, R.G. BARUAH ROAD
+      district: KAMRUP METROPOLITAN
+      institution_type: Government
+      universities:
+      - Gauhati University, Guwahati
+    1-2811795723:
+      name: NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT(NERIM)
+      address: PADMA NATH SARMAH BHAWAN JOYANAGAR, KHANAPARA
+      district: KAMRUP METROPOLITAN
+      institution_type: Unaided - Private
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2811802423:
+      name: ASSAM INSTITUTE OF MANAGEMENT
+      address: VIGYAN PATH, PACHIM BORAGAON, GUWAHATI. PIN-781035
+      district: KAMRUP METROPOLITAN
+      institution_type: Government
+      universities:
+      - Department of Technical Education
+    1-2811805119:
+      name: JORHAT ENGINEERING COLLEGE
+      address: GARMUR JOORHAT
+      district: JORHAT
+      institution_type: Government
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2811820055:
+      name: GYAN SAGAR FOUNDATION GROUP OF INSTITUTIONS
+      address: BETKUCHI, OPP. TIRUPATI BALAJI TEMPLE, NH 37, GUWAHATI 781035
+      district: KAMRUP METROPOLITAN
+      institution_type: Unaided - Private
+      universities:
+      - Gauhati University, Guwahati
+    1-2811859015:
+      name: ASSAM ENGINEERING COLLEGE
+      address: P.O.:- JALUKBARI DIST:- KAMRUP(METRO) ASSAM
+      district: KAMRUP METROPOLITAN
+      institution_type: Government
+      universities:
+      - Gauhati University, Guwahati
+    1-2811913559:
+      name: CENTRAL INSTITUTE OF TECHNOLOGY
+      address: BALAGAON, BODOLAND TERRITORIAL COUNCIL, KOKRAJHAR, ASSAM-783370
+      district: KOKRAJHAR
+      institution_type: Government
+      universities:
+      - Gauhati University, Guwahati
+    1-2811928778:
+      name: NETES INSTITUTE OF TECHNOLOGY & SCIENCE MIRZA
+      address: MIRZA MIRZA 781125 DISTRICT KAMRUP ASSAM
+      district: KAMRUP
+      institution_type: Unaided - Private
+      universities:
+      - Gauhati University, Guwahati
+    1-2811938409:
+      name: GIRIJANANDA CHOWDHURY INSTITUTE OF MANAGEMENT AND TECHNOLOGY
+      address: HATKHOWAPARA, AZARA, GUWAHATI-781017
+      district: KAMRUP METROPOLITAN
+      institution_type: Unaided - Private
+      universities:
+      - Gauhati University, Guwahati
+      - Assam Science and Technology University, Guwahati
+    1-2811977672:
+      name: SCHOLAR'S INSTITUTE OF TECHNOLOGY & MANAGEMENT
+      address: 'VILL GOG, PO: GARCHUK'
+      district: KAMRUP
+      institution_type: Unaided - Private
+      universities:
+      - Gauhati University, Guwahati
+    1-2812006500:
+      name: NOWGONG POLYTECHNIC
+      address: POLY ROAD, PANIGAON, NAGAON
+      district: NAGAON
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2812047406:
+      name: DOWN TOWN GROUP OF INSTITUTIONS
+      address: SANKAR MADHAB PATH, GANDHINAGAR, PANIKHAITI
+      district: KAMRUP
+      institution_type: Unaided - Private
+      universities: []
+    1-2812047939:
+      name: DON BOSCO COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: AIRPORT ROAD, AZARA GUWAHATI 781017
+      district: KAMRUP
+      institution_type: University Managed-Private
+      universities:
+      - Assam Don Bosco University, Azara, Guwahati
+    1-2812084073:
+      name: NORTH EAST INSTITUTE OF MANAGEMENT SCIENCE(NEIMS)
+      address: OPP. GATE. NO.1, RRL, JORHAT-6, ASSAM
+      district: JORHAT
+      institution_type: Unaided - Private
+      universities:
+      - Dibrugarh University, Dibrugarh
+    1-2812178168:
+      name: BODOLAND UNIVERSITY
+      address: DEBARGAON KOKRAJHAR ASSAM PIN 783370
+      district: KOKRAJHAR
+      institution_type: Government
+      universities:
+      - Gauhati University, Guwahati
+    1-2812183435:
+      name: DON BOSCO INSTITUTE OF MANAGEMENT
+      address: JOYPUR, KHARGHULI
+      district: KAMRUP
+      institution_type: University Managed-Private
+      universities:
+      - Assam Don Bosco University, Azara, Guwahati
+    1-2816263004:
+      name: HRH THE PRINCE OF WALES INSTITUTE OF ENGG. & TECH.
+      address: GAR ALI, JORHAT
+      district: JORHAT
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2816271101:
+      name: BONGAIGAON POLYTECHNIC
+      address: BARSHAN GAON BONGAIGAON ASSAM
+      district: BONGAIGAON
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Guwahati
+    1-2857174951:
+      name: DIPHU POLYTECHNIC
+      address: DIPHU POLYTECHNIC, MENTILA
+      district: KARBI ANGLONG
+      institution_type: Government
+      universities:
+      - Direcorate of Technical Education, Assam
+    1-2871172176:
+      name: INSTITUTE OF PHARMACY, ASSAM MEDICAL COLLEGE, DIBRUGARH
+      address: INSTITUTE OF PHARMACY, ASSAM MEDICAL COLLEGE, DIBRUGARH- 786002
+      district: DIBRUGARH
+      institution_type: Government
+      universities:
+      - Direcorate of Technical Education, Assam
+    1-2874919101:
+      name: CENTRE FOR MANAGEMENT STUDIES
+      address: DIBRUGARH UNIVERSITY NH 37
+      district: DIBRUGARH
+      institution_type: University Managed-Govt
+      universities:
+      - Dibrugarh University, Dibrugarh
+  updated_at: '2016-09-03T18:47:32+05:30'
+  md5: !binary |-
+    sP0oIsSgLAen5bDlL+fQlw==

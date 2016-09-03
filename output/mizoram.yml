@@ -1,0 +1,35 @@
+---
+Mizoram:
+  colleges:
+    1-2519194063:
+      name: DOEACC SOCIETY, AIZAWL CENTRE
+      address: INDUSTRIAL ESTATE, ZUANGTUI
+      district: AIZAWL
+      institution_type: Government
+      universities:
+      - Mizoram State Council for Technical Education, Aizawl
+      - Mizoram University, Aizawl
+    1-2811532178:
+      name: MIZORAM POLYTECHNIC
+      address: LUNGLEI
+      district: LUNGLEI
+      institution_type: Government
+      universities:
+      - Mizoram State Council for Technical Education, Aizawl
+    1-2811541839:
+      name: WOMEN'S POLYTECHNIC, AIZAWL
+      address: DURTLANG, AIZAWL, MIZORAM
+      district: AIZAWL
+      institution_type: Government
+      universities:
+      - Department of Technical Education
+    1-2811672837:
+      name: REGIONAL INSTITUTE OF PARAMEDICAL & NURSING SCIENCES
+      address: ZEMABAWK, AIZAWL MIZORAM 796017
+      district: AIZAWL
+      institution_type: Government
+      universities:
+      - Mizoram University, Aizawl
+  updated_at: '2016-09-03T19:16:26+05:30'
+  md5: !binary |-
+    CmxRXh37WPYHaBGS/U72zA==

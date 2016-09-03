@@ -1,0 +1,372 @@
+---
+Jammu and Kashmir:
+  colleges:
+    1-2813529613:
+      name: MAHANT BACHITTAR SINGH COLLEGE OF ENGENEERING & TECHONOLOGY
+      address: JEVAN NAGAR BABLIANA
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2813588099:
+      name: GOVT. POLYTECHNIC FOR WOMEN
+      address: LOWER SHIV NAGAR NEAR AG'S OFFICE JAMMU
+      district: JAMMU
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2813691725:
+      name: GOVT. COLLEGE OF ENGINEERING & TECHNOLOGY, JAMMU
+      address: CHAK BHALWAL, JAMMU
+      district: JAMMU
+      institution_type: Government
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2813766439:
+      name: ROYAL POLYTECHNIC COLLEGE TRUST
+      address: 55 GOGJIBAGH
+      district: SRINAGAR
+      institution_type: Unaided - Private
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2813769627:
+      name: NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY SRINAGAR/JAMMU
+      address: SIDCO ELECTRONICS COMPLEX OLD AIRPORT ROAD RANGRETH
+      district: SRINAGAR
+      institution_type: Government
+      universities:
+      - Kashmir University, Jammu and Kashmir
+    1-2813858171:
+      name: MODEL INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: KOT BHALWAL, JAMMU 181122 JAMMU AND KASHMIR
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2813886414:
+      name: ISLAMIC UNIVERSITY OF SCIENCE AND TECHNOLOGY
+      address: ONE UNIVERSITY AVENUE AWANTIPORA PULWAMA KASHMIR
+      district: PULWAMA
+      institution_type: Govt Aided
+      universities:
+      - Islamic University of Sciences and Technology University, Pulwama
+    1-2813931788:
+      name: GOVERNMENT POLYTECHNIC COLLEGE PULWAMA
+      address: ONE UNIVERSITY CAMPUS, IUST AWANTIPORA
+      district: PULWAMA
+      institution_type: Government
+      universities:
+      - Islamic University of Science & Technology, Pulwama
+    1-2813945396:
+      name: GOVT. POLYTECHNIC COLLEGE DODA
+      address: KELLANI DODA
+      district: DODA
+      institution_type: Government
+      universities:
+      - J&K State Board of Technical Education
+    1-2813947395:
+      name: ACHARYA SRI CHANDER TECHNICAL INSTITUTE
+      address: GHOU MANHASAN
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - J&K State Board of Technical Education
+    1-2813952011:
+      name: SSM COLLEGE OF ENGINEERING
+      address: DIVAR, PARIHASPORA, PATTAN, BARAMULLA KASHMIR 193121
+      district: BARAMULLA
+      institution_type: Unaided - Private
+      universities:
+      - University of Kashmir, Srinagar
+      - Kashmir University, Jammu and Kashmir
+    1-2813979521:
+      name: BHARGAVA COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: LANGATH
+      district: SAMBA
+      institution_type: Unaided - Private
+      universities:
+      - JAMMU UNIVERSITY
+    1-2814074876:
+      name: SSM POLYTECHNIC
+      address: PARIHASPORA, DIVER, PATTAN
+      district: BARAMULLA
+      institution_type: Unaided - Private
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814104536:
+      name: INSTITUTE OF ENGINEERING & COMPUTER SCIENCES
+      address: PURKHOO CAMP, DOMANA
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814112253:
+      name: SHRI MATA VAISHNO DEVI UNIVERSITY
+      address: SUB POST OFFICE, KATRA 182320, DIST.REASI, JAMMU AND KASHMIR
+      district: REASI
+      institution_type: Govt Aided
+      universities: []
+    1-2814148375:
+      name: GOVT. POLYTECHNIC COLLEGE, BUDGAM
+      address: NAGAM, CHADORA, BUDGAM
+      district: BADGAM
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814151009:
+      name: GOVERNMENT POLYTECHNIC COLLEGE POONCH
+      address: ITI HOSTEL NEAR POWER HOUSE HAVELI POONCH
+      district: POONCH
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814159388:
+      name: KATHUA CAMPUS, UNIVERSITY OF JAMMU
+      address: KALIBARI KATHUA JAMMU AND KASHMIR 184104
+      district: KATHUA
+      institution_type: Government
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2814176868:
+      name: MASTERPRO INSTITUTE OF TECHNOLOGY
+      address: NOWGAM BYPASS SRINAGAR JAMMU & KASHMIR, INDIA-190015
+      district: SRINAGAR
+      institution_type: Unaided - Private
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814177140:
+      name: GOVT. POLYTECHNIC COLLEGE REASI
+      address: DISTRICT INSTITUTION OF EDUCATION AND TRAINING COMPLEX REASI (MAKE
+        SHIFT ACCOMODATION)
+      district: REASI
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814179526:
+      name: GOVERNMENT POLYTECHNIC UDHAMPUR
+      address: GOVERNMENT POLYTECHNIC UDHAMPUR NEAR CMO OFFICE GOLE MARKET UDHAMPUR
+        J&K
+      district: UDHAMPUR
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814181953:
+      name: GOVT. POLYTECHNIC LEH
+      address: CHOGLAMSAR, NEAR SBI BANK
+      district: LEH
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814190529:
+      name: GOVT. POLYTECHNIC RAMBAN
+      address: OLD D.C. OFFICE COMPLEX NEAR GOVT. DISTT. HOSPITAL RAMBAN
+      district: RAMBAN
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814202296:
+      name: KITE POYTECHNIC
+      address: VAWOOSA, RANGRETH
+      district: BADGAM
+      institution_type: Unaided - Private
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814207803:
+      name: GOVT.POLYTECHNIC KATHUA
+      address: TEMPORARY ACCOMODATION GOVT POLYTECHNIC KATHUA C/O KARTAR EDUCATIONAL
+        TRUST BARNOTI
+      district: KATHUA
+      institution_type: Government
+      universities:
+      - J&K State Board of Technical Education
+    1-2814207886:
+      name: GOVT.POLYTECHNIC COLLEGE GANDERBAL
+      address: "(TEMPORARY CAMPUS) BEEHAMA, GANDERBAL KASHMIR"
+      district: GANDERBAL
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814214916:
+      name: GOVT. POLYTECHNIC, JAMMU
+      address: BIKRAM CHOWK, JAMMU
+      district: JAMMU
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814216468:
+      name: THE BUSINESS SCHOOL
+      address: THE BUSINESS SCHOOL, UNIVERSITY OF JAMMU, BABA SAHEB AMBEDKAR ROAD,
+        BAHU WALI RAKH, JAMMU
+      district: JAMMU
+      institution_type: University Managed-Govt
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2814233508:
+      name: GOVT. POLYTECHNIC COLLEGE KULGAM
+      address: NEAR NEW D.C COMPLEX, RAINAPURA SANGUS ROAD, KULGAM, KMR.
+      district: KULGAM
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814233769:
+      name: GOVERNMENT POLYTECHNIC COLLEGE ANANTNAG
+      address: LARKIPORA DOORU, ANANTNAG
+      district: ANANTNAG
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814238476:
+      name: GOVT. POLYTECHNIC COLLEGE SHOPIAN
+      address: ALIYAL PORA, SHOPIAN
+      district: SHOPIAN
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814242615:
+      name: GOVT POLYTECHNIC KISHTWAR
+      address: GOVT POLYTECHNIC KISHTWAR NEAR GURUDWARA, KOTWL MOHALLA, KISHTWAR (TEMPORARY
+        ACCOMODATION)
+      district: KISHTWAR
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814252146:
+      name: GOVERNMENT POLYTECHNIC SAMBA
+      address: TEMPORARY ACCOMODATION GOVT. POLYTECHNIC SAMBA VILLAGE BARA, NEAR DEVIKA
+        BRIDGE SAMBA
+      district: SAMBA
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814267596:
+      name: DEPARTMENT OF COMPUTER SC. & IT
+      address: DEPARTMENT OF COMPUTER SC. & IT, UNIVERITY OF JAMMU, BABA SAHEB AMBEDKAR
+        RAOD, JAMMU
+      district: JAMMU
+      institution_type: Government
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2814280346:
+      name: KALAMKARI CENTRE SOCIETY, VOCATION ORIENTED WOMEN'S POLYTECHNIC
+      address: OPP. JANIPUR POLICE, STATION, PALOURA, JAMMU
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814286345:
+      name: COLLEGE OF ENGINEERING & TECHNOLOGY, BGSB UNIVERSITY, RAJOURI, J&K
+      address: COLLEGE OF ENGINEERING & TECHNOLOGY BABA GHULAM SHAH BADSHAH UNIVERSITY
+        RAJOURI J&K
+      district: RAJAURI
+      institution_type: University Managed-Govt
+      universities: []
+    1-2814290463:
+      name: GOVERNMENT POLYTECHNIC KARGIL
+      address: KURBATHAN, KARGIL, LADAKH
+      district: KARGIL
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814308899:
+      name: GOVT. POLYTECHNIC COLLEGE BARAMULLA
+      address: NATIONAL HIGHWAY KANISPORA
+      district: BARAMULLA
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814324904:
+      name: IQBAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+      address: LALOO, SHESHGARIBAGH, HYDERPORA, SRINAGAR
+      district: SRINAGAR
+      institution_type: Unaided - Private
+      universities:
+      - Kashmir University, Jammu and Kashmir
+    1-2814333075:
+      name: KASHMIR GOVERNMENT POLYTECHNIC
+      address: GOGJIBAGH
+      district: SRINAGAR
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814352464:
+      name: GOVERNMENT POLYTECHNIC FOR WOMEN, SRINAGAR
+      address: BEMINA
+      district: SRINAGAR
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814358901:
+      name: NORTH POLYTECHNIC
+      address: PURKHOO CAMP, DOMANA
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814372299:
+      name: ISLAMIC UNIVERSITY OF SCIENCE AND TECHNOLOGY
+      address: ONE UNIVERSITY AVENUE
+      district: PULWAMA
+      institution_type: University Managed-Govt
+      universities:
+      - Islamic University of Sciences and Technology University, Pulwama
+    1-2814376788:
+      name: SCHOOL OF MANAGEMENT STUDIES
+      address: BABA GHULAM SHAH BADSHAH UNIVERSITY DHANORE (RAJOIRI)
+      district: RAJAURI
+      institution_type: University Managed-Govt
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814381392:
+      name: SCHOOL OF COMPUTER SCIENCES & INFORMATION TECHNOLOGY, BGSB UNIVERSITY,
+        RAJOURI, J&K
+      address: SCHOOL OF COMPUTER SCIENCES & INFORMATION TECHNOLOGY BABA GHULAM SHAH
+        BADSHAH UNIVERSITY RAJOURI J&K
+      district: RAJAURI
+      institution_type: University Managed-Govt
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814431903:
+      name: GOVERNMENT POLYTECHNIC COLLEGE KUPWARA
+      address: KUPWARA
+      district: KUPWARA
+      institution_type: Government
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2814438468:
+      name: PRIYADARSHNI INSTITUTE OF MANAGEMENT AND SCIENCE
+      address: BADHANI, PURKHOO LINK ROAD, KOT, JAMMU - 181122
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2816409731:
+      name: INSTITUTE OF MANAGEMENT SCIENCES
+      address: GURHA BRAHMANA (PATOLI), AKHNOOR ROAD, JAMMU (J&K)
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2816409935:
+      name: YOGANANDA COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: GURHA BRAHMANA (PATOLI), AKHNOOR ROAD, JAMMU (J&K)
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - Jammu University, Jammu Tawi
+    1-2816422340:
+      name: NITS POLYTECHNIC
+      address: INDIRA NAGAR, P.O MIRAN SAHIB TEHSIL R.S PURA JAMMU
+      district: JAMMU
+      institution_type: Unaided - Private
+      universities:
+      - JandK State Board of Technical Education, Srinagar
+    1-2857231461:
+      name: DEPARTMENT OF MANAGEMENT STUDIES
+      address: ISLAMIA COLLEGE OF SCIENCE AND COMMERCE, HAWAL
+      district: SRINAGAR
+      institution_type: Govt Aided
+      universities:
+      - University of Kashmir, Srinagar
+  updated_at: '2016-09-03T18:59:30+05:30'
+  md5: !binary |-
+    M2/mIKbMsddmbYVEGht/Dg==

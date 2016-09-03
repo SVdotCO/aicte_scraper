@@ -1,0 +1,49 @@
+---
+Meghalaya:
+  colleges:
+    1-2811574561:
+      name: JOWAI POLYTECHNIC
+      address: LADTHALABOH, NEAR KIANG NANGBAH GOVT COLLEGE
+      district: JAINTIA HILLS
+      institution_type: Government
+      universities:
+      - Meghalaya State Council for Technical Education, Shillong
+    1-2811700943:
+      name: SHILLONG POLYTECHNIC
+      address: MAWLAI KYNTON MASSAR, MAWLAI, SHILLONG, MEGHALAYA
+      district: EAST KHASI HILLS
+      institution_type: Government
+      universities:
+      - Meghalaya State Council for Technical Education, Shillong
+    1-2811749384:
+      name: ST. ANTHONYT'S COLLEGE, SHILLONG
+      address: BOMFYLE ROAD, SHILLONG 793001 MEGHALAYA
+      district: EAST KHASI HILLS
+      institution_type: Unaided - Private
+      universities:
+      - North Eastern Hill University, Shillong
+    1-2811872556:
+      name: SCHOOL OF BUSINESS SCIENCES
+      address: UNIVERSITY OF SCIENCE & TECHNOLOGY, TECHNO-CITY, KILLING ROAD, 9TH
+        MILE
+      district: RI BHOI
+      institution_type: Unaided - Private
+      universities:
+      - University of Science and Technology, Ri- Bhoi
+    1-2811898857:
+      name: REGIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY
+      address: BARIDUWA, RAID MARWET, KILLING ROAD, 9TH MILE, RI-BHOI, MEGHALAYA
+      district: RI BHOI
+      institution_type: Unaided - Private
+      universities:
+      - North Eastern Hill University, Shillong
+    1-2811944544:
+      name: TURA POLYTECHNIC
+      address: CHERANGRE, NR. TURA PUBLIC SCHOOL
+      district: WEST GARO HILLS
+      institution_type: Government
+      universities:
+      - Meghalaya State Council for Technical Education, Shillong
+  updated_at: '2016-09-03T19:16:25+05:30'
+  md5: !binary |-
+    iepcVmE1gKPvnLv+bnF/FQ==

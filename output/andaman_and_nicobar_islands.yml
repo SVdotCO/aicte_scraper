@@ -1,0 +1,35 @@
+---
+Andaman and Nicobar Islands:
+  colleges:
+    1-2811997238:
+      name: DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY
+      address: POLYTECHNIC ROAD PAHAR GAON PO JUNGLIGHAT
+      district: PORT BLAIR
+      institution_type: Government
+      universities:
+      - Maharashtra State Board of Technical Education, Mumbai
+      - Pondicherry University
+    1-2877581491:
+      name: MULTIDISCIPLINARY PROFESSIONAL COLLEGE
+      address: PHEONIX BAY STS BUILDING
+      district: PORT BLAIR
+      institution_type: Government
+      universities:
+      - Panjab University, Chandigarh
+    1-2884946641:
+      name: MULTIDISCIPLINARY PROFFESIONAL COLLEGE
+      address: PHEONIX BAY
+      district: PORT BLAIR
+      institution_type: Government
+      universities:
+      - Panjab University, Chandigarh
+    1-2885960311:
+      name: MULTI DISCIPLINARY PROFESSIONAL COLLEGE
+      address: PHEONIX BAY
+      district: PORT BLAIR
+      institution_type: Government
+      universities:
+      - Panjab University, Chandigarh
+  updated_at: '2016-09-03T18:49:34+05:30'
+  md5: !binary |-
+    ZQ9UwsrhC2e5tgCtscKPtw==

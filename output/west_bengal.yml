@@ -1,0 +1,2040 @@
+---
+West Bengal:
+  colleges:
+    1-2811474811:
+      name: HALDIA INSTITUTE OF TECHNOLOGY
+      address: ICARE COMPLEX; HIT CAMPUS
+      district: PURBA MEDINIPUR
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811522187:
+      name: KINGSTON POLYTECHNIC COLLEGE
+      address: BERUNANPUKURIA, MALIKAPUR
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811525566:
+      name: RAMAKRISHNA MISSION SHILPAPITHA
+      address: RAMKRISHNA MISSION ROAD.
+      district: NORTH 24 PARGANAS
+      institution_type: Govt Aided
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811529285:
+      name: SILIGURI INSTITUTE OF TECHNOLOGY(MCA)
+      address: HILL CART ROAD, SALBARI, SUKNA, SILIGURI, DARJEELING
+      district: DARJEELING
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811531641:
+      name: BENGAL INSTITUTE OF TECHNOLOGY
+      address: JAGIGRAM INDUSTRIAL COMPLEX P.O- KATWA DIST- BURDWAN WEST BENGAL
+      district: BARDHAMAN
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811537851:
+      name: INTERNATIONAL INSTITUTE OF HOTEL MAGEMENT
+      address: X-1, 8/3 BLOCK EP SALT LAKE ELECTRONICS COMPLEX SECTOR -V SALT LAKE
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811538410:
+      name: INSTITUTE OF PHARMACY, JALPAIGURI
+      address: HOSPITAL ROAD P.O. & DIST.- JALPAIGURI PIN-735101 WEST BENGAL
+      district: JALPAIGURI
+      institution_type: Government
+      universities:
+      - The West Bengal University of Health Sciences, Kolkata
+    1-2811541753:
+      name: SILIGURI INSTITUTE OF TECHNOLOGY(HMCT)
+      address: HILL CART ROAD, SUKNA, SILIGURI, DARJEELING
+      district: DARJEELING
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811546117:
+      name: VIDYASAGAR UNIVERSITY
+      address: P.O. - MIDNAPORE; DIST :- MIDNAPORE (W)
+      district: PASCHIM MEDINIPUR
+      institution_type: Government
+      universities:
+      - Vidya Sagar University, Midnapore
+    1-2811550600:
+      name: GURUNANAK INSTITUTE OF HOTEL MANAGEMENT
+      address: 157/F NILGUNJ ROAD
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811553766:
+      name: CALCUTTA INSTITUTE OF ENGINEERING AND MANAGEMENT
+      address: PRASANTA SUR CAMPUS, 24/1A CHANDI GHOSH ROAD
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811554393:
+      name: NIPS SCHOOL OF HOTEL MANAGEMENT
+      address: 297 MAHISBATHAN SECTOT V SALT LAKE
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811554522:
+      name: CENTRAL INSTITUTE OF PLASTICS ENGINEERING & TECHNOLOGY
+      address: CITY CENTRE, P.O- DEBHOG
+      district: PURBA MEDINIPUR
+      institution_type: Government
+      universities: []
+    1-2811558802:
+      name: GLOBSYN BUSINESS SCHOOL
+      address: NATIONAL CAMPUS, MOUZA-CHANDI, P.S.- BISHNUPUR, J.L. NO 101, ADSR-BISHNUPUR,
+        DIST-24 PARGANAS (S), WEST BENGAL
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities: []
+    1-2811559575:
+      name: RAIGANJ POLYTECHNIC
+      address: COLLEGE PARA, RAIGANJ, UTTAR DINAJPUR
+      district: UTTER DINAJPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811562117:
+      name: BARUIPUR GOVERNMENT POLYTECHNIC
+      address: 'P.O.: MALLICKPUR, P.S.: BARUIPUR, 24-PARGANAS (SOUTH) PIN.-700145'
+      district: SOUTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811562494:
+      name: THE CALCUTTA TECHNICAL SCHOOL
+      address: 110 S. N. BANERJEE ROAD
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811565696:
+      name: RAJENDRANATH COLLEGE OF POLYTECHNIC
+      address: VILL-GOPALPUR, PS-KANKSA
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811566250:
+      name: SREE RAMKRISHNA SILPA VIDYAPITH (GOVT. POLYTECHNIC)
+      address: P.O.- SURI, DIST. BIRBHUM, WEST BENGAL, PIN. 731101
+      district: BIRBHUM
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811566497:
+      name: MINERVA POLYTECHNIC
+      address: VILL & P.O- AMRITAKUNDA, P.S- NABAGRAM, DIST.- MURSHIDABAD
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811570319:
+      name: AMS COLLEGE OF POLYTECHNIC
+      address: CAMPUS - RANGAPUR, P.O. - NILGUNJ BAZAR, BARASAT, KOLKATA - 700121
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811576806:
+      name: ACHARYA JAGADISH CHANDRA BOSE POLYTECHNIC
+      address: BERACHAMPA, P.O.-DEVALAYA, P.S.-DEGANGA
+      district: NORTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811576983:
+      name: RCC INSTITUTE OF INFORMATION TECHNOLOGY
+      address: CANAL SOUTH ROAD, BELIAGHATA KOLKATA-700015 WEST BENGAL
+      district: KOLKATA
+      institution_type: Govt Aided
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811577517:
+      name: CAMELLIA INSTITUTE OF TECHNOLOGY & MANAGEMENT
+      address: HALDER DIGHI, G.T. ROAD, BAINCHI, DIST. - HOOGHLY, WEST BENGAL - 712134
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811584672:
+      name: UNIVERSITY INSTITUTE OF TECHNOLOGY
+      address: GOLAPBAG (NORTH), BURDWAN 713 104
+      district: BARDHAMAN
+      institution_type: University Managed-Govt
+      universities:
+      - Burdwan University, Burdwan
+    1-2811585129:
+      name: MALDA POLYTECHNIC
+      address: P.O-MALIHA, DIST-MALDA.
+      district: MALDA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811590261:
+      name: DEPARTMENT OF BUSINESS MANAGEMENT UNIVERSITY OF CALCUTTA
+      address: 1, REFORMATORY STREET
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - Calcutta University, Kolkata
+    1-2811592081:
+      name: INTERNATIONAL INSTITUTE OF MANAGEMENT SCIENCES
+      address: 'NH-6, BOMBAY ROAD, (OPP.: BISK FARM), PALARA, PO-MAHISREKHA, ULUBERIA,
+        HOWRAH, PIN-711303, WEST BENGAL'
+      district: HOWRAH
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811592324:
+      name: NORTH BENGAL UNIVERSITY
+      address: P.O. NORTH BENGAL UNIVERSITY, DIST. DARJEELING, WEST BENGAL, PIN-734013
+      district: DARJEELING
+      institution_type: Govt Aided
+      universities:
+      - University of North Bengal, Siliguri
+    1-2811593712:
+      name: HSB POLYTECHNIC
+      address: PO+PS- SURI
+      district: BIRBHUM
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2811597664:
+      name: CAMELLIA INSTITUTE OF TECHNOLOGY
+      address: DIGBERIA, BADU ROAD, MADHYAMGRAM, KOLKATA - 700129
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811598447:
+      name: CAMELLIA INSTITUTE OF POLYTECHNIC
+      address: NH-2, BUD BUD BYPASS NORTH, DIST. - BURDWAN, WEST BENGAL - 713403
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811600981:
+      name: FALAKATA POLYTECHNIC
+      address: BAGANBARI
+      district: JALPAIGURI
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811604682:
+      name: FUTURE INSTITUTE OF TECHNOLOGY
+      address: 240, BORAL MAIN ROAD, GARIA
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811606609:
+      name: 'THE UNIVERSITY OF BURDWAN: MBA(HR) PROGRAMME'
+      address: CENTRE FOR MANAGEMENT STUDIES, DEPARTMENT OF BUSINESS ADMINISTRATION
+        (HUMAN RESOURCE), GOLAPBAG, THE UNIVERSITY OF BURDWAN
+      district: BARDHAMAN
+      institution_type: University Managed-Govt
+      universities:
+      - Burdwan University, Burdwan
+    1-2811606890:
+      name: OMDAYAL GROUP OF INSTITUITIONS
+      address: PLOT NO. 38(P), 38A, 39A, 39(P) ULUBERIA INDUSTRIAL GROWTH CENTRE
+      district: HOWRAH
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811613160:
+      name: JALPAIGURI POLYTECHNIC INSTITUTE
+      address: P.O-DANGUAJHAR DT-JALPAIGURI
+      district: JALPAIGURI
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811617044:
+      name: GLOBAL INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: ICARE COMPLEX, GIST CAMPUS, P.O- HATIBERIA
+      district: PURBA MEDINIPUR
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811619158:
+      name: DR. B. C. ROY POLYTECHNIC
+      address: DR. MEGHNAD SAHA SARANI, BIDHAN NAGAR
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811619326:
+      name: KOLAGHAT GOVERNMENT POLYTECHNIC
+      address: 'PO. & PS.: KOLAGHAT; VILLAGE: AMALHANDA; DISTRICT: PURBA MEDINIPUR'
+      district: PURBA MEDINIPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2811621972:
+      name: GOVERNMENT COLLEGE OF ENGINEERING AND LEATHER TECHNOLOGY
+      address: BLOCK LB, SEC III, SALT LAKE, KOLKATA- 700098
+      district: NORTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811622545:
+      name: HEMNALINI MEMORIAL COLLEGE OF ENGINEERING
+      address: MOUZA- BALINDI, J.L. NO. 7, P.S. HARINGHATA, DIST.- NADIA, PIN-741246
+      district: NADIA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811624576:
+      name: GREATER KOLKATA COLLEGE OF ENGINEERING & MANAGEMENT
+      address: DUDHNAI, RAMNAGAR -II, P.S BARUIPUR, 24 PARGANAS (SOUTH)
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal University of Technology, Kolkata
+    1-2811627890:
+      name: NATIONAL INSTITUTE OF TECHNICAL TEACHERS' TRAINING & RESEARCH, KOLKATA
+      address: BLOCK - FC, SECTOR - III, SALTLAKE CITY
+      district: NORTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811628381:
+      name: ARYABHATTA INSTITUTE OF ENGINEERING & MANAGEMENT DURGAPUR
+      address: 'VILL: PANAGARH GRAM; PO: PANAGARH BAZAR; DIS: BURDWAN; STATE: WEST
+        BENGAL; INDIA.'
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811629416:
+      name: DEPARTMENT OF JUTE & FIBRE TECHNOLOGY, INSTITUTE OF JUTE TECHNOLOGY, UNIVERSITY
+        OF CALCUTTA
+      address: 35, BALLYGUNGE CIRCULAR ROAD, KOLKATA-700019
+      district: KOLKATA
+      institution_type: University Managed-Govt
+      universities:
+      - Calcutta University, Kolkata
+    1-2811629606:
+      name: INSTITUTE OF BUSINESS MANAGEMENT
+      address: 188 RAJA, S.C.MALLICK ROAD, JADAVPUR UNIVERSITY CAMPUS
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - Jadavpur University, Kolkata
+    1-2811629686:
+      name: DEPARTMENT OF PHYSICS, THE UNIVERSITY OF BURDWAN
+      address: DEPARTMENT OF PHYSICS, THE UNIVERSITY OF BURDWAN, GOLAPBAG, BURDWAN,
+        PIN 713104, WEST BENGAL
+      district: BARDHAMAN
+      institution_type: University Managed-Govt
+      universities:
+      - Burdwan University, Burdwan
+    1-2811631168:
+      name: TECHNO INDIA
+      address: EM-4/1, SECTOR-V, SALT LAKE, KOLKATA-700091
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology
+      - West Bengal University of Technology, Kolkata
+    1-2811632582:
+      name: TECHNIQUE POLYTECHNIC INSTITUTE
+      address: VILL.- PANCHROKHI, P.O. SUGANDHYA, P.S. POLBA, DIST. HOOGHLY, WEST
+        BENGAL, PIN- 712102
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal State Council of Technical Education
+    1-2811634924:
+      name: KALYANI GOVERNMENT ENGINEERING COLLEGE
+      address: KALYANI UNIVERSITY CAMPUS KALYANI-741235, DIST. NADIA WEST BENGAL INDIA
+      district: NADIA
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology
+      - West Bengal University of Technology, Kolkata
+    1-2811640927:
+      name: INDIAN INSTITUTE OF SOCIAL WELFARE AND BUSINESS MANAGEMENT
+      address: MANAGEMENT HOUSE, COLLEGE SQUARE WEST KOLKATA - 700073
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - Calcutta University, Kolkata
+    1-2811641291:
+      name: ST. THOMAS' COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: 4, DIAMOND HARBOUR ROAD, KOLKATA, WEST BENGAL, PIN - 700023
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811641609:
+      name: BENGAL ENGINEERING AND SCIENCE UNIVERSITY, SHIBPUR
+      address: P.O. BOTANIC GARDEN, SHIBPUR, HOWRAH
+      district: HOWRAH
+      institution_type: Government
+      universities:
+      - Bengal Engineering & Science University, Shibpur
+    1-2811643434:
+      name: ACHARYYA PRAFULLA CHANDRA RAY POLYTECHNIC
+      address: '188, RAJA S.C. MALLICK ROAD, P.O.: JADAVPUR UNIVERSITY, KOLKATA-32'
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811643714:
+      name: CONTAI POLYTECHNIC
+      address: RAGHURAMPUR. P.O-DARUA.
+      district: PURBA MEDINIPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811647559:
+      name: ACADEMY OF TECHNOLOGY
+      address: G. T. ROAD, ADISAPTAGRAM P.O:AEDCONAGAR DIST-HOOGHLY WEST BENGAL
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811651654:
+      name: ISWAR CHANDRA VIDYASAGAR POLYTECHNIC
+      address: P.O- SEVAYATAN P.S- JHARGRAM DIST- PACHIM MEDINIPUR, WEST BENGAL PIN-721514
+      district: PASCHIM MEDINIPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811655943:
+      name: BENGAL COLLEGE OF POLYTECHNIC
+      address: BENGAL COLLEGE OF POLYTECHNIC SAHID SUKUMAR BANERJEE SARANI, BIDHANNAGAR,
+        DURGAPUR-713212
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811658681:
+      name: GURU NANAK INSTITUTE OF PHARMACEUTICAL SCIENCE & TECHNOLOGY
+      address: 157/F, NILGUNJ ROAD
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811660553:
+      name: REGENT EDUCATION & RESEARCH FOUNDATION GROUP OF INSTITUTIONS
+      address: 'BARA KANTHALIA, P.O: SEWLI TELINI PARA, P.S: TITAGARH NORTH 24 PARGANAS'
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811664228:
+      name: FACULTY OF TECHNOLOGY, UTTAR BANGA KRISHI VISWAVIDYALAYA
+      address: P.O. PUNDIBARI
+      district: COOCH BEHAR
+      institution_type: Government
+      universities:
+      - Uttar Banga Krishi Vishwavidyalaya, Cooch Behar
+    1-2811665831:
+      name: BUDGE BUDGE INSTITUTE OF TECHNOLOGY
+      address: NISCHINTAPUR BUDGE BUDGE
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811670960:
+      name: TECHNO INDIA DURGAPUR
+      address: BEHIND B.D.O. OFFICE, P.O.- PANAGARH BAZAR, DIST.- BURDWAN, PIN - 713148
+        (W.B.)
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811672978:
+      name: INSTITUTE OF PHARMACY
+      address: HARITOKIBAGAN, P+O-KENDUADIHI DIST-BANKURA
+      district: BANKURA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811675414:
+      name: TECHNO INDIA (STAND ALONE MCA)
+      address: EM-4/1, SECTOR-V, SALT LAKE, KOLKATA-91
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811677434:
+      name: GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: VILL. & P.O. KOTWALI, DIST. MALDA
+      district: MALDA
+      institution_type: Govt Aided
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - Maulana Abul Kalam Azad University of Technology, West Bengal
+    1-2811679092:
+      name: NEOTIA INSTITUTE OF TECHNOLOGY, MANAGEMENT AND SCIENCE
+      address: 'DIAMOND HARBOUR ROAD P.O.: AMIRA SOUTH 24 PARGANAS WEST BENGAL PIN-743368'
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811681310:
+      name: HERITAGE INSTITUTE OF TECHNOLOGY
+      address: 994, MADURDAHA, CHOWBAGA ROAD, ANANDAPUR P.O. EAST KOLKATA TOWNSHIP
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811686399:
+      name: BENGAL INSTITUTE OF TECHNOLOGY
+      address: TECH TOWN, DHAPA MANPUR ON BASANTI HIGHWAY, PO-HADIA, KOLKATA - 700150
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811686800:
+      name: NARULA INSTITUTE OF TECHNOLOGY
+      address: 81, NILGUNJ ROAD, AGARPARA, KOLKATA-700109
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811688993:
+      name: TECHNO INDIA-BATANAGAR
+      address: PUTKHALI, WARD NO.- 30, HOLDING NO.- B7-360/NEW
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal University of Technology, Kolkata
+    1-2811691098:
+      name: TUFANGANJ GOVERNMENT POLYTECHNIC
+      address: CHAMTA P.O.- TUFANGANJ DIST - COOCH BEHAR (WEST BENGAL) PIN - 736159
+      district: COOCH BEHAR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2811691492:
+      name: TECHNO INDIA-HOOGHLY
+      address: DHARAMPUR, SHANTINIKETAN ON G.T ROAD, CHINSURAH, HOOGHLY
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811694273:
+      name: INSTITUTE OF PHARMACY, KALYANI
+      address: P.O. - KALYANI, DIST. - NADIA, WEST BENGAL, PIN- 741235
+      district: NADIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811694366:
+      name: GURU NANAK INSTITUTE OF PHARMACEUTICAL SCIENCE AND TECHNOLOGY (DIPLOMA
+        PHARMACY)
+      address: 157/F, NILGUNJ ROAD, PANIHATI
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811694531:
+      name: TECHNICAL CAMPUS OF DEPARTMENT OF JUTE & FIBRE TECHNOLOGY, IJT, UNIVERSITY
+        OF CALCUUTA
+      address: 35, BALLYGUNGE CIRCULAR ROAD. KOLKATA-700019
+      district: KOLKATA
+      institution_type: University Managed-Govt
+      universities: []
+    1-2811695132:
+      name: SAROJ MOHAN INSTITUTE OF TECHNOLOGY
+      address: BADHAGACHI, GUPTIPARA HOOGHLY PIN-712512
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811695801:
+      name: N S POLYTECHNIC COLLEGE
+      address: PO- ABHIRAMPUR PS- AUSHGRAM
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811696145:
+      name: MANAGEMENT DEVELOPMENT INSTITUTE MURSHIDABAD
+      address: VILLAGE - KULORI MOUZA - KATNAI POST - GANKAR P.S. RAGHUNATHGANJ DISTRICT
+        MURSHIDABAD PIN - 742225 WEST BENGAL
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities: []
+    1-2811696539:
+      name: JADAVPUR UNIVERSITY
+      address: 'MAIN CAMPUS: 188, RAJA S. C. MALLIK ROAD, JADAVPUR, KOLKATA - 700032
+        SECOND CAMPUS: PL - 8, BL - LB, SECTOR - III, SALT LAKE, KOLKATA - 700098'
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - Jadavpur University, Kolkata
+    1-2811697185:
+      name: NIBEDITA INSTITUTE OF TECHNOLOGY
+      address: VILL-NARASINGHAPUR, P.O- SAGARPARA, P.S-JALANGI, DIST-MURSHIDABAD,
+        WEST BENGAL, PIN-742306
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811697983:
+      name: BENGAL INSTITUTE OF TECHNOLOGY(MCA)
+      address: BENGAL INSTITUTE OF TECHNOLOGY(MCA), BAMUNGHATA, ON BASANTI HIGHWAY,
+        KOLKATA - 700150
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811698886:
+      name: NETAJI SUBHASH ENGINEERING COLLEGE
+      address: TECHNO CITY, GARIA, KOLKATA-152
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811700447:
+      name: THE NEW HORIZONS INSTITUTE OF TECHNOLOGY
+      address: PHASE II, SOUTH G.T. ROAD, NEAR GANDHI MORE, CITY CENTRE
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811702554:
+      name: MALLABHUM INSTITUTE OF POLYTECHNIC
+      address: BRAJA RADHA NAGAR, P.O- GOSAIPUR. P.S -BISHNUPUR, DIST -BANKURA
+      district: BANKURA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2811702932:
+      name: BCDA COLLEGE OF PHARMACY & TECHNOLOGY CAMPUS - 2
+      address: 52/C/10, GHOSH PARA ROAD, UDAIRAJPUR, MADHYAMGRAM, KOLKATA-700129
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811703027:
+      name: BENGAL COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: 'BENGAL COLLEGE OF ENGINEERING & TECHNOLOGY SAHID SUKUMAR BANERJEE
+        SARANI BIDHAN NAGAR, DURGAPUR PIN-713212 DIST: BURDWAN WEST BENGAL'
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811705809:
+      name: COOCH BEHAR POLYTECHNIC
+      address: KESHOB ROAD, GUNJBARI
+      district: COOCH BEHAR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811706038:
+      name: PAILAN COLLEGE OF MANAGEMENT & TECHNOLOGY (MBA DIVISION)
+      address: BENGAL PAILAN PARK, PHASE -I, AMGACHIA ROAD, JOKA (OFF DIAMOND HARBOUR
+        ROAD), KOLKATA-700104
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811706393:
+      name: K. G. ENGINEERING INSTITUTE
+      address: COLLEGE ROAD WARD NO - 3
+      district: BANKURA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811707065:
+      name: UNIVERSITY COLLEGE OF SCIENCE & TECHNOLOGY, CALCUTTA UNIVERSITY)
+      address: 92, APC ROAD
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - Calcutta University, Kolkata
+      - University of Calcutta, Kolkata
+    1-2811707864:
+      name: TECHNO INDIA(MBA)
+      address: EM-4/1, SALT LAKE, SECTOR-V, KOLKATA-91
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811710976:
+      name: TECHNO INDIA-BALURGHAT
+      address: 'MANGALPUR, NEAR DISTRICT JAIL, PO: BELTALA PARK, P.S-BALURGHAT, DIST.
+        SOUTH DINAJPUR'
+      district: DAKSHIN DINAJPUR
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811711231:
+      name: SURENDRA INSTITUTE OF ENGINEERING & MANAGEMENT
+      address: DHUKURIA, P.O. - NEW CHAMTA, P.S. - MATIGARA
+      district: DARJEELING
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811714411:
+      name: DREAM INSTITUTE OF TECHNOLOGY
+      address: 'P.O. NAHAZARI, P.S.: BISHNUPUR, 24 PARGANAS (SOUTH), KOLKATA.'
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811715311:
+      name: CAMELLIA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: BUD BUD BY-PASS (NORTH)
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811715559:
+      name: WEST BENGAL SURVEY INSTITUTE
+      address: P.O.- BANDEL JUNCTION, BANDEL, HOOGHLY
+      district: HOOGHLY
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811722957:
+      name: ALIAH UNIVERSITY
+      address: IIA/27, NEW TOWN
+      district: NORTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - Aliah University, West Bengal
+    1-2811723987:
+      name: RAJMATI PARICHAND BOTHRA MEMORIAL JIAGANJ COLLEGE OF ENGINEERING & TECHNOLOGY
+        (POLYTECHNIC)
+      address: AT-HATIBAGAN, P.O+P.S-JIAGANJ
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811724394:
+      name: PARADISE INSTITUTE OF TECHNOLOGY
+      address: NARASINGHAPUR P.O. SAGARPARA P.S. JALANGI DIST. MURSHIDABAD PIN. 742306
+        WEST BENGAL
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811724494:
+      name: WOMEN'S POLYTECHNIC
+      address: 1/1/2, GARIHAT ROAD(SOUTH ); JODHPUR PARK
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811724820:
+      name: ST. MARY'S TECHNICAL CAMPUS KOLKATA
+      address: 'SAIBANA VILLAGE, OPP: WEST BENGAL STATE UNIVERSITY, ICHAPUR NILGUNGE
+        GRAM PANCHAYAT, BARASAT, NORTH 24 PARGANAS DISTRICT, KOLKATA - 700 126'
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal University of Technology, Kolkata
+    1-2811726666:
+      name: TECHNO INDIA-BANIPUR
+      address: BANIPUR COLLEGE ROAD, BANIPUR, HABRA 24 PARGANAS(NORTH) WEST BENGAL
+        - 743233
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811727014:
+      name: BUNDWAN POLYTECHNIC
+      address: MADHUPUR BUNDWAN PURULIA-723129
+      district: PURULIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811727369:
+      name: PURULIA POLYTECHNIC
+      address: P.O. - VIVEKANANDA NAGAR, PURULIA
+      district: PURULIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811727617:
+      name: IMS BUSINESS SCHOOL
+      address: VILL-MAKRAMPUR, GHUTIARY SHARIF STATION ROAD, P.O. KUSTIA, P.S. SONARPUR,
+        PIN - 700 150
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811729575:
+      name: UNIVERSITY COLLEGE OF SCIENCE & TECHNOLOGY
+      address: 92, APC ROAD, KOLKATA 700009
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - Calcutta University, Kolkata
+    1-2811731841:
+      name: GOVT. COLLEGE OF ENGG. & TEXTILE TECHNOLOGY, SERAMPORE
+      address: '12, WILLIAM CAREY ROAD, DIST: HOOGHLY'
+      district: HOOGHLY
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811732425:
+      name: HARASANKAR BHATTACHAARYA INSTITUTE OF TECHNOLOGY & MINING
+      address: 'GIRJAPARA; P.O RANIGANJ; DIST: BURDWAN'
+      district: BARDHAMAN
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811735576:
+      name: MANAGEMENT INSTITUTE OF DURGAPUR
+      address: G.T. ROAD, RAJBANDH, DURGAPUR-713212 DIST. BURDWAN
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811735766:
+      name: ELITE POLYTECHNIC INSTITUTE
+      address: STKK LINK ROAD
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811738687:
+      name: MURSHIDABAD INSTITUTE OF TECHNOLOGY
+      address: P.O. COSSIMBAZAR RAJ
+      district: MURSHIDABAD
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811742906:
+      name: MURSHIDABAD COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: BANJETIA, BERHAMPORE MURSHIDABAD
+      district: MURSHIDABAD
+      institution_type: Govt Aided
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811743310:
+      name: INSTITUTE OF ADVANCED MANAGEMENT
+      address: AN 1 SECTOR V, SALT LAKE KOLKATA 102
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811746028:
+      name: JNAN CHANDRA GHOSH POLYTECHNIC
+      address: 7, MAYURBHANJ ROAD KOLKATA - 23 WEST BENGAL
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811746555:
+      name: IMPS POLYTECHNIC COLLEGE, JALPAIGURI
+      address: CHEWRAPARA, PATKATA, NEAR RANI NAGAR RAILWAY STATION, PS-KOTWALI, DIST-JALPAIGURI,
+        PIN-735101
+      district: JALPAIGURI
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2811746650:
+      name: DURGAPUR INSTITUTE OF POLYTECHNIC
+      address: G.T. ROAD RAJBANDH, DURGAPUR, PIN-713212, DIST- BURDWAN, WEST BENGAL
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2811746736:
+      name: TECHNO INDIA COLLEGE OF TECHNOLOGY
+      address: MEGA CITY, NEW TOWN, KOLKATA
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811752497:
+      name: JYOTIRMOY SCHOOL OF BUSINESS
+      address: JYOTIRMOY KNOWLEDGE PARK, KALIKAPUR, SONARPUR, KOLKATA MEGACITY, PIN
+        CODE-743330
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811752578:
+      name: ABS ACADEMY OF POLYTECHNIC
+      address: 'J.P AVENUE, SAGARBHANGA, DURGAPUR 713211 DISTRICT: BURDWAN WEST BENGAL'
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811755968:
+      name: REGENT INSTITUTE OF SCIENCE AND TECHNOLOGY
+      address: 'BARA KANTHALIA, P.O: SEWLI TELINI PARA, P.S: TITAGARH NORTH 24 PARGANAS'
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811756797:
+      name: CENTRAL CALCUTTA POLYTECHNIC
+      address: 21 CONVENT ROAD.
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811760618:
+      name: BIPRADAS PALCHOWDHURY INSTITUTE OF TECHNOLOGY
+      address: 2 & 3, H.P.CHATTERJEE ROAD
+      district: NADIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811764541:
+      name: COMPUTER APPLICATION CENTRE, HERITAGE INSTITUTE OF TECHNOLOGY
+      address: 994, MADURDAHA, CHOWBAGA ROAD, ANANDAPUR P.O. - EAST KOLKATA TOWNSHIP
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811764679:
+      name: DARJEELING POLYTECHNIC
+      address: M.V.ROAD
+      district: DARJEELING
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811774576:
+      name: SABITA DEVI EDUCATION TRUST - BRAINWARE GROUP OF INSTITUTIONS
+      address: 398 RAMKRISHNAPUR ROAD P.S. BARASAT
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811777745:
+      name: DR. MEGHNAD SAHA INSTITUTE OF TECHNOLOGY, HALDIA
+      address: 'HALDIA, CITY CENTRE, P.O.: DEBHOG, P.S.: BHABANIPUR, DIST.: PURBA
+        MEDINIPUR'
+      district: PURBA MEDINIPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811781205:
+      name: PAILAN COLLEGE OF MANAGEMENT & TECHNOLOGY [MCA DIVISION]
+      address: BENGAL PAILAN PARK, PHASE I AMGACHIA ROAD, JOKA (OFF DIAMOND HOURBOUR
+        ROAD) KOLKATA-700104.
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811781338:
+      name: PAILAN COLLEGE OF MANAGEMENT & TECHNOLOGY[B.TECH DIVISION]
+      address: BENGAL PAILAN PARK, SECTOR - 1 PHASE I JOKA, (OFF DIAMOND HARBOUR ROAD),
+        KOLKATA- 700 104
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811795062:
+      name: GOVERNMENT COLLEGE OF ENGINEERING & CERAMIC TECHNOLOGY
+      address: 73, ABINASH CHANDRA BANNERJEE LANE, KOLKATA-700010, WEST BENGAL
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811798374:
+      name: WEST BENGAL UNIVERSITY OF TECHNOLOGY
+      address: BF-142, SALTLAKE KOLKATA - 700064 WEST BENGAL INDIA
+      district: NORTH 24 PARGANAS
+      institution_type: University Managed-Govt
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811802544:
+      name: ABACUS INSTITUTE OF ENGINEERING AND MANAGEMENT
+      address: VILL- NUTANGRAM; P.O- MOGRA; DIST- HOOGHLY
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology
+      - West Bengal University of Technology, Kolkata
+    1-2811805009:
+      name: CENTRAL FOOTWEAR TRAINING CENTRE
+      address: PHANI BHUSAN PATHAK ROAD, P.O. PURBA NISHINTAPUR, PUJALI, BUDGE BUDGE,
+        KOLKATA 138
+      district: SOUTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811809235:
+      name: SAROJ MOHAN INSTITUTE OF TECHNOLOGY
+      address: VILLAGE ROY PARA, PO:GUPTIPARA, PS, BALAGARH
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811816203:
+      name: NATIONAL POWER TRAINING INSTITUTE(ER)
+      address: MICHAEL FARADAY STREET CITY CENTRE DURGAOUR-713216
+      district: BARDHAMAN
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811816619:
+      name: PAILAN TECHNICAL CAMPUS
+      address: BENGAL PAILAN PARK, PHASE-II, AMGACHHIA ROAD, JOKA (OFF DIAMOND HARBOUR
+        ROAD), KOLKATA -7000104.
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811816838:
+      name: WOMEN'S POLYTECHNIC, CHANDERNAGORE
+      address: 4, STRAND ROAD
+      district: HOOGHLY
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811820844:
+      name: NAZRUL CENTENARY POLYTECHNIC
+      address: P.O. - HINDUSTAN CABLES
+      district: BARDHAMAN
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811825129:
+      name: KPS INSTITUTE OF POLYTECHNIC
+      address: VILL+P.O-BELMURI, P.S-DHANIAKHALI DIST-HOOGHLY, WEST BENGAL, PIN-712302
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811825263:
+      name: BENGAL SCHOOL OF TECHNOLOGY
+      address: SUGANDHA, DELHI ROAD, NEAR CHINSURAH RLY. STATION, HOOGHLY, PIN-712102
+        WEST BENGAL
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811825620:
+      name: GOBINDAPUR POLYTECHNIC COLLEGE
+      address: GOBINDAPUR, JUGINDA, DUMKAL, MURSHIDABAD
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811836006:
+      name: KALNA POLYTECHNIC
+      address: P.O.- KALNA DISTRICT - BURDWAN
+      district: BARDHAMAN
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811836150:
+      name: CAMELLIA SCHOOL OF ENGINEERING & TECHNOLOGY
+      address: NADIBHAG, P.O. KAZIPARA, BARASAT, KOLKATA-700124
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811836618:
+      name: DEPARTMENT OF BUSINESS ADMINISTRATION, THE UNIVERSITY OF BURDWAN
+      address: GOLAPBAG, BURDWAN
+      district: BARDHAMAN
+      institution_type: University Managed-Govt
+      universities:
+      - Burdwan University, Burdwan
+    1-2811840510:
+      name: KANAD INSTITUTE OF ENGINEERING & MANAGEMENT
+      address: VILLAGE + P.O.- MANKAR, DIST.- BURDWAN
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811847022:
+      name: SANTINIKETAN INSTITUTE OF POLYTECHNIC
+      address: 'VILL.: TATARPUR, P.O. MULUK-(BOLPUR), DIST.:BIRBHUM W.B. 731204'
+      district: BIRBHUM
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811851373:
+      name: SCM INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: V.I.P ROAD, KAJI NAZRUL ISLAM AVENUE, KAIKHALI
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811851492:
+      name: ARMY INSTITUTE OF MANAGEMENT
+      address: JUDGES COURT ROAD OPPOSITE ALIPORE TELEPHONE EXCHANGE ALIPORE KOLKATA-700027
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811859708:
+      name: SWAMI VIVEKANANDA SCHOOL OF DIPLOMA
+      address: SANAKA EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS VILL+PO-MALANDIGHI
+        PS-KANKSA
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811862299:
+      name: INTERNATIONAL MANAGEMENT INSTITUTE, KOLKATA
+      address: 2/4C, JUDGES COURT ROAD, ALIPORE
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities: []
+    1-2811862748:
+      name: NETAJI SUBHAS CHANDRA BOSE INSTITUTE OF PHARMACY
+      address: TATLA, ROYPARA P.O. CHAKDAHA DIST. NADIA WEST BENGAL
+      district: NADIA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811865950:
+      name: GOBINDAPUR SEPHALI MEMORIAL POLYTECHNIC
+      address: VILL- GOBINDAPUR, P.O- KELETI, P.S- AUSHGRAM, DIST.- BURDWAN
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal State Council of Technical Education
+    1-2811866486:
+      name: GOENKA COLLEGE OF COMMERCE AND BUSINESS ADMINISTRATION
+      address: 210 BEPIN BEHARI GANGULY STREET, KOLKATA-700 012
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - Calcutta University, Kolkata
+    1-2811868080:
+      name: INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: DHURABILA, DHAMKURIA, CHANDRAKONA TOWN PASCHIM MEDINIPUR
+      district: PASCHIM MEDINIPUR
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811868381:
+      name: HOOGHLY INSTITUTE OF TECHNOLOGY
+      address: VIVEKANANDA ROAD, PIPULPATI
+      district: HOOGHLY
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811884618:
+      name: ASANSOL POLYTECHNIC
+      address: SOUTH DHADKA
+      district: BARDHAMAN
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811887546:
+      name: ELITTE INSTITUTE OF ENGINEERING AND MANAGEMENT (POLYTECHNIC)
+      address: P.O. KARNAMADHABPUR, (NEAR MOHISPOTA), P.S. GHLOLA, SODEPUR, BESIDE
+        KALYANI EXP. HIGHWAY
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811898367:
+      name: SWAMI VIVEKANANDA INSTITUTE OF MANAGEMENT & COMPUTER SCIENCE
+      address: KARBALA, SONARPUR STATION ROAD, P.O:NARENDRAPUR, KOLKATA-700103
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811905109:
+      name: SANAKA EDUCATIONAL TRUST'S GROUP OF INSTITUTIONS
+      address: INSTITUTE OF ENGINEERING & INDUSTRIAL TECHNOLOGY P.O.-MALANDIGHI, DURGAPUR
+        DIST.- BURDWAN WEST BENGAL
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811905781:
+      name: IDEAL INSTITUTE OF ENGINEERING
+      address: KALYANI SHILPANCHAL, P.O. + P.S.- KALYANI, DISTRICT - NADIA, WEST BENGAL,
+        PIN CODE- 741235
+      district: NADIA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811908642:
+      name: GANGARAMPUR GOVERNMENT POLYTECHNIC
+      address: KADIGHAT, GANGARAMPUR, P.O.BELBARI, PIN-733124
+      district: DAKSHIN DINAJPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2811908778:
+      name: RAJA RANJIT KISHORE GOVERNMENT POLYTECHNIC
+      address: BLOCK-BINPUR-I, P/O-RAMGARH, P.S-LALGARH
+      district: PASCHIM MEDINIPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811916050:
+      name: GURUNANAK INSTITUTE OF TECHNOLOGY
+      address: 157/F, NILGUNJ ROAD, PANIHATI, SODEPUR, KOLKATA-700114
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal University of Technology, Kolkata
+    1-2811916829:
+      name: CALCUTTA INSTITUTE OF TECHNOLOGY
+      address: BANITABLA, ULUBERIA, HOWRAH-711316
+      district: HOWRAH
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811919566:
+      name: TECHNO INDIA KOLKATA, JOKA
+      address: JOKA, BISHNUPUR, 24 PARGANAS, SOUTH
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology
+    1-2811919641:
+      name: KANYAPUR POLYTECHNIC
+      address: SEN-RELEIGH ROAD, ASANSOL - 5
+      district: BARDHAMAN
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811925677:
+      name: DUMKAL INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: VILLAGE BASANTAPUR PO BASANTAPUR PS DUMKAL DIST MURSHIDABAD PIN 742406
+        WEST BENGAL INDIA
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811928324:
+      name: MODERN INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: BAROL, MALIMPUR, RAJHAT. BANDEL-HOOGHLY, PIN-712123, WEST BENGAL
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal University of Technology, Kolkata
+    1-2811932295:
+      name: BANKURA GOVERNMENT POLYTECHNIC
+      address: P.O.- KALPATHAR DIST. - BANKURA
+      district: BANKURA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2811935155:
+      name: BHARAT TECHNOLOGY
+      address: JABURBERIA, BANITABLA, ULUIBERIA, PIN- 711316
+      district: HOWRAH
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811941181:
+      name: MCKV INSTITUTE OF ENGINEERING
+      address: 243, G.T. ROAD (NORTH)
+      district: HOWRAH
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811944816:
+      name: JIS COLLEGE OF ENGINEERING
+      address: BLOCK-A, PHASE-III, KALYANI, NADIA
+      district: NADIA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811944938:
+      name: SWAMI VIVEKANANDA INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: DAKSHIN GOBINDAPUR, P.S.- SONARPUR, KOLKATA-700145
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology
+      - West Bengal University of Technology, Kolkata
+    1-2811954503:
+      name: CALCUTTA INSTITUTE OF PHARMACEUTICAL TECHNOLOGY & ALLIED HEALTH SCIENCES
+      address: BANITABLA, ULUBERIA, HOWRAH- 711316
+      district: HOWRAH
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811957417:
+      name: BISHNUPUR PUBLIC INSTITUTE OF ENGINEERING (POLYTECHNIC)
+      address: 'VILL : SIROMONIPUR, P.O. & P.S. BISHNUPUR'
+      district: BANKURA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811962125:
+      name: HERITAGE BUSINESS SCHOOL
+      address: '994, MADURDAHA, CHOWBAGA ROAD, ANANDAPUR, P.O.: EAST KOLKATA TOWNSHIP'
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811962277:
+      name: BHARTIYA VIDYA BHAVAN INSTITUTE OF MANAGEMENT SCIENCE
+      address: BLOCK - FA SECTOR III SALT LAKE CITY
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811965192:
+      name: NORTH CALCUTTA POLYTECHNIC
+      address: 15, GOBINDA MONDAL LANE, COSSIPORE
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811965464:
+      name: JIS COLLEGE OF ENGINEERING
+      address: BLOCK-A, PHASE-III, KALYANI, NADIA
+      district: NADIA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2811971696:
+      name: IMPS COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: VILL-NITYANANDAPUR P.O.-CHANDIPUR(KAZIGRAM) DIST-MALDA PIN-732103 WEST
+        BENGAL
+      district: MALDA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811974164:
+      name: SEACOM ENGINEERING COLLEGE
+      address: 'JALADHULAGORI SANKRAIL PO: ANDUL MOURI HOWRAH-711302'
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811974697:
+      name: GOVT. COLLEGE OF ENGINEERING AND TEXTILE TECHNOLOGY, BERHAMPORE
+      address: 4, CANTONMENT ROAD, P.O.- BERHAMPORE, DIST- MURSHIDABAD, WEST BENGAL
+      district: MURSHIDABAD
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811985450:
+      name: BENGAL COLLEGE OF PHARMACEUTICAL SCIENCES & RESEARCH
+      address: 'BENGAL COLLEGE OF PHARMACEUTICAL SCIENCES & RESEARCH BIBLABI RASHBEHARI
+        BASU SARANI BIDHAN NAGAR, DURGAPUR PIN-713212 DIST : BURDWAN WEST BENGAL'
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811985646:
+      name: DISCOVERY INSTITUTE OF POLYTECHNIC
+      address: NARASINGHAPUR P.O. SAGARPARA P.S. JALANGI DIST. MURSHIDABAD PIN. 742306
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2811985856:
+      name: INSTITUTE OF ENGINEERING & MANAGEMENT
+      address: SALT LAKE ELECTRONICS COMPLEX, SECTOR-V, KOLKATA-700091
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2811988745:
+      name: BASANTIKA INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: PO GANPUR PS MD BAZAR DIST BIRBHUM WEST BENGAL PIN 731216
+      district: BIRBHUM
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal State Council of Technical Education
+    1-2811991877:
+      name: JLD COLLEGE OF ENGINEERING AND MANAGEMENT
+      address: 'MOUZA: RAMDHARI, BELEGACHI GRAM PANCHAYET, P.S.: BARUIPUR'
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812001337:
+      name: JIS COLLEGE OF ENGINEERING
+      address: BLOCK-A, PHASE-III, KALYANI, NADIA
+      district: NADIA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812001459:
+      name: BCARE INSTITUTE OF MANAGEMENT & TECHNOLOGY (POLYTECHNIC)
+      address: VILL.-AMAR P.O.-KANFALA P.S.-NABAGRAM DIST.-MURSHIDABAD PIN-742184
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812001728:
+      name: COLLEGE OF ENGINEERING & MANAGEMENT, KOLAGHAT
+      address: "P.O.: KTPP TOWNSHIP, DIST.: PURBA MEDINIPUR PIN \x96 721 171, WEST
+        BENGAL PHONE: (03228) 250600, 249443, 249444, 250394, 250972 FAX: (03228)
+        250880"
+      district: PURBA MEDINIPUR
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812006252:
+      name: DR. B. C. ROY COLLEGE OF PHARMACY AND ALLIED HEALTH SCIENCES
+      address: DR. MEGHNAD SAHA SARANI, BIDHANNAGAR, DURGAPUR, WEST BENGAL, PIN -
+        713206
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812006932:
+      name: REGIONAL INSTITUTE OF PRINTING TECHNOLOGY
+      address: RAJA SUBODH CHANDRA MULLICK ROAD, JADAVPUR
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812009120:
+      name: ASANSOL ENGINEERING COLLEGE
+      address: VIVEKANANDA SARANI, KANYAPUR
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812011219:
+      name: UNIVERSITY SCIENCE INSTRUMENTATION CENTRE
+      address: UNIVERSITY OF KALYANI, GHOSHPARA, KALYANI, NADIA, W. BENGAL
+      district: NADIA
+      institution_type: Government
+      universities:
+      - Kalyani University, Nadia
+    1-2812011627:
+      name: NIBEDITA POLYTECHNIC
+      address: AT- BAGMARA P.O. D/PARASHPUR P.S. JALANGI
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812011918:
+      name: DR. B.C. ROY ENGINEERING COLLEGE, DURGAPUR
+      address: JEMUA ROAD, FULJHORE, DURGAPUR, 713206
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812017904:
+      name: MALLABHUM INSTITUTE OF TECHNOLOGY
+      address: 'CAMPUS: BRAJA-RADHANAGAR P.O.- GOSAINPUR, P.S.-BISHNUPUR, DIST.- BANKURA,
+        PIN-722122. CITY OFFICE: 266 B RASHBEHARI AVENUE, KOLKATA 700019.'
+      district: BANKURA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812020669:
+      name: SHEIKHPARA ABDUR RAHAMAN MEMORIAL POLYTECHNIC
+      address: VILL+POST- SHEIKHPARA, P.S.- RANINAGAR, DIST- MURSHIDABAD
+      district: MURSHIDABAD
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812023581:
+      name: ABS ACADEMY OF SCIENCE, TECHNOLOGY & MANAGEMENT
+      address: J.P AVENUE, SAGARBHANGA. DURGAPUR:713211 DISTRICT:BURDWAN WEST BENGAL
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812025648:
+      name: GUPTA COLLEGE OF TECHNOLOGICAL SCIENCES
+      address: ASHRAM MORE G.T. ROAD ASANSOL-713301
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812029333:
+      name: BENGAL INSTITUTE OF POLYTECHNIC
+      address: VILL-SAGAR PO-HETAMPUR PS-SADAIPUR
+      district: BIRBHUM
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812031186:
+      name: SILIGURI GOVERNMENT POLYTECHNIC
+      address: 1 NO DABGRAM COLONY, P.O.- RABINDRA SARANI
+      district: DARJEELING
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812031601:
+      name: ENGINEERING INSTITUTE FOR JUNIOR EXECUTIVES
+      address: MAHENDRA BHATTACHARYA ROAD, PO-SANTRAGACHI, DALALPUKUR, HOWRAH
+      district: HOWRAH
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812035104:
+      name: SIDHU KANHU BIRSA POLYTECHNIC
+      address: KESHIARY
+      district: PASCHIM MEDINIPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812035235:
+      name: ELITTE COLLEGE OF ENGIINEERING
+      address: P.O. KARNAMADHABPUR (NEAR MOHISPOTA), P.S. GHOLA, SODEPUR, KOLKATA-700113
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812035333:
+      name: JLD ENGINEERING AND MANAGEMENT COLLEGE
+      address: 'MOUZA: BEGAMPUR, PO- TENTULIA, PS-BARUIPUR'
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology
+    1-2812038515:
+      name: DIAMOND HARBOUR GOVERNMENT POLYTECHNIC
+      address: 'WARD NO 16, DIAMOND HARDOUR MUNICIPALITY, (BEHIND FAKIR CHAND COLLEGE)
+        P.O.: DIAMOND HARBOUR, P.S.: DIAMIND HARBOUR, SOUTH 24 PARGONAS, PIN.: 74'
+      district: SOUTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2812044486:
+      name: CAMELLIA COLLEGE OF PHARMACY
+      address: HALDERDIGHI, G.T. ROAD, BAINCHI, DIST - HOOGHLY
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812044544:
+      name: LUTHFAA POLYTECHNIC INSTITUTE
+      address: 'P.O: MOLANDIGHI, P.S: KANKSA, DURGAPUR'
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2812044632:
+      name: JAKIR HOSSAIN INSTITUTE OF PHARMACY
+      address: VILL+PO- MIAPUR
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2812044778:
+      name: SCHOOL OF MANAGEMENT SCIENCES, BENGAL ENGINEERING AND SCIENCE UNIVERSITY,
+        SHIBPUR
+      address: 7TH FLOOR, NEW SCIENCE AND TECHNOLOGY BUILDING, BENGAL ENGINEERING
+        AND SCIENCE UNIVERSITY, SHIBPUR, NEAR BOTANIC GARDEN
+      district: HOWRAH
+      institution_type: Government
+      universities:
+      - Bengal Engineering & Science University, Shibpur
+    1-2812045047:
+      name: JALPAIGURI GOVERNMENT ENGINEERING COLLEGE
+      address: JALPAIGURI GOVT. ENGG. COLLEGE JALPAIGURI-735102
+      district: JALPAIGURI
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812050987:
+      name: SHREE RAMKRISHNA INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: DAKSHIN GOBINDAPUR, PS- SONARPUR, KOLKATA-700145
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal State Council of Technical Education
+    1-2812053294:
+      name: CENTRAL TOOL ROOM & TRAINING CENTRE
+      address: BONHOOGHLY INDUSTRIAL AREA
+      district: NORTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812059237:
+      name: CAMELLIA SCHOOL OF BUSINESS MANAGEMENT
+      address: DIGBERIA, BADU ROAD, MADHYAMGRAM, KOLKATA - 700129
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812059322:
+      name: BIRBHUM INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: 'P.O.- SURI, DIST.- BIRBHUM: PIN CODE -731101'
+      district: BIRBHUM
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812060071:
+      name: NETAJI SUBHASH ENGINEERING COLLEGE
+      address: TECHNO CITY, GARIA, KOLKATA-152
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal University of Technology, Kolkata
+    1-2812062943:
+      name: BENGAL COLLEGE OF ENGINEERING
+      address: BENGAL COLLEGE OF ENGINEERING & TECHNOLOGY FOR WOMEN SHILPO KANAN ROAD,
+        BIDHANNAGAR DURGAPUR-713212
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812065409:
+      name: CALCUTTA BUSINESS SCHOOL
+      address: JL NO 30 RS NO 153 BISHNUPUR 24 PARGANAS SOUTH
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities: []
+    1-2812069090:
+      name: INSTITUTE OF SCIENCE AND TECHNOLOGY
+      address: DHURABILA, DHAMKURIA, CHANDRAKONA TOWN, PASCHIM MEDNIPUR
+      district: PASCHIM MEDINIPUR
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology
+      - West Bengal University of Technology, Kolkata
+    1-2812073211:
+      name: MEGHNAD SAHA INSTITUTE OF TECHNOLOGY
+      address: TECHNO COMPLEX, MADURDAHA, BESIDE NRI COMPLEX, UCHHEPOTA, KOLKATA-700150
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812073980:
+      name: NSHM KNOWLEDGE CAMPUS, DURGAPUR - GROUP OF INSTITUTIONS
+      address: ARRAH
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2812078100:
+      name: BANKURA UNNAYANI INSTITUTE OF ENGINEERING
+      address: AT:POHABAGAN, BHAGABANDH
+      district: BANKURA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812083946:
+      name: DEPARTMENT OF MANAGEMENT
+      address: DEPARTMENT OF MANAGEMENT UNIVERSITY OF NORTH BENGAL RAJA RAMMOHANPUR
+        P.O.NBU DIST - DARJEELING, 734013 WEST BENGAL
+      district: DARJEELING
+      institution_type: University Managed-Govt
+      universities:
+      - University of North Bengal, Siliguri
+    1-2812085604:
+      name: BENGAL INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+      address: SRINIKETAN BYPASS P.O.-DORANDA DIST- BIRBHUM WEST BENGAL PIN-731236
+      district: BIRBHUM
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2812089929:
+      name: DURGAPUR POLYTECHNIC COLLEGE
+      address: CITY CENTRE PH-II, SURYA SEN SARANI, NEAR GANDHI MORE
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812090115:
+      name: RAMAKRISHNA MISSION SHILPAMANDIRA
+      address: 208 G. T. ROAD BELUR MATH
+      district: HOWRAH
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812091524:
+      name: DURGAPUR INSTITUTE OF ADVANCED TECHNOLOGY & MANAGEMENT
+      address: G.T. ROAD, RAJBANDH, DURGAPUR-713212, DIST. BURDWAN WEST BENGAL
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812177366:
+      name: SUPREME KNOWLEDGE FOUNDATION GROUP OF INSTITUTIONS
+      address: 1, KHAN ROAD, MANKUNDU STATION ROAD, P.O. MANKUNDU, DIST. HOOGHLY,
+        WEST BENGAL, PIN - 712139
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2812179254:
+      name: BCDA COLLEGE OF PHARMACY & TECHNOLOGY
+      address: 78 JESSORE ROAD(S), HRIDAYPUR, BARASAT 24 PGS(N), KOLKATA-700127 WEST
+        BENGAL, INDIA
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812179448:
+      name: SOUTH CALCUTTA POLYTECHNIC
+      address: ATGHARA, SOLGOALIA P.S- BARUIPUR P.O- MADARAT
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812183522:
+      name: DUMKAL POLYTECHNIC
+      address: 'VILL.:RAMNA BASANTAPUR, P.O.: & P.S.:DUMKAL, DIST.:MURSHIDABAD, PIN.:742406,
+        WEST BENGAL'
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812184020:
+      name: NSHM KNOWLEDGE CAMPUS, KOLKATA - GROUP OF INSTITUIONS
+      address: 124 (60) B L SAHA ROAD
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2812186651:
+      name: NARULA INSTITUTE OF TECHNOLOGY
+      address: 81, NILGUNJ ROAD, AGARPARA, KOLKATA-109
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal University of Technology, Kolkata
+      - West Bengal University of Technology
+    1-2812191850:
+      name: MIRMADAN MOHANLAL GOVERNMENT POLYTECHNIC
+      address: VILL-GOBINDAPUR P.O.- PLASSEY P.S.- KALIGANJ DIST.- NADIA
+      district: NADIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2812191974:
+      name: ASANSOL INSTITUTE OF ENGINEERING AND MANAGEMENT - POLYTECHNIC
+      address: BAGBANDI ROAD, NEAR RADHYASWAMI SATSANG
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2812192077:
+      name: JAKIR HOSSAIN INSTITUTE OF POLYTECHNIC
+      address: VILL-HAPANIA, PO- DAFAHAT, PS- SUTI, DIST- MURSHIDABAD, PIN- 742224
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2812193504:
+      name: RATUA SATYENDRA NATH BOSE GOVERNMENT POLYTECHNIC
+      address: MOTIGANJ P.O.-SAMSI P.S.-RATUA BLOCK- RATUA-1 SUB DIVISION-CHANCHAL
+        MALDA
+      district: MALDA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2813124094:
+      name: JIS SCHOOL OF POLYTECHNIC
+      address: BLOCK-A, PHASE-III, KALYANI.NADIA
+      district: NADIA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2816263242:
+      name: B. P. PODDAR INSTITUTE OF MANAGEMENT & TECHNOLOGY
+      address: 137, V.I.P. ROAD KOLKATA - 700052
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2816263813:
+      name: DR. SUDHIR CHANDRA SUR DEGREE ENGINEERING COLLEGE
+      address: MOUZA-- KALIDAHA, P.S.- DUMDUM, KOLKATA, WEST BENGAL
+      district: KOLKATA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal University of Technology, Kolkata
+    1-2816264710:
+      name: FUTURE INSTITUTE OF ENGINEERING AND MANAGEMENT
+      address: SONARPUR STATION ROAD, DIST.-SOUTH 24 PRGS, KOLKATA
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2816266932:
+      name: HOOGHLY ENGINEERING & TECHNOLOGY COLLEGE
+      address: VIVEKANANDA ROAD, PIPULPATI, P.S.:CHINSURAH, P.O. & DIST:HOOGHLY, PIN:712103,
+        WEST BENGAL
+      district: HOOGHLY
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2816269603:
+      name: BIRLA INSTITUTE OF TECHNOLOGY
+      address: 56 B.T. ROAD
+      district: KOLKATA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2816269848:
+      name: SILIGURI INSTITUTE OF TECHNOLOGY
+      address: HILL CART ROAD, SUKNA, SILIGURI, DARJEELING
+      district: DARJEELING
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+      - West Bengal University of Technology
+    1-2816270379:
+      name: GARGI MEMORIAL INSTITUTE OF TECHNOLOGY CAMPUS
+      address: BALARAMPUR (MOUZA- BERELIA) P.S- BARUIPUR KOLKATA 700144
+      district: SOUTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2816273205:
+      name: MBC INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: SADHANPUR
+      district: BARDHAMAN
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2816274815:
+      name: GLOBAL INSTITUTE OF MANAGEMENT AND TECHNOLOGY
+      address: PALPARA MORE, NH-34, BHATJANGLA, KRISHNAGAR, NADIA
+      district: NADIA
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+      - West Bengal University of Technology, Kolkata
+    1-2842132261:
+      name: BERHAMPORE POLYTECHNIC COLLEGE
+      address: 3/20 GIRIJA PARA LANE, P.O-KHAGRA, P.-BERHAMPORE, DIST-MURSHIDABAD,
+        PIN-742103
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2848095451:
+      name: PURULIA GOVERNMENT ENGINEERING COLLEGE
+      address: VILLAGE- CHAS MORE P.O.- CHAS ROAD P.S.- JOYPUR
+      district: PURULIA
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2849075161:
+      name: RAJGANJ GOVERNMENT POLYTECHNIC
+      address: BELAKOBA PO- PRASANNAGAR PS- RAJGANJ DIST JALPAIGURI
+      district: JALPAIGURI
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2850485231:
+      name: COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE
+      address: HARINCHAWRA, P.O.-GHUGHUMARI DIST-COOCHBEHAR PIN-736170
+      district: COOCH BEHAR
+      institution_type: Government
+      universities:
+      - West Bengal University of Technology, Kolkata
+    1-2858347581:
+      name: L C G INSTITUTE OF POLYTECHNIC
+      address: VILL- LAMBODARPUR, PO & PS- SURI, DISTRICT- BIRBHUM, PIN-731101, WEST
+        BENGAL
+      district: BIRBHUM
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2862619631:
+      name: ALIAH UNIVERSITY
+      address: IIA/27, NEW TOWN
+      district: NORTH 24 PARGANAS
+      institution_type: Government
+      universities:
+      - Aliah University
+    1-2865270411:
+      name: SANTINIKETAN POLYTECHNIC
+      address: NACHAN ROAD PO:- KAMALPUR PS:- AROBINDO AVENUE DIST :- BURDWAN WEST
+        BENGAL :-713204
+      district: BARDHAMAN
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2870457021:
+      name: ARAMBAGH GOVERNMENT POLYTECHNIC
+      address: BURDWAN ROAD, CHANDUR BHATA MORE, DOULATPUR, ARAMBAGH, HOOGHLY
+      district: HOOGHLY
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2871133051:
+      name: RAIPUR GOVERNMENT POLYTECHNIC
+      address: PO-SIROMANIPUR, PS-RAIPUR, DIST-BANKURA, PIN-722134
+      district: BANKURA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2871170501:
+      name: ISLAMPUR GOVERNMENT POLYTECHNIC
+      address: BARHAT, ISLAMPUR, UTTAR DINAJPUR, WEST BENGAL 733207
+      district: UTTER DINAJPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2871170593:
+      name: NALHATI GOVERNMENT POLYTECHNIC
+      address: NALHATI
+      district: BIRBHUM
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2871170869:
+      name: BAGHMUNDI GOVERNMENT POLYTECHNIC
+      address: P.O. PATHARDIH P.S. BAGHMUNDI DIST. PURULIA W.B. - 723152
+      district: PURULIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2871170987:
+      name: MAYNAGURI GOVERNMENT POLYTECHNIC
+      address: UTTAR MAOAMARI, P.O. - DOMOHANI, P.S. MAYNAGURI, DIST- JALPAIGURI
+      district: JALPAIGURI
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2871947981:
+      name: RANAGHAT GOVERNMENT POLYTECHNIC
+      address: MILL PARA, NEAR RANAGHAT JUNCTION RAILWAYA STATION, PO- RANAGHAT, DIST-
+        NADIA, WEST BENGAL, PIN- 741201
+      district: NADIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2872176731:
+      name: TEHATTA GOVERNMENT POLYTECHNIC
+      address: SADHU BAZAR, PS-TEHATTA, BETAI, DIST-NADIA, WEST BENGAL, PIN-741163
+      district: NADIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical and Vocational Education and Skill
+        Development
+    1-2872810501:
+      name: RAMPURHAT GOVERNMENT POLYTECHNIC
+      address: VILL-PABUIDIGHI P.O-NINGHA
+      district: BIRBHUM
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2872810637:
+      name: JANGIPUR GOVERNMENT POLYTECHNIC
+      address: PO- RAGHUNATHGANJ SUB DIV-JANGIPUR DIST-MURSHIDABAD PIN-742225 WEST
+        BENGAL
+      district: MURSHIDABAD
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2873265649:
+      name: MURARAI GOVERNMENT POLYTECHNIC
+      address: VIL & P.O- BON-MOHURAPUR P.S AND BLOCK-MURARAI, SUB DIV-RAMPURHAT DIST-BIRBHUM
+      district: BIRBHUM
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education, Kolkata
+    1-2875271621:
+      name: HILLI GOVT. POLYTECHNIC
+      address: JOTE TEOR, TEOR, HILLI, DAKSHIN DINAJPUR, WEST BENGAL-733145
+      district: DAKSHIN DINAJPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2876475364:
+      name: ADYAPEATH ANNADA POLYTECHNIC COLLEGE
+      address: UNDER (DAKSHINESWAR RAMKRISHNA SANGHA ADYAPEATH) 50 D. D. MONDAL GHAT
+        ROAD
+      district: NORTH 24 PARGANAS
+      institution_type: Govt Aided
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2877126031:
+      name: MEDINIPUR SADAR GOVT. POLYTECHNIC
+      address: 'VILL. :KHASJUNGLE, P.O. :ABAS, P.S. :MIDNAPORE KOTWALI, SUB DIVN.
+        :MIDNAPORE SADAR, DIST. : PASCHIM MEDINIPUR, WEST BENGAL, PIN :721102'
+      district: PASCHIM MEDINIPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2878234121:
+      name: GAYESHPUR GOVERNMENT POLYTECHNIC
+      address: GAYESHPUR, KALYANI; NADIA;WEST BENGAL; PIN:741234
+      district: NADIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical & Vocational Education& Skill Development
+    1-2878601491:
+      name: RAGHUNATHPUR GOVT. POLYTECHNIC
+      address: SARBARI MORE, PO. NETURIA, DIST. PURULIA
+      district: PURULIA
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2878644377:
+      name: GHATAL GOVT. POLYTECHNIC
+      address: 'GHATAL GOVT. POLYTECHNIC, KONNAGAR, P.O. : GHATAL, P.S. : GHATAL,
+        SUB DIVN. : GHATAL, DIST. : PASCHIM MEDINIPUR, WEST BENGAL, PIN : 721212'
+      district: PASCHIM MEDINIPUR
+      institution_type: Government
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2879677551:
+      name: TECHNO INDIA UNIVERSITY, WEST BENGAL
+      address: BISHNUPUR, KOLKATA-104
+      district: SOUTH 24 PARGANAS
+      institution_type: University Managed-Private
+      universities:
+      - TECHNO INDIA UNIVERSITY, WEST BENGAL
+    1-2881063341:
+      name: RJTJA DIPLOMA PHARMACY COLLEGE
+      address: VIL-GOBINDAPUR, P.O-JUGINDA, P.S-DOMKAL
+      district: MURSHIDABAD
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+    1-2893075341:
+      name: TECHNO INDIA POLYTECHNIC
+      address: EM-4/2, SECTOR-V, SALT LAKE, KOLKATA-91
+      district: NORTH 24 PARGANAS
+      institution_type: Unaided - Private
+      universities:
+      - West Bengal State Council of Technical Education
+  updated_at: '2016-09-03T19:39:46+05:30'
+  md5: !binary |-
+    OSkwhVwOVjbTTgLs9jnNwQ==

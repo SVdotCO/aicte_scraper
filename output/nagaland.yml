@@ -1,0 +1,50 @@
+---
+Nagaland:
+  colleges:
+    1-2811559486:
+      name: NAGALAND TOOL ROOM & TRAINING CENTRE
+      address: NAGALAND TOOL ROOM & TRAINING CENTRE, NEW INDUSTRIAL, NEAR SUB-JAIL
+        JUNCTION, TINALI, NH-36, DIMAPUR, NAGALAND 797112
+      district: DIMAPUR
+      institution_type: Govt Aided
+      universities:
+      - DEPT OF TECHNICAL EDUCATION
+    1-2811751926:
+      name: SCHOOL OF ENGINEERING AND TECHNOLOGY
+      address: D C COURT JUNCTION, DIMAPUR, NAGALAND, PIN 797112
+      district: DIMAPUR
+      institution_type: Central University
+      universities:
+      - Nagaland University, Lumani
+    1-2812031847:
+      name: GOVERNMENT POLYTECHNIC KOHIMA
+      address: GOVERNMENT POLYTECHNIC KOHIMA, NEAR I.G STADIUM, KOHIMA, NAGALAND 797001
+      district: KOHIMA
+      institution_type: Government
+      universities:
+      - Directorate of Higher & Technical Education, Nagaland
+    1-2814360967:
+      name: SCHOOL OF MANAGEMENT STUDIES, NAGALAND UNIVERSITY
+      address: D C COURT JUNCTION DIMAPUR
+      district: DIMAPUR
+      institution_type: Central University
+      universities:
+      - Nagaland University, Lumani
+    1-2846195971:
+      name: PARA MEDICAL TRAINING INSTITUTE
+      address: PARA MEDICAL TRAINING INSTITUTE, MERHULIETSA COLONY
+      district: KOHIMA
+      institution_type: Government
+      universities:
+      - Directorate of Higher & Technical Education, Nagaland
+    1-2870154161:
+      name: NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY
+      address: MERIEMA, NEW HIGH COURT ROAD, POST BOX NO.733, KOHIMA
+      district: KOHIMA
+      institution_type: Government
+      universities:
+      - STATE COUNCIL OF TECHNICAL EDUCATION
+      - STATE COUNCIL OF TECHNICAL EDUCATION, NAGALAND
+  updated_at: '2016-09-03T19:16:27+05:30'
+  md5: !binary |-
+    J+cgdYVpMipskcOZdZa5kQ==

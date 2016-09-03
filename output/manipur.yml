@@ -1,0 +1,33 @@
+---
+Manipur:
+  colleges:
+    1-2811884355:
+      name: MANIPUR INSTITUTE OF TECHNOLOGY
+      address: TAKYELPAT, IMPHAL
+      district: IMPHAL WEST
+      institution_type: Government
+      universities:
+      - Manipur University, Imphal
+    1-2811985324:
+      name: CENTRAL INSTITUTE OF PLASTICS ENGINEERING & TECHNOLOGY
+      address: INDUSTRIAL ESTATE TAKYELPAT
+      district: IMPHAL WEST
+      institution_type: Government
+      universities: []
+    1-2863798081:
+      name: NATIONAL INSTITUTE OF ELECTRONICS AND INFORMATION TECHNOLOGY IMPHAL
+      address: AKAMPAT, IMPHAL (E)-795001
+      district: IMPHAL EAST
+      institution_type: Government
+      universities:
+      - Manipur University, Imphal
+    1-2864395619:
+      name: GOVERNMENT POLYTECHNIC
+      address: TAKYELPAT, IMPHAL
+      district: IMPHAL WEST
+      institution_type: Government
+      universities:
+      - Manipur University, Imphal
+  updated_at: '2016-09-03T19:16:24+05:30'
+  md5: !binary |-
+    L9ezQg4X6KW0oyQMRzpdvA==

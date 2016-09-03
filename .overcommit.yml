@@ -5,3 +5,5 @@ PreCommit:
 
   TrailingWhitespace:
     enabled: true
+    exclude:
+      - "**/output/*.yml"

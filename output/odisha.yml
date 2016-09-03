@@ -1,0 +1,2201 @@
+---
+Odisha:
+  colleges:
+    1-2811474712:
+      name: ODISHA POLYTECHNIC
+      address: 'AT/PO: KURUDA, DIST: BALASORE, ODISHA, PIN: 756056'
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Board of Technical Education, Orissa
+    1-2811521796:
+      name: BHUBANESWAR INSTITUTE OF TECHNOLOGY
+      address: INFOVALLEY, HARAPUR BHUBANESWAR PIN-752054 ODISHA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811524634:
+      name: JAGANNATH INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: PHASE-II, NEW INDUSTRIAL ESTATE, JAGATPUR, CUTTACK. ORISSA-754021.
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811524943:
+      name: UTKAL GOURAV MADHUSUDAN INSTITUTE OF TECHNOLOGY
+      address: BEHIND COLLECTORATE
+      district: RAYAGADA
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811525298:
+      name: GOPAL KRISHAN COLLEGE OF ENGGINEERING & TECHNOLOGY
+      address: GOURAHARI VIHAR, PO:RANIPUT JEYPORE-764005, DIST:KORAPUT
+      district: KORAPUT
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811528694:
+      name: CAPITAL ENGINEERING COLLEGE
+      address: PLOT NO-1293 AT/PO-MAHATAPALA DIST- KHORDHA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811529372:
+      name: VENUS GROUP OF EDUCATIONAL & RESEARCH INSTITUTE
+      address: AT/P.O.-BAHANAGA, DIST-BALASORE, PIN-756042
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811532318:
+      name: ROURKELA INSTITUTE OF MANAGEMENT STUDIES
+      address: INSTITUTIONAL AREA GOPABANDHU NAGAR CHHEND ROURKELA-769015
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811532526:
+      name: JAGANNATH INSTITUTE FOR TECHNOLOGY AND MANAGEMENT
+      address: 'AT: R. SITAPUR, VIA: UPPALADA, PARALAKHEMUNDI DIST: GAJAPATI (ORISSA)
+        - 761 211'
+      district: GAJAPATI
+      institution_type: University Managed-Private
+      universities:
+      - Centurion University of Technolgy and Management, Paralakhemundi
+      - Centurion University of Technology and Management
+    1-2811538227:
+      name: ORISSA SCHOOL OF ENGINEERING
+      address: BANTHAPALLI
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811538530:
+      name: DR. AMBEDKAR MEMORIAL INSTITUTE OF INFORMATION TECHNOLOGY & MANAGEMENT
+        SCIENCE
+      address: JAGDA, ROURKELA-769042 DIST-SUNDARGARH ORISSA
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811541992:
+      name: JEYPORE SCHOOL OF ENGINEERING AND TECHNOLOGY (JSET)
+      address: AT/PO - RONDAPALLI, VIA - JEYPORE, DIST - KORAPUT, STATE - ODISHA,
+        PIN - 764002
+      district: KORAPUT
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811542311:
+      name: RJ SCHOOL OF MANAGEMENT STUDIES
+      address: 'RJ VIDYA VIHAR, TIGIRIA, TENTULIPURA, PO : PUNJIBAG, VIA : SUNHAT,
+        DIST : BALASORE, PIN : 756002'
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811546256:
+      name: ROURKELA INSTITUTE OF TECHNOLOGY, KALUNGA
+      address: AT-RIT CAMPUS PO-KALUNGA DIST-SUNDARGARH ORISSA PIN-770031
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811546397:
+      name: BHADRAK ENGINEERING SCHOOL AND TECHNOLOGY
+      address: NITYANANDA VIHAR AT/PO-ASURALI BHADRAK DIST-BHADRAK ORISSA PIN-756137
+      district: BHADRAK
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811549865:
+      name: MITS SCHOOL OF ENGINEERING
+      address: AT/PO:- JANLA TALUKA- BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811550082:
+      name: SCS COLLEGE (AUTONOMOUS) PURI, GOVT
+      address: AT/PO-PURI PURI DIST-PURI ODISHA
+      district: PURI
+      institution_type: Government
+      universities:
+      - Utkal University, Bhubaneswar
+    1-2811550260:
+      name: INSTITUTE OF TEXTILE TECHNOLOGY
+      address: AT-GANDHI CHHAKA, CHOUDWAR
+      district: CUTTACK
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811555692:
+      name: CAPITAL INSTITUTE OF MANAGEMENT AND SCIENCE
+      address: 1309, PADHANSAHI SQUARE
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811555791:
+      name: SOPHITORIUM ENGINEERING COLLEGE
+      address: IN FRONT ROAD OF COLLECTOR'S OFFICE, KHURDA, BANIATANGI, KHURDA, BHUBANESWAR,
+        ORISSA, PIN-752060
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811558631:
+      name: KRUPAJAL MANAGEMENT STUDIES
+      address: PUBA SASANA, KAUSALYA GANGA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811558937:
+      name: ACADEMY OF MANAGEMENT & INFORMATION TECHNOLOGY
+      address: 67, IID CENTER
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811561961:
+      name: GOVERNMENT POLYECHNIC
+      address: BERHAMPUR, GANJAM, ORISSA
+      district: GANJAM
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811565928:
+      name: GOVERNMENT POLYTECHNIC, BHUBHANESWAR
+      address: PLOT NO-1 CHANDRASEKHARPUR PO- RAIL VIHAR
+      district: KHORDHA
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811570069:
+      name: MAHAMAYA INSTITUTE OF MEDICAL & TECHNICAL SCIENCE, NUAPADA
+      address: AT/PO-NUAPADA
+      district: NUAPADA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811573862:
+      name: INDUS COLLEGE OF ENGINEERING
+      address: BARAKUDA HEIGHT BHUBANESWAR PIN-752050
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811574416:
+      name: INDIAN INSTITUTE OF SCIENCE AND INFORMATION TECHNOLOGY(IISIT)
+      address: PRASNAGARBHA, PLOT NO. S-3/68, 69 & 83, SECTOR-'A', ZONE-'B' MANCHESWAR
+        INDUSTRIAL ESTATE, BHUBANESWAR - 751010, ORISSA.
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811581465:
+      name: SKADV GOVERNMENT POLYTECHNIC, ROURKELA
+      address: 'BASANTI COLONY ROURKELA DIST: SUNDARGARH ORISSA, BHUBANESWAR'
+      district: SUNDERGARH
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811588615:
+      name: NIGAM INSITUTE OF ENGINEERING & TECHNOLOGY
+      address: BARANGA CUTTACK
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+      - DEPT OF TECHNICAL EDUCATION
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811590317:
+      name: ASIAN SCHOOL OF TECHNOLOGY
+      address: AT-BANTALA PO-MUKTAPUR DIST-KHURDA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811592416:
+      name: KANAK MANJARI INSTITUTE OF PHARMACEUTICAL SCIENCES
+      address: AT-CHHEND COLONY PO-ROURKELA-15 DIST-SUNDARGARH ODISHA PIN-769015
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811593982:
+      name: NORTH ODISHA SCHOOL OF ENGINEERING
+      address: 'AT/PO: BAUNSATOFA VIA: RASGOBINDAPUR DIST: MAYURBHANJ ODISHA'
+      district: MAYURBHANJ
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811594144:
+      name: KALINGA INSTITUE OF INDUSTRIAL TECHNOLOGY
+      address: AT/PO PATIA
+      district: KHORDHA
+      institution_type: Deemed University(Private)
+      universities:
+      - KIIT University, Bhubaneswar
+    1-2811598230:
+      name: TRIDENT ACADEMY OF CREATIVE TECHNOLOGY
+      address: F2/B, CHANDAKA INDUSTRIAL ESTATE, INFRONT OF INFOCITY, CHANDRASEKHARPUR,
+        BHUBANESWAR, PIN-751024
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811599624:
+      name: GANDHI INSTITUTE FOR TECHNOLOGICAL ADVANCEMENT (GITA), BHUBANESWAR
+      address: 'AT: BADARAGHUNATHPUR, PO: MADANPUR VIA: JAANLA'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811601229:
+      name: VIGNAN INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+      address: 'BHAIRAVI VIHAR, HARADANGA VILLAGE, PO: MANTRIDI, VIA: GOLANTHARA,
+        BERHAMPUR, GANJAM DISTRICT, ORISSA PIN: 761008'
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811602933:
+      name: SUSHREE INSTITUTE OF TECHNICAL EDUCATION (SITE)
+      address: AT-PALLISHREE VIHAR PO-SADAIPALI VIA-CHANDANBHATI DIST-BALANGIR PIN-767065
+        STATE-ORISSA
+      district: BALANGIR
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811603349:
+      name: BERHAMPUR SCHOOL OF ENGINEERING & TECHNOLOGY
+      address: AT-RAMACHANDRAPUR, PO- DURA, BERHAMPUR-760010, DIST-GANJAM (ORISSA)
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811604892:
+      name: GOVT. POLYTECHNIC BALASORE
+      address: 'AT: BIDYADHARPUR PO: REMUNA DIST: BALASORE'
+      district: BALASORE
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Orissa
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811605082:
+      name: GOVERNMENT POLYTECHNIC, BOLANGIR
+      address: AT- LARKIPALI PO- RAJENDRA COLLEGE
+      district: BALANGIR
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Orissa
+    1-2811605222:
+      name: GOVT.POLYTECHNIC, KANDHAMAL
+      address: AT:- GOVT. COLLEGE ROAD PO:- PHULBANI DIST:- KANDHAMAL
+      district: KANDHAMAL
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811605391:
+      name: GOVERNMENT POLYTECHNIC, KENDRAPARA
+      address: AT/PO-CHATRA CHAKADA BLOCK- DERABISH
+      district: KENDRAPARA
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Orissa
+    1-2811607363:
+      name: DHABALESWAR INSTITUTE OF POLYTECHNIC
+      address: RADHADAMODARPUR, P.O-RADHAKISHORPUR, KHUNTUNI, CUTTACK, ORISSA PIN-754029
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811609794:
+      name: COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: GHATIKIA, BHUBANESWAR-751003
+      district: KHORDHA
+      institution_type: Government
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811610506:
+      name: KEONJHAR SCHOOL OF ENGINEERING, KEONJHAR
+      address: AT - DIMBO (TENTULINANDA) PO-DIMBO DIST-KEONJHAR ODISHA PIN-758014
+      district: 
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811612821:
+      name: GOVERNMENT POLYTECHNIC
+      address: 'AT: AGNIPUR, PO/DIST: NABARANGPUR, PIN-764059, ODISHA'
+      district: NABARANGPUR
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Orissa
+    1-2811612980:
+      name: GOVERNMENT POLYTECHNIC SAMBALPUR
+      address: AT/PO-RENGALI DIST.-SAMBALPUR ODISHA-768212
+      district: SAMBALPUR
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Orissa
+    1-2811613419:
+      name: SATYA SAI SCHOOL OF ENGINEERING (DIPLOMA)
+      address: 'AT :SRIKONA PO: PANJIBAG VIA: SUNHAT'
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811614729:
+      name: MODERN ENGINEERING & MANAGEMENT STUDIES
+      address: 'BANAPARIA, KURUDA, BALASORE ORISSA. PIN CODE : 756056'
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811615174:
+      name: SEEMANTA INSTITUTE OF PHARMACEUTICAL SCIENCES
+      address: AT/PO- JHARPOKHARIA DIST- MAYURBHANJ STATE- ORISSA PIN-757086
+      district: MAYURBHANJ
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811615471:
+      name: THE TECHNO SCHOOL
+      address: '361-A, PATRAPADA, BHUBANESWAR, PIN CODE- 751019, KHURDA, ORISSA, PHONE
+        NO- 2472525, 2471416, E-MAIL: TTS_BBSR@YAHOO.CO.IN, WEB:WWW. TTS.AC.IN'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811618967:
+      name: GOVERNMENT POLYTECHNIC, SUBARNAPUR
+      address: AT-BADA JHINKI PO-SUBARNAPUR DIST-SUBARNAPUR PIN-767017
+      district: 
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811619496:
+      name: SANJAY MEMORIAL INSTITUTE OF TECHNOLOGY
+      address: BRUDABAN BIHAR, ANKUSHPUR, ORISSA, GANJAM, 761100
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811622188:
+      name: MAHAVIR ENGINEERING COLLEGE
+      address: MAHAVIR NAGAR, BHUBANESWAR, PANIORA, PO-PALASHPUR, DIST-KHURDA PIN-752054,
+        ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811623922:
+      name: PURI ENGINEERING SCHOOL
+      address: AT- BIDYA NIKETAN, BALIGUALI KONARK MARINE DRIVE ROAD PURI - 752002
+      district: PURI
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811626080:
+      name: ROLAND INSTITUTE OF PHARMACEUTICAL SCIENCES
+      address: 'PO: KHODASINGI'
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811626394:
+      name: KALAHANDI SCHOOL OF ENGINEERING & TECHNOLOGY
+      address: 'AT: BAIDYANATH VIHAR, UDITNARAYANPUR'
+      district: KALAHANDI
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811628051:
+      name: BADRIPRASAD INSTITUTE OF TECHNOLOGY
+      address: AT-DEBAIPALI, POST-SASON, DIST-SAMBALPUR
+      district: SAMBALPUR
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811630128:
+      name: HI-TECH INSTITUTE OF TECHNOLOGY
+      address: INDUSTRIAL ESTATE, KHURDA, BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811634146:
+      name: ROYAL COLLEGE OF PHARMACY AND HEALTH SCIENCES
+      address: ANDHAPASARA ROAD
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811634476:
+      name: SUDDHANANDA ENGINEERING AND RESEARCH CENTRE
+      address: AT - NACHHIPUR, PO - BHATAPATNA, BHUBANESWAR, KHURDA, PIN - 752115
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Board of Technical Education, Orissa
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811635384:
+      name: NALANDA INSTITUTE OF TECHNOLOGY
+      address: BUDHIST VILLA, CHANDAKA G.P
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811635770:
+      name: THE PHARMACEUTICAL COLLEGE
+      address: SAMALESWARI VIHAR, TINGIPALI PO- MOHADA, VIA- BARPALI DIST- BARGARH
+        ORISSA PIN-768029
+      district: BARGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811636161:
+      name: CENTURION INSTITUTE OF TECHNOLOGY
+      address: RAMCHANDRAPUR JATNI KHURDA ORISSA
+      district: KHORDHA
+      institution_type: University Managed-Private
+      universities:
+      - Centurion University of Technolgy and Management, Paralakhemundi
+    1-2811636880:
+      name: DRIEMS
+      address: AT- KAIRAPARI, PO- KOTSAHI (TANGI), DIST- CUTTACK, PIN - 754022
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811637818:
+      name: RAJDHANI COLLEGE OF ENGINEERING AND MANAGMENT
+      address: PLOT NO. -18, SECTOR-A, ZONE-B, MANCHESWAR INDUSTRIAL ESTATE
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811639167:
+      name: MADHUSUDAN INSTITUTE OF COOPERATIVE MANAGEMENT, BHUBANESWAR
+      address: UNIT - 8, BHUBANESWAR - 751012
+      district: KHORDHA
+      institution_type: Government
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811639279:
+      name: C.V.RAMAN COLLEGE OF ENGINEERING
+      address: BIDYANAGAR MAHURA JANLA BHUBANESWAR - 752054
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811640662:
+      name: GAYATRI COLLEGE OF PHARMACY
+      address: GAYATRI VIHAR, JAMADARPALI SAMBALPUR-768200
+      district: SAMBALPUR
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811643302:
+      name: KOUSTUV BUSINESS SCHOOL
+      address: PLOT NO-1(C), SECTOR-B CNI COMPLEX PATIA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811647043:
+      name: BARRISTER RANJIT MOHANTY INTERNATIONAL INSTITUTE OF TECHNOLOGY
+      address: BARRISTER RANJIT MOHANTY INTERNATIONAL INSTITUTE OF TECHNOLOGY, AT-
+        PANDRA, PO- RASULGARH, BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811649314:
+      name: PADMASHREE KRUTARTHA ACHARYA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: 'AT: CHAKARKEND P.O.: BARGARH DIST: BARGARH'
+      district: BARGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811649646:
+      name: RAAJDHANI ENGINEERING COLLEGE
+      address: NEAR MANCHESWAR RLY.STATION MANCHESWAR BHUBANESWAR KHORDHA 751017 ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811651507:
+      name: GAYATRI INSTITUTE OF COMPUTER AND MANAGEMENT STUDIES (GICMS)
+      address: 'GYAN VIHAR AT : REGEDA PO: GUNUPUR DIST: RAYAGADA (ODISHA) PIN - 765022'
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811653243:
+      name: AJAY BINAY INSTITUTE OF TECHNOLOGY, CUTTACK
+      address: SECTOR-I, CDA, CUTTACK-753014
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811656237:
+      name: INNOVATION - THE BUSINESS SCHOOL
+      address: 'AT: TARAKAI PO: MUKTAPUR DIST: KHURDA'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2811656346:
+      name: GANDHI INSTITUTE FOR TECHNOLOGY(GIFT), BHUBANESWAR
+      address: AT-GRAMADIHA PO-GANGAPADA VIA-JANLA DT-KHURDA STATE:ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811658413:
+      name: BIT POLYTECHNIC
+      address: TECHNO CAMPUS, ARMALA, SOMANATHPUR, BALASORE, ORISSA
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811660037:
+      name: BLACK DIAMOND COLLEGE OF ENGINEERING & TECHNOLOGY, JHARSUGUDA
+      address: 'AT: BALIJORI, L&T BYPASS ROAD, POST BOX NO. 21, DISTRICT: JHARSUGUDA
+        ORISSA'
+      district: JHARSUGUDA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811662298:
+      name: KALINGA INSTITUTE OF MINING ENGINEERING & TECHNOLOGY
+      address: AT/PO/PS-CHHENDIPADA
+      district: ANGUL
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811663815:
+      name: SUDDHANANDA RESIDENTIAL POLYTECHNIC
+      address: AT-NACHHIPUR, PO-BHATAPATNA, BHUBANESWAR, DIST-KHORDHA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811664380:
+      name: SHIBANI INSTITUTE OF TECHNICAL EDUCATION(SITE)
+      address: AT-CHHATABAR P.O.-CHHATABAR VIA-JANLA(BHUBANESWAR) DIST-KHURDA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811669697:
+      name: BARABATI INSTITUTE OF MANAGEMENT STUDIES
+      address: 'PLOT NO : 242, BISWALPADA PO: KHADEITA VIA: GOPALPUR DIST : CUTTACK
+        PIN: 753 011'
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811669791:
+      name: INTERSCIENCE INSTITUTE OF MANAGEMENT & TECHNOLOGY, BHUBANESWAR
+      address: AT/ P.O. KANTABADA, VIA-JANLA, DIST- KHURDA 752024
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2811671319:
+      name: COLLEGE OF PHARMACEUTICAL SCIENCES, PURI
+      address: MARINE DRIVE ROAD PO:-BALIGUALI DIST:-PURI PIN:-752002 ORISSA
+      district: PURI
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811671510:
+      name: RADHAKRISHNA INSTITUTE OF TECHNOLOGY AND ENGINEERING (RITE)
+      address: 'PLOT NO. -1, KHURDA INDUSTRIAL ESTATE, DISTRICT: KHURDA, UNDER BHUBANESWAR
+        DEVELOPMENT AUTHORITY, BHUANESWAR'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811673045:
+      name: GURUKRUPA TECHNICAL SCHOOL
+      address: 'AT: KENDUPALLI, PO- NUKHAPADA, PS- NARSINGHPUR, DIST- CUTTACK'
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811673313:
+      name: ORISSA ENGINEERING COLLEGE
+      address: NABAJYOTI VIHAR, NIJIGARH KURKI, JATNI, PO- HARIRAJPUR, KHURDA-752050
+        HEAD OFFICE:- PLOT NO-36/A, SAHEED NAGAR, BHUBANESWAR-753007 CITY OFFICE-PLOT
+        N
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811675549:
+      name: KUSHAGRA INSTITUTE OF INFORMATION & MANAGEMENT SCIENCE
+      address: PIRA BAZAR, GOPALPUR, IN FRONT OF SADAR POLICE STATION
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811675762:
+      name: MAHARAJA PURNA CHANDRA (AUTONOMOUS)COLLEGE
+      address: AT-TAKHATPUR, P.O.-BARIPADA
+      district: MAYURBHANJ
+      institution_type: Government
+      universities:
+      - North Orissa University of Agriculture and Technology, Baripada
+    1-2811676817:
+      name: AFFINITY BUSINESS SCHOOL
+      address: AT/PO-BARATOTA, VIA-JATNI, DIST- KHURDA, PIN-752050, STATE-ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2811676964:
+      name: DRIEMS POLYTECHNIC
+      address: AT-KAIRAPARI PO-KOTSAHI (TANGI) DIST-CUTTACK ORISSA-754022
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811677644:
+      name: KALINGA NAGAR POLYTECHNIC
+      address: AT:TARAPUR, PO:LAXMINAGAR
+      district: JAJPUR
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811678959:
+      name: UNIVERSITY DEPARTMENT OF PHARMACEUTICAL SCIENCES
+      address: 'UTKAL UNIVERSITY, VANI VIHAR BHUBANESWAR, PIN: 751004, ORISSA'
+      district: KHORDHA
+      institution_type: University Managed-Govt
+      universities:
+      - Utkal University, Bhubaneswar
+    1-2811680884:
+      name: JHADESWAR INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: INDIAN OIL ROAD NEAR BIRLA TYRES BALASORE
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811683346:
+      name: BHUBANESWAR ENGINEERING COLLEGE (BEC)
+      address: NK NAGAR, AT-GRAMADIHA, PITTAPALLY BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811685971:
+      name: COLLEGE OF IT & MANAGEMENT EDUCATION
+      address: PLOT NOT.4, SECTOR-A, ZONE-B, MANCHESWAR INDUSTRIAL ESTATE
+      district: KHORDHA
+      institution_type: Government
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811686248:
+      name: S.M.INSTITUTE OF TECHNOLOY, P.G.CENTRE FOR MANAGEMENT STUDIES
+      address: BRUNDABAN BIHAR, ANKUSHPUR BERHAMPUR GANJAM ORISSA PIN CODE-761100
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811689370:
+      name: PRESIDENCY COLLEGE BERHAMPUR
+      address: SIHALA ROAD, KONISI, GOLANTHARA-PO BERHAMPUR, GANJAM, ORISSA PIN-761008
+        PH-0680-2637200/300, FAX-0680-2637301 E-MAIL- PRESIDENCYMAIL@GMAIL.COM
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities: []
+    1-2811689700:
+      name: VIJAYANJALI INSTITUTE OF TECHNOLOGY
+      address: AT-KHANTAPADA DIST-BALASORE, ORISSA PIN-756043
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811691218:
+      name: UTKALMANI GOPABANDHU INSTITUTE OF ENGINEERING ROURKELA
+      address: AT-JAILROAD
+      district: SUNDERGARH
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811691744:
+      name: INDIRA GANDHI INSTITUTE OF TECHNOLOGY SARANG
+      address: AT/PO:IGIT SARANG
+      district: DHENKANAL
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811693332:
+      name: GANAPATI INSTITUTE OF ENGINEERING & TECHNOLOGY (POLYTECHNIC)
+      address: GOPINATH PUR, MATHASAHI, BHIARPUR. JAGATPUR
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811695639:
+      name: INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY
+      address: INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY PO. SCB MEDICAL
+        CAMPUS BOSE CAMPUS CUTTACK ORISSA INDIA PIN 753007
+      district: CUTTACK
+      institution_type: Government
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811697484:
+      name: PADMASHREE KRUTARTHA ACHARYA COLLEGE OF ENGINEERING, BARGARH
+      address: AT/POST.CHAKARKEND DIST. BARGARH ORISSA -768028
+      district: BARGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811698991:
+      name: SANJAY MEMORIAL INSTITUTE OF TECHNOLOGY, SMIT
+      address: DEGREE ENGINEERING COLLEGE, CHANDIPADAR, VIA- BHATAKUMARADA, BERHAMPUR
+        DIST- GANJAM, ORISSA PIN-761003
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811699639:
+      name: GANDHI INSTITUTE FOR EDUCATION & TECHNOLOGY
+      address: 'AT : BANIATANGI PO : BAJPUR DIST : KHURDA ORISSA PIN : 752060'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811701589:
+      name: HI-TECH INSTITUTE OF INFORMATION & TECHNOLOGY
+      address: HI-TECH NAGAR UMERI
+      district: KORAPUT
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811701850:
+      name: COLLEGE OF PHARMACEUTICAL SCIENCES, BERHAMPUR
+      address: 'AT/PO : MOHUDA DIST: GANJAM STATE:ODISHA PIN- 760002'
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811702728:
+      name: GOVERNMENT COLLEGE OF ENGINEERING, KALAHANDI, BHAWANIPATNA
+      address: AT- BANDOPALA PO- RISIGAON BHAWANIPATNA DIST- KALAHANDI ODISHA - 766002
+      district: KALAHANDI
+      institution_type: Government
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811706184:
+      name: CENTRAL TOOL ROOM & TRAINING CENTRE
+      address: B-36, CHANDAKA INDUSTRIAL AREA
+      district: KHORDHA
+      institution_type: Govt Aided
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811706720:
+      name: CENTRAL INSTITUTE OF PLASTICS ENGINEERIG & TECHNOLOGY
+      address: PLOT NO - B-25, C.N.I. COMPLEX PATIA, BHUBANESWAR, ORISSA PIN - 751024
+      district: KHORDHA
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811707541:
+      name: BALASORE SCHOOL OF ENGINEERING
+      address: AT-SRIKANTHAPUR (NEAR RANIPATNA) PO/DIST-BALASORE
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811707980:
+      name: HI-TECH INSTITUTE OF ENGINEERING & MANAGEMENT
+      address: N.H-5, AT/PO - RANITAL DIST-BHADRAK PIN-756111 ORISSA.
+      district: BHADRAK
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811708208:
+      name: PURNA CHANDRA INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: AT-CHHENDIPADA PO-CHHENDIPADA PS-CHHENDIPADA DIST-ANGUL PIN-759124
+        ORISSA
+      district: ANGUL
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811708580:
+      name: BAJIROUT INSTITUTE OF ENGINEERING AND TECHNOLOGY (POLYTECHNIC)
+      address: AT. TALABARKOTE, NEAR SPINNING MILL PO. GOVINDPUR
+      district: DHENKANAL
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811708909:
+      name: INSTITUTE OF PROFESSIONAL STUDIES & RESEARCH
+      address: IPSAR HOUSE, SEC-6, CDA, CUTTACK-753014 ORISSA
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811709468:
+      name: INTERNATIONAL POLYTECHNIC
+      address: AT-LAHANGA, PO-MOTTA, PS-JANKIA DIST-KHORDHA, PIN-752020 ODISHA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811709613:
+      name: AUM SAI INSTITUTE OF TECHNICAL EDUCATION
+      address: NARAYANAPUR GOPALPUR ROAD
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811711956:
+      name: SILICON INSTITUTE OF TECHNOLOGY
+      address: SILICON HILLS, PATIA, BHUBANESWAR, KHORDHA, ORISSA PIN-751024
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811713523:
+      name: BHADRAK INSTITUTE OF ENGINEERING & TECHNOLOGY, BARAPADA, BHADRAK
+      address: AT/PO- BARAPADA, BHADRAK DIST- BHADRAK PIN - 756113 ORISSA, INDIA
+      district: BHADRAK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811715115:
+      name: NIIS INSTITUTE OF BUSINESS ADMINISTRATION
+      address: 'SARADA VIHAR MADANPUR BHUBANESWAR DIST: KHURDA PIN: 752054'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811715689:
+      name: ARYAN INSTITUTE OF ENGINEERING & TECHNOLOGY (POLYTECHNIC)
+      address: VIDYA-VIHAR, SUNDARGRAM, CUTTACK
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811724681:
+      name: CENTRE FOR MANAGEMENT STUDIES, ORISSA ENGINEERING COLLEGE
+      address: NABAJYOTI VIHAR, NIJIGARH KURKI, P.O. - HARIRAJPUR, JATNI
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811726316:
+      name: INSTITUTE OF PHARMACY & TECHNOLOGY, SALIPUR
+      address: INSTITUTE OF PHARMACY & TECHNOLOGY, SALIPUR AT/P.O-SALIPUR DIST. CUTTACK,
+        ORISSA PIN-754202
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811727166:
+      name: ZENITH INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: AT-PITAPALLY (NH-5) PO-JATNI DIST-KHURDA PIN-752055
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811728892:
+      name: GANDHI INSTITUTE OF EXCELLENT TECHNOCRATS
+      address: PRINCES AVENUE, GHANGAPATNA, BHUBANESWAR, PO:KANTABADA, VIA:JANLA,
+        DIST:KHURDA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811729654:
+      name: NILASAILA INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: AT/PO-SHERGADA NH-5
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811730915:
+      name: PURUSHOTTAM SCHOOL OF ENGINEERING AND TECHNOLOGY
+      address: MANDIA KUDAR, KANSBAHAL
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+    1-2811731151:
+      name: BIJU PATTANAIK FILM & TELEVISION INSTITUTE OF ORISSA
+      address: MEDICAL ROAD BOSE CAMPUS, CUTTACK ORISSA-753007
+      district: CUTTACK
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811731325:
+      name: VIKASH INSTITUTE OF TECHNOLOGY, BARGARH
+      address: VIKASH ENCLAVE, BARAHAGUDA CANAL CHOWK
+      district: BARGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811732163:
+      name: INDUS SCHOOL OF ENGINEERING
+      address: BARAKUDA HEIGHTS
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811732574:
+      name: SATYASAI ENGINEERING COLLEGE
+      address: 'AT: SRIKONA ( CHANDIPUR SEA BEACH ROAD ) PO: PANJIBAG, VIA- SUNHAT,
+        DIST : BALASORE ODISHA'
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811740933:
+      name: INSTITUTE OF ENGINEERING & MANAGEMENT
+      address: AT- GOURHARI VIHAR RANIPUT
+      district: KORAPUT
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811741275:
+      name: SIDHARTHA INSTITUTE OF ENGINEERING & TECHNOLOGY(POLYTECHNIC)
+      address: AT-EKTAGUDA, PO-MAHADEIPUT
+      district: KORAPUT
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811741502:
+      name: BIJU PATNAIK INSTITUTE OF TECHNOLOGY
+      address: VILLAGE-DADPAJU, BLOCK-KHAJURIPADA, DISTRICT-KANDHAMAL, PIN-762001
+      district: KANDHAMAL
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811743424:
+      name: SRI POLYTECHNIC
+      address: AT/PO - KOMAND, DIST - NAYAGARH, PIN - 752090
+      district: NAYAGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811746274:
+      name: PNS SCHOOL OF ENGINEERING & TECHNOLOGY(POLYTECHNIC)
+      address: NISHAMANI VIHAR, MARSHAGHAI, KENDRAPARA, ORISSA
+      district: KENDRAPARA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811755826:
+      name: GOVERNMENT POLYTECHNIC, GAJAPATI
+      address: 'AT: BETAGUDA, PARALAKHEMUNDI, DIST: GAJAPATI'
+      district: GAJAPATI
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811756226:
+      name: GANDHI INSTITUTE OF MANAGEMENT STUDIES
+      address: VILLAGE - GOBIRIGUDA, PO - KHARLING, DISTRICT - RAYAGADA
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811756346:
+      name: MODERN INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+      address: AT-BHAGABATIPUR BHUBANESWAR, PO- KANTABADA, VIA - JANLA, DIST-KHURDA,
+        ORISSA 752054
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811760046:
+      name: KOUSTUV INSTITUTE OF SELF DOMAIN
+      address: PLOT NO1(B), SECTOR-B, PATIA, CHANDRASEKHARPUR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811763933:
+      name: R.K. INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: AT/PO- KANTAPADA, VIA- BANAMALIPUR, PS- NIALI
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811764314:
+      name: BIJU PATNAIK INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT STUDIES
+      address: PLOT NO. -F/4, CHANDAKA IND. ESTATE, OPP. OF INFOCITY, PATIA, BHUBANESWAR-751024
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811769924:
+      name: SUBAS INSTITUTE OF TECHNOLOGY
+      address: GYAN VIHAR BARANG BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811773889:
+      name: S.C.B.MEDICAL COLLEGE
+      address: CUTTACK 753007
+      district: CUTTACK
+      institution_type: Government
+      universities:
+      - Department of Technical Education
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811774067:
+      name: HI-TECH COLLEGE OF ENGINEERING
+      address: PANDARA, G.G.P COLONY, RASULGARH, BHUBANESWAR - 751025 ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811777584:
+      name: DRIEMS BUSINESS SCHOOL
+      address: AT- KAIRAPARI, PO- KOTSAHI (TANGI), DIST- CUTTACK, PIN-754022
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities: []
+    1-2811790704:
+      name: BHUBANESWAR COLLEGE OF ENGINEERING
+      address: 'AT- KHAJURIA POST: DAMANABHUIN PS: JANKIA'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811795326:
+      name: GANDHI SCHOOL OF ENGINEERING
+      address: CHIDANANDA HILLS, AT:BHABANDHA PO:BATAKUMARADA BERHAMPUR.
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811798043:
+      name: ORISSA SCHOOL OF MINING ENGINEERING
+      address: ORISSA SCHOOL OF MINING ENGINEERING AT/PO- KEONJHAR DIST. - KEONJHAR
+        PIN - 758001
+      district: 
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811798652:
+      name: KRUPAJAL ENGINEERING SCHOOL
+      address: PRASANTI VIHAR, PUBASASAN, KAUSALYAGANGA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811802102:
+      name: KIIT POLYTECHNIC
+      address: KOLAB CAMPUS KIIT PATIA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811809023:
+      name: GLOBAL INSTITUTE OF MANAGEMENT
+      address: AT:-HANSPAL PO:-NAHARKANTA BHUBANESWAR PIN-752101 ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811809165:
+      name: GANGADHAR MEHER COLLEGE(AUTO), SAMBALPUR
+      address: AT/PO-BUDHARAJA DIST-SAMBALPUR PIN-768004 ODISHA
+      district: SAMBALPUR
+      institution_type: Government
+      universities:
+      - Sambalpur University, Sambalpur
+    1-2811809596:
+      name: APEX INSTITUTE OF TECHNOLOGY & MANAGEMENT
+      address: 'JOHAL PO: PAHAL BHUBANESWAR'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811813045:
+      name: JHARSUGUDA ENGINEERING SCHOOL
+      address: AT/PO- KALIMANDIR ROAD
+      district: JHARSUGUDA
+      institution_type: Government
+      universities:
+      - Department of Technical Education
+    1-2811813355:
+      name: KRUPAJAL ENGINEERING COLLEGE
+      address: PUBASASAN, KAUSALYAGANGA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811816420:
+      name: PJ COLLEGE OF MANAGEMENT & TECHNOLOGY
+      address: SWATIK NAGAR, KESORA, BHUBANESWAR, ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811824998:
+      name: INDIAN INSTITUTE OF HANDLOOM TECHNOLOGY
+      address: BHATLI ROAD, KHEDAPALI, BARGARH
+      district: BARGARH
+      institution_type: Government
+      universities:
+      - Self
+    1-2811825860:
+      name: REGIONAL COLLEGE OF MANAGEMENT AUTONOMOUS
+      address: CHAKADOLA VIHAR, CHANDRASEKHARPUR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811831485:
+      name: ADARSHA SCHOOL OF ENGINEERING & INTERNATIONAL POLYTECHNIC
+      address: AT-SARADHAPUR PO-KUMURISINGHA, VIA/DIST-ANGUL ODISHA 759122
+      district: ANGUL
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+    1-2811840203:
+      name: INSTITUTE OF MANAGEMENT & INFORMATION SCIENCE
+      address: SWAGAT VIHAR, BANKUALA, BHUBANESWAR VIVEKANANDA MARG, BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2811843143:
+      name: C.V.RAMAN COMPUTER ACADEMY
+      address: BIDYA NAGAR, MAHURA, JANLA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811843282:
+      name: ADARSHA COLLEGE OF ENGINEERING
+      address: AT-SARADHAPUR, PO-KUMURISINGHA, VIA/DIST-ANGUL, PIN-759122 ORISSA
+      district: ANGUL
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811847601:
+      name: INDIRA GANDHI INSTITUTE OF PHARMACEUTICAL SCIENCES
+      address: I.R.C. VILLAGE, BHUBANESWAR-751015, ORISSA.
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811851255:
+      name: SRI SRI UNIVERSITY - FACULTY OF MANAGEMENT STUDIES
+      address: WARD NO 1, BIDYADHARPUR, P.S. GODI SAHI
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities: []
+    1-2811851674:
+      name: BHADRAK INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: AT/PO-BARAPADADIST-BHADRAK ORISSA, 756113
+      district: BHADRAK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811855853:
+      name: ADVANCED PLASTICS PROCESSING TECHNOLOGY CENTRE (APPTC) - A UNIT OF CIPET
+      address: PLOT NO.A, IDCO, BAMPADA INDUSTRIAL AREA
+      district: BALASORE
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811862068:
+      name: INSTITUTE OF BUSINESS MANAGEMENT
+      address: PRACHI VIHAR, ANANTAPUR, PHULNAKHARA, KHURDA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811862168:
+      name: ASTHA SCHOOL OF MANAGEMENT
+      address: 261, ATALA, BALIANTA BHUBANESWAR, DIST-KHURDA ORISSA PIN-752101
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811862444:
+      name: KOUSTUV SCHOOL OF ENGINEERING
+      address: PLOT NO-2, SECTOR-B, CNI COMPLEX, CHANDRASEKHARPUR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811868605:
+      name: BLACK DIAMOND SCHOOL OF ENGINEERING
+      address: AT-MANDALIA POST BOX NO- 21 PO-BRAJRAJNAGAR DIST-JHARSUGUDA (ODISHA)
+        PIN-768216
+      district: JHARSUGUDA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811871923:
+      name: KALAM INSTITUTE OF TECHNOLOGY ( POLYTECHNIC)
+      address: GOVINDA VIHAR, GOVINDAPUR, PO-LAXMIPUR, BERHAMPUR
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811872278:
+      name: INTERNATIONAL MANAGEMENT INSTITUTE, BHUBANESWAR
+      address: IDCO PLOT NO. 1 VILLAGE GOTHAPATNA P.O MALIPADA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2811872736:
+      name: TRIDENT ACADEMY OF TECHNOLOGY
+      address: F2A, INFRONT OF INFOCITY, CHANDAKA INDUSTRIAL ESTATE, CHANDRASEKHARPUR,
+        BHUBANESWAR-751 024
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811874552:
+      name: MAYURBHANJ SCHOOL OF ENGINEERING
+      address: AT:LAXMIPOSI PO:BARIPADA DIST:MAYURBHANJ STATE:ODISHA PIN:757107 INDIA
+      district: MAYURBHANJ
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811876972:
+      name: RAMARANI INSTITUTE OF TECHNOLOGY
+      address: 'AT: TAMULIA PO:KURUDA DIST: BALASORE PIN:756056 ORISSA'
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811877385:
+      name: NILACHAL POLYTECHNIC
+      address: 540/1780, PATHAR GADIA, NEAR INFOCITY & SIKHARCHANDI TEMPLE PO:KIIT
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811877814:
+      name: C.V. RAMAN POLYTECHNIC
+      address: BIDYA NAGAR MAHURA JANLA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811882158:
+      name: VITS ENGINEERING COLLEGE
+      address: DAMANABHUIN, KHORDHA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811882562:
+      name: GANDHI POLYTECHNIC
+      address: KONISHI, GOLANTHARA
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811884013:
+      name: GURUKULA ENGINEERING SCHOOL
+      address: AT-JAMUJHARI PO-CHHATABAR BHUBAENSWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811884869:
+      name: EASTERN ACADEMY OF SCIENCE AND TECHNOLOGY (EAST)
+      address: EASTERN ACADEMY OF SCIENCE AND TECHNOLOGY (EAST) AT:- PRACHI VIHAR,
+        ANANTAPUR, PO:- PHULNAKHARA, BHUBANESWAR DIST:- KHURDHA(ORISSA) PIN:- 754001
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811890037:
+      name: EINSTEIN ACADEMY OF TECHNOLOGY AND MANAGEMENT
+      address: AT-BANIATANGI, BHUBANESWAR, P.O-BAJAPUR, DIST:KHURDA, ORISSA, PIN -
+        752060
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - State Council for Technical Education & Vocational Training
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811890773:
+      name: OXFORD COLLEGE OF ENGINEERING AND MANAGEMENT
+      address: AT-RAMACHANDRAPUR, PO-BHATAPATNA, PS- BALIANTA, BHUBANESWAR, DIST-KHURDA,
+        PH NO-0674-2593909 POSTAL ADRESS-QR NO-C77/3, AT-PAILLASHPALI, NEAR AERODRU
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811892317:
+      name: SUNDARGARH ENGINEERING COLLEGE, SUNDARGARH
+      address: AT/PO- KIREI DIST-SUNDARGARH (ORISSA) PIN-770 073
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811892780:
+      name: ORISSA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: AT-PATIMAL PO-MAHULAPADA DHENKANAL
+      district: DHENKANAL
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811895644:
+      name: DADHICHI COLLEGE OF PHARMACY
+      address: VIDYA VIHAR, SUNDARGRAM, CUTTACK, ORISSA
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811895853:
+      name: UMA CHARAN PATNAIK ENGINEERING SCHOOL
+      address: 'PRINCIPAL UCP ENGINEERING SCHOOL, BERHAMPUR, DIST: GANJAM'
+      district: GANJAM
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811898247:
+      name: BIRLA INSTITUTE OF MANAGEMENT TECHNOLOGY
+      address: IDCO, PLOT NO. 2, INDUSTRIAL AREA, GOTHAPATNA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2811898514:
+      name: MAHARAJA POLYTECHNIC
+      address: AT/PO-TARABOI BACK SIDE OF BARUNEI HILL NEAR IIT BHUBANESWAR KHURDA
+        PIN-752050
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811901412:
+      name: GOVT. POLYTECHNIC, DHENKANAL
+      address: MAHISAPAT DHENKANAL ORISSA-759001
+      district: DHENKANAL
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811908256:
+      name: SWAMIVIVEKANANDA SCHOOL OF ENGINEERING & TECHNOLOGY(POLYTECHNIC)
+      address: AT-CHAITANYA PRASAD, PO-MADANPUR, PS-JATNI, BHUBANSEWAR, DIST-KHURDA,
+        ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811908916:
+      name: KONARK INSTITUTE OF SCIENCE AND TECHNOLOGY
+      address: PO. BOX NO. 21, TECHNOPARK, JATNI, BHUBANESWAR.
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811910683:
+      name: BHUBANANANDA ORISSA SCHOOL OF ENGINEERING
+      address: ENGINEERING SCHOOL CAMPUS, AT-JOBRA PO-SCB MEDICAL COLLEGE PS-MANGALABAG
+        CUTTAK-7
+      district: CUTTACK
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Board of Technical Education, Orissa
+    1-2811913305:
+      name: GOVERNMENT COLLEGE OF ENGINEERING. KEONJHAR
+      address: AT - JAMUNALIA P.O. - OLD TOWN DIST - KEONJHAR
+      district: 
+      institution_type: Government
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811919817:
+      name: GANDHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: 'VILLAGE : GOBIRIGUDA, PO : KHARLING, TALUK : GUNUPUR, DISTRICT : RAYAGADA'
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811925119:
+      name: INDIC INSTITUTE OF DESIGN AND RESEARCH
+      address: "INDIC INSTITUTE OF DESIGN AND RESEARCH PLOT NO-370/1861/2379(NEAR
+        REEBOK SHOWROOM), AT-PATIA, PO-KIIT, BHUBANESWAR-751024, ORISSA. CAMPUS \x96
+        INDIC HEIG"
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811928230:
+      name: ASTRAL INSTITUTE OF MANAGEMENT STUDIES
+      address: AT-SISHU VIHAR, P.O-KIIT, INFOCITY ROAD, PATIA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811935343:
+      name: SAMANTA CHANDRASEKHAR INSTITUTE OF TECHNOLOGY & MANAGEMENT
+      address: AT-JANIGUDA PO- SEMILIGUDA CITY-SEMILIGUDA TEHSIL-POTTANGI DISTRICT-KORAPUT
+        PIN-764036 STATE-ORISSA
+      district: KORAPUT
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811936033:
+      name: BARAPADA SCHOOL OF ENGINEERING & TECHNOLOGY
+      address: AT/PO- BARAPADA DIST- BHADRAK ORISSA PIN - 756113
+      district: BHADRAK
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+    1-2811941911:
+      name: MAHARAJA INSTITUTE OF TECHNOLOGY
+      address: 'AT/PO.: TARABOI BACK SIDE OF BARUNEI HILLS, NEAR IIT, BHUBANESWAR
+        DIST: KHURDA PIN CODE - 752050'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811944732:
+      name: GANGADHAR MEHER COLLEGE (AUTONOMOUS)
+      address: GANGADHAR MEHER(AUTO.)COLLEGE, SAMBALPUR, ORISSA AT/PO.-BUDHARAJA NEAR
+        RAILWAY STATION DIST-SAMBALPUR, ORISSA PIN-768004
+      district: SAMBALPUR
+      institution_type: Government
+      universities:
+      - Sambalpur University, Sambalpur
+    1-2811947641:
+      name: SILICON INSTITUTE OF TECHNOLOGY
+      address: SILICON WEST, SASON SAMBALPUR ORISSA 768200
+      district: SAMBALPUR
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811949198:
+      name: UNITED SCHOOL OF BUSINESS MANAGEMENT
+      address: PLOT NO. 37/A CHANDAKA I.E PATIA BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811949367:
+      name: BRM INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY
+      address: BRM INSTITUTE OF MANAGEMENT AND INFORMATION TECHNOLOGY, PUBA SASAN,
+        KOUSHLYA GANGA, BHUBANESWAR
+      district: PURI
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811949567:
+      name: MITS INSTITUTE OF POLYTECHNIC
+      address: 'AT: SRIRAM VIHAR BHUJABAL, KOLANARA DIST: RAYAGADA'
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811954809:
+      name: CITY INSTITUTE OF TECHNICAL EDUCATION
+      address: JAMUNANAGAR, NH-23, KUARMUNDA, ROURKELA, DIST-SUNDARGARH
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811959225:
+      name: BRM INTERNATIONAL INSTITUTE OF MANAGEMENT
+      address: PANDARA, RASULGARH, BHUBANESWAR - 751010
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2811959335:
+      name: INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY BHUBANESWAR
+      address: PLOT-570(P), GOTHAPATNA, VIA- MALIPADA, BHUBANESWAR-751003
+      district: KHORDHA
+      institution_type: Govt Aided
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811959731:
+      name: VEDANG INSTITUTE OF TECHNOLOGY
+      address: DURGAPRASAD P.O. RAMACHANDI DIST. KHURDA ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811962387:
+      name: UTKAL INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: AT-GYAN VIHAR PO-RATHIPUR, KANTIA JATNI, BHUBANESWAR DIST-KHORDHA PIN-752050
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811962617:
+      name: RAJA KISHORE CHANDRA ACADEMY OF TECHNOLOGY(POLYTECHNIC)
+      address: AT/PO-NILGIRI DIST-BALASORE STATE-ORISSA PIN-756040
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811962946:
+      name: VIKASH POLYTECHNIC
+      address: VIKASH ENCLAVE, BARAHAGUDA CANAL CHOWK
+      district: BARGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811969277:
+      name: SRUSTI ACADEMY OF MANAGEMENT
+      address: 'PLOT NO: 38/1 CHANDAKA INDUSTRIAL ESTATE, NEAR INFOCITY PO: PATIA,
+        BHUBANESWAR DIST: KHURDA'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811969548:
+      name: NATIONAL INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: PALUR HILLS, BERHAMPUR, ORISSA - 761008
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811974880:
+      name: ASIAN WORKERS DEVELOPMENT INSTITUTE (AWDI)
+      address: BASTIA SMRUTI SADAN, SECTOR-6, P.O:-ROURKELA-769002, DIST:-SUNDARGARH
+        (ORISSA), PHONE:-0661-264116, FAX:-0661-2642274.
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+    1-2811975013:
+      name: SAI INSTITUTE OF TECHNOLOGICAL SCIENCE
+      address: AT- IDCO INDUSTRIAL BELT GOPALPUR, BHABDEIPUR, BANIPADA, P.O.- CHASAPARA
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Board of Technical Education, Orissa
+    1-2811980202:
+      name: HDF SCHOOL OF MANAGEMENT
+      address: 'AT: NARANPUR PO: BELGACHHIA DIST :CUTTACK ORISSA-754005'
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities: []
+    1-2811980372:
+      name: OXFORD SCHOOL OF POLYTECHNIC (DIPLOMA)
+      address: AT- RAMACHANDRAPUR, PO- BHATAPATNA, PS-BALIANTA, BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811980669:
+      name: BHUBANESWAR INSTITUTE OF MANAGEMENT & INFORMATION TECHNOLOGY
+      address: PRASNAGARBHA, PLOT NO.-S-3/68, 69 & 83, SECTOR-A, ZONE-B, MANCHESWAR
+        INDUSTRIAL ESTATE, BHUBANESWAR - 751010, DIST-KHURDA, ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811980787:
+      name: ARYAN INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: 'AT: BARAKUDA PO: PANCHAGAON DIST: KHURDA BHUBANESWAR PIN-752050 ORISSA'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Board of Technical Education, Orissa
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811991133:
+      name: GANDHI INSTITUTE OF SCIENCE AND TECHNOLOGY
+      address: AT. KHOLIGUDA PO. KOTHAPETA DIST. RAYAGADA ORISSA PIN.765017
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811991617:
+      name: KALINGA INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: F.C.PROJECT
+      district: JAJPUR
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2811993297:
+      name: ROLAND INSTITUTE OF TECHNOLOGY
+      address: SURYA VIHAR, KOTHARI SINGHI, GOLANTHARA, BERHAMPUR-761008. GANJAM,
+        ORISSA, INDIA.
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811993965:
+      name: ASIAN SCHOOL OF BUSINESS MANAGEMENT
+      address: SHISKHA VIHAR, BHOLA, CHANDAKA, BHUBANESWAR - 754012
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2811996344:
+      name: SYNERGY INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: BANAMALIPRASAD, BY THE SIDE OF NH-42, DISTRICT - DHENKANAL, PIN-759001,
+        ORISSA.
+      district: DHENKANAL
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811997599:
+      name: SRI JAYADEV COLLEGE OF PHARMACEUTICAL SCIENCES
+      address: "P.O. NAHARKANTA VIA-BALIANTA\tBHUBANESWAR DISTRICT \tKHURDA PIN\t752101
+        STATE\tORISSA"
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2811997968:
+      name: PABITRA MOHAN INSTITUTE OF TECHNOLOGY
+      address: AT/PO:-MANIKAMARA, DHARAMPUR, TALCHER DIST:-ANGUL PIN:-759100
+      district: ANGUL
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812004889:
+      name: GANDHI INSTITUTE OF ADVANCED COMPUTER AND RESEARCH
+      address: PRAJUKTI VIHAR AUROBINDO MARG
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812006755:
+      name: HI-TECH COLLEGE OF PHARMACY
+      address: AT-PANDARA, PO-RASULGARH, BHUBANESWAR, DIST-KHURDA, PIN -751025, ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812010058:
+      name: KRUPAJAL BUSINESS SCHOOL
+      address: PUBA SASANA, KAUSALYA GANGA.
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2812011369:
+      name: SAMANTA CHANDRASEKHAR INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+      address: AT-JANIGUDA PO-SEMILIGUDA DIST-KORAPUT
+      district: KORAPUT
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812015017:
+      name: NARAYANI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: AT-ARAHAT PO-BANARPAL DIST-ANGUL
+      district: ANGUL
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812017534:
+      name: SUNDARGARH ENGINEERING SCHOOL, SUNDARGARH
+      address: AT/PO- KIREI
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812020826:
+      name: GANDHI ACADEMY OF TECHNOLOGY AND ENGINEERING
+      address: GOLANTHARA KONISI BERHAMPUR GANJAM ODISHA
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812023677:
+      name: GAYATRI INSTITUTE OF SCIENCE AND TECHNOLOGY (GIST)
+      address: 'GYAN VIHAR, AT: REGEDA PO: GUNUPUR. DIST: RAYAGADA. (ODISHA) PIN :
+        765022'
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812023876:
+      name: GHANASHYAM HEMALATA INSTITUTE OF TECHNOLOGY & MANAGEMENT, PURI
+      address: 'RASANANDA JENA VIHAR, BHUAN PO: CHHAITANA DIST:PURI PIN:752002 ORISSA'
+      district: PURI
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812025350:
+      name: SUDDHANANDA SCHOOL OF MANAGEMENT AND COMPUTER SCIENCE
+      address: NACHHIPUR, BHATAPATNA, BHUBANESWAR, KHURDA, ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812025463:
+      name: NATIONAL INSTITUTE OF SCIENCE & TECHNOLOGY
+      address: PALUR HILLS BERHAMPUR, ORISSA - 761008
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812025913:
+      name: TEMPLECITY INSTITUTE OF TECHNOLOGY & ENGINEERING ( TITE), BHUBANESWAR
+      address: PLOT NO. F/12, IID CENTRE KNOWLEDGE CAMPUS, BARUNEI, KHURDA, ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812029578:
+      name: KALAM INSTITUTE OF TECHNOLOGY
+      address: 'GOVINDA VIHAR, GOVINDA PUR, PO: LAXMIPUR, BERHAMPUR, DIST: GANJAM'
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812035477:
+      name: INDOTECH COLLEGE OF ENGINEERING
+      address: INDOTECH COLLEGE OF ENGINEERING, PLOT NO 144, AT/PO MALLIPADA, VIA
+        PALLAHAT (KHURDA- 2) DIST KHURDA, ORISSA - 752 056
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812035896:
+      name: GOVT. POLYTECHNIC
+      address: RAGADI, JAJPUR, ORISSA.
+      district: JAJPUR
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Orissa
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812036070:
+      name: GOVERNMENT POLYTECHNIC NAYAGARH
+      address: AT-GHASAIDEIPUR PO-ODAGAON ODAGAON NAYAGARH
+      district: NAYAGARH
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812038201:
+      name: GOVERNMENT POLYTECHNIC, KALAHANDI
+      address: AT-PARAMANANDPUR PO-BHAWANIPATNA KALAHANDI
+      district: KALAHANDI
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812038298:
+      name: GOVERNMENT POLYTECHNIC, BARGARH
+      address: AT-TENTELA TAHASIL-BARGARH DIST-BARGARH PIN-768030
+      district: BARGARH
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812038394:
+      name: GOVERNMENT POLYTECHNIC, BOUDH
+      address: AT-NUAPALI PO-BAGHAIPADA BOUDA
+      district: 
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812042003:
+      name: GOVT. POLYTECHNIC, NUAPADA
+      address: 'BHERA, NUAPADA TOWN BHERA, NUAPADA, PIN: 766105 ODISHA'
+      district: NUAPADA
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812044113:
+      name: GOVERNMENT POLYTECHNIC, KORAPUT
+      address: AT-RANDAPALI PO-AMBAGUDA KORAPUT
+      district: KORAPUT
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812044227:
+      name: GOVERNMENT POLYTECHNIC, PURI, BRAHMAGIRI
+      address: BRAHMAGIRI, SIPASARUBALI, NEAR BALIHARACHANDI TEMPLE 752011
+      district: PURI
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812044385:
+      name: GOVT.POLYTECHNIC ANGUL
+      address: AT-KUSASINGA PO-RANTALEI
+      district: ANGUL
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812044719:
+      name: KHALLIKOTE AUTONOMOUS COLLEGE
+      address: KHALLIKOTE AUTONOMOUS COLLEGE, BERHAMPUR GANJAM ODISHA
+      district: GANJAM
+      institution_type: Government
+      universities:
+      - Berhampur University, Berhampur
+    1-2812047297:
+      name: DHENKANAL AUTONOMOUS COLLEGE
+      address: AT/PO-DHENKANAL DHENKANAL ODISHA
+      district: DHENKANAL
+      institution_type: Government
+      universities:
+      - Utkal University, Bhubaneswar
+    1-2812050487:
+      name: PURUSHOTTAM INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: PURUSHOTTAM VIHAR, 10TH KM., HIGHWAY 10, MANDIAKUDAR, KANSBAHAL
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812053405:
+      name: IDEAL SCHOOL OF ENGINEERING
+      address: AT-JHINKHARADA PO-RETANG KHURDA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812053673:
+      name: NALANDA INSTITUTE OF TECHNOLOGY
+      address: BHUDHIST VILLA, NEBAD BHUASANI TEMPLE SQUARE, SIMILIPATNA, CHANDAKA,
+        BHUBANESAWR, ORISSA.
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812065896:
+      name: SSB REGIONAL INSTITUTE OF SCIENCE & TECHNOLOGY (POLYTECHNIC)
+      address: AT/PO:-CHITRADA VIA:-CHITRADA DIST:-MAYURBHANJ PIN:-757018
+      district: MAYURBHANJ
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812068185:
+      name: MAHALAXMI INSTITUTE OF TECHNOLOGY & ENGINEERING
+      address: AT/PO-RAJ NILAGIRI DIST-BALASORE 756040
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812070697:
+      name: PADMANAVA COLLEGE OF ENGINEERING
+      address: ROURKELA-769002 SECTOR -4
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812077821:
+      name: SPINTRONIC TECHNOLOGY AND ADVANCE RESEARCH
+      address: 'AT/PO: TARABOI, BHUBANESWAR VIA: JATANI DIST: KHURDA'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812081967:
+      name: BHUBANESWAR POLYTECHNIC, BHUBANESWAR.
+      address: AT-MAGUNI BADAJENA NAGAR, PO-RETANG, VIA-JANLA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812083377:
+      name: PATHANI SAMANTA INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: AT-KARANDA PO-KARANDA VIA-GUDIAKATENI DIST-DHENKANAL
+      district: ANGUL
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812083680:
+      name: BARUNEI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: AT-KADALIBADI, PO-DALEIPUT
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812084175:
+      name: GAYATRI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: TATADAPALLI VILLAGE, GOLANTHRA JUNCTION, KONISI TAHSIL, BERHAMPUR,
+        GANJAM DT, ORISSA-761 008
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812085507:
+      name: IIPM SCHOOL OF MANAGEMENT
+      address: 'AT/PO: KANSBAHAL NEAR ROURKELA DIST. SUNDARGARH ORISSA PIN-770034'
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812089258:
+      name: SYNERGY INSTITUTE OF TECHNOLOGY
+      address: 'AT: BHIMPUR, VIA: PHULNAKHARA, PO: PAHALA, BHUBANESWAR, DIST: KHURDA,
+        ORISSA, INDIA'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812175222:
+      name: KRUTTIKA INSTITUTE OF TECHNICAL EDUCATION
+      address: GHANGAPATNA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812175830:
+      name: IMT PHARMACY COLLEGE, PURI
+      address: AT- SAI BIHAR, NEW NABAKALEBARA ROAD, VILLAGE- GOPALPUR, PURI POST
+        - PURI-2 DIST - PURI ORISSA STATE PIN - 752002
+      district: PURI
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812176040:
+      name: GURUKULA COLLEGE OF ENGINEERING FOR WOMEN
+      address: JAMUJHARI, CHHATABAR, BHUBANESWAR- 752054
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812179728:
+      name: BHUBANESWAR INSTITUTE OF INDUSTRIAL TECHNOLOGY
+      address: PANDIAPADA, RETANGA, BHUBANESWAR DIST-KHURDA, ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812181258:
+      name: MAHAVIR INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: MAHAVIR NAGAR, BHUBANESWAR, PANIORA, PO-PALASHPUR, DIST-KHURDA PIN-752054,
+        ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812182410:
+      name: DIVINE INSTITUTE OF ENGINEERING & TECHNOLOGY (POLYTECHNIC)
+      address: PODA ASTIA, BARIPADA
+      district: MAYURBHANJ
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812182676:
+      name: GANDHI INSTITUTE OF TECHNOLOGY AND MANAGEMENT (GITAM)
+      address: SARASWATI VIHAR, AT- GRAMADIHA, P.O- GANGAPADA, VIA- JANALA, BHUBANESWAR,
+        DIST- KHORDA, STATE- ORISSA, PIN- 752054
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812183285:
+      name: BHAVAN'S CENTRE FOR COMMUNICATION AND MANAGEMENT
+      address: PLOT NO -9, KHARVELANAGAR BHUBANESWAR PIN - 751001 ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2812183874:
+      name: ACADEMY OF BUSINESS ADMINISTRATION
+      address: 'CORPORATE OFFICE S1/25, INDUSTRIAL ESTATE, BALASORE-756001 CAMPUS
+        : HARIDA, KURUDA, BALASORE -756056'
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812186341:
+      name: JEYPORE COLLEGE OF PHARMACY
+      address: 'RONDAPALLI, JEYPORE, DIST: KORAPUT, ORISSA, 764002'
+      district: KORAPUT
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812187488:
+      name: MAHENDRA INSTITUTE OF MANAGEMENT AND TECHNICAL STUDIES
+      address: 'AT: PITAPALLI, POST: KUMARBASTA, KHURDA'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities: []
+    1-2812187623:
+      name: RAYAGADA INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+      address: PITAMAHAL
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812187954:
+      name: ROURKELA INSTITUTE OF TECHNOLOGY
+      address: IDC, SECTOR-B KALUNGA INDUSTRIAL ESTATE
+      district: SUNDERGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812188366:
+      name: GANESH INSTITUTE OF ENGINEERING & TECHNOLOGY, POLYTECHNIC
+      address: BIDYA NAGAR, JAGANNATH PRASAD, ANDHARUA, BHUBANESWAR
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812189419:
+      name: DHANESWAR RATH INSTITUTE OF ENGINEERING AND MANAGEMENT STUDIES (DRIEMS)
+        MBA
+      address: AT- KAIRAPARI, PO- KOTSAHI (TANGI), DIST- CUTTACK
+      district: CUTTACK
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812189605:
+      name: BALAJI INSTITUTE OF TECHNOLOGY & SCIENCE (POLYTECHNIC)
+      address: 'AT-KNOWLEDGE CENTRE, VILLAGE/PO-KHARLINGI PS/TALUK: GUNUPUR DISTRICT:
+        RAYAGADA PIN: 765022 ORISSA'
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812189906:
+      name: KMBB COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: NH-5, DALEIPUT, KHURDA, PIN-752056 ORISSA
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2812191340:
+      name: BHARATINSTITUTEOFENGINEERINGANDTECHNOLOGY(POLYTECHNIC)
+      address: SIBARAM VIHAR, GHATEKESWARHILLS
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2812191561:
+      name: NAYAGARH INSTITUTE OF ENGINEERING & TECHNOLOGY (POLYTECHNIC)
+      address: VIDYA VIHAR PANIPOILA
+      district: NAYAGARH
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2813123451:
+      name: SEEMANTA ENGINEERING COLLEGE, MAYURBHANJ
+      address: AT- MAYURVIHAR, VILLAGE- JAUNTI, PO.-JHARPOKHARIA, MAYURBHANJ, PIN-757086.
+      district: MAYURBHANJ
+      institution_type: Unaided - Private
+      universities:
+      - Board of Technical Education, Orissa
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2814360393:
+      name: NM INSTITUTE OF ENGINEERING & TECHNOLOGY
+      address: SIJUA, PATRAPADA, BHUBANESWAR ORISSA - 751019
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2814361038:
+      name: VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY, BURLA
+      address: VEER SURENDRA SAI UNIVERSITY OF TECHNOLOGY, BURLA PO. BURLA ENGG. COLLEGE,
+        DIST. SAMBALPUR
+      district: SAMBALPUR
+      institution_type: Govt Aided
+      universities:
+      - Sambalpur University, Sambalpur
+      - Veer Surendra Sai University of Technology, Burla
+    1-2816260001:
+      name: BALASORE COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: SERGARH BALASORE ORISSA PIN-756060
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2816262169:
+      name: MAJHIGHARIANI INSTITUTE OF TECHNOLOGY AND SCIENCE
+      address: SRIRAM VIHAR BHUJABALA KOLNARA RAYAGADA-765017 ORISSA
+      district: RAYAGADA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2816264401:
+      name: HOLY INSTITUTE OF TECHNOLOGY
+      address: AT-GOVINDAPUR PO-BENDALIA
+      district: GANJAM
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2816267462:
+      name: GANDHI ENGIEERING COLLEGE(GEC, BHUBANESWAR)
+      address: 'AT: BADARAGHUNATHPUR, PO: MADANPUR OFF NH 5 ON GAHIRA SQUARE'
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2816271017:
+      name: SARASWAT INSTITUTE OF MANAGEMENT
+      address: KERANDA, BAJPUR, BHUBANESWAR - 752060
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2816271340:
+      name: PARALA MAHARAJA ENGINEERING COLLEGE
+      address: SITALAPALLI PO-TANGANAPALLI BERHAMPUR PIN-761003
+      district: GANJAM
+      institution_type: Government
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2816273443:
+      name: SRINIX COLLEGE OF ENGINEERING, BALASORE
+      address: AT-RANIPATNA P.O./DIST-BALASORE
+      district: BALASORE
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2816273874:
+      name: COLLEGE OF ENGINEERING BHUBANESWAR
+      address: PLOT NO-1(A), CNI COMPLEX, PATIA CHANDRASEKHARPUR, BHUBANESWAR ORISSA-751024
+      district: KHORDHA
+      institution_type: Unaided - Private
+      universities:
+      - Biju Patnaik University of Technology, Bhubaneswar
+    1-2846163491:
+      name: SORO SCHOOL OF ENGINEERING (DIPLOMA)
+      address: AT-BRAHMANSAHI, PO-SARASANKHA, P.S-SORO, DIST-BALASORE
+      district: BALASORE
+      institution_type: Private-Aided
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2846171381:
+      name: SAKUNTALA SUDARSHAN INSTITUTE OF TECHNOLGY(POLYTECHNIC)
+      address: AT- KALAKAD, PO- PATBIL, VIA- KARANJIA, DIST- MAYURBHANJ, ODISHA, 757037
+      district: MAYURBHANJ
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2871170695:
+      name: GOVERNMENT POLYTECHNIC, MALKANAGIRI
+      address: AT-MALAKANAGIRI PO- MALAKANAGIRI
+      district: MALKANGIRI
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+    1-2871171169:
+      name: GOVERNMENT POLYTECHNIC, MAYURBHANJ
+      address: AT- TIKAR PADA PO- PODA ASTIA
+      district: MAYURBHANJ
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education and Training, Cuttack
+  updated_at: '2016-09-03T19:17:23+05:30'
+  md5: !binary |-
+    26P8sbeu7exIWYuWM9SPwg==

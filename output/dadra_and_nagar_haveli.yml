@@ -1,0 +1,28 @@
+---
+Dadra and Nagar Haveli:
+  colleges:
+    1-2809301603:
+      name: DR. B.B.A.GOVERNMENT POLYTECHNIC, KARAD(D.P.)
+      address: B/H SUB STATION, MADHUBAN DAM ROAD, VIA RAKHOLI
+      district: DADRA AND NAGAR HAVELI
+      institution_type: Government
+      universities:
+      - Gujarat Technological University, Ahmedabad
+    1-2809490831:
+      name: SSR INSTITUTE OF MANAGEMENT & RESEARCH
+      address: SSR INSTITUTE OF MANAGEMENT &RESEARCH SAYLI RD, SILVASSA - 396230,
+        U.T.O F DADRA & NAGAR HAVELI.
+      district: DADRA AND NAGAR HAVELI
+      institution_type: Unaided - Private
+      universities:
+      - University of Pune, Pune
+    1-2816355098:
+      name: SSR COLLEGE OF PHARMACY
+      address: SSR COLLEGES CAMPUS, SAYLI ROAD, SILVASSA, UT OF DADRA & NAGAR HAVELI.
+      district: DADRA AND NAGAR HAVELI
+      institution_type: Unaided - Private
+      universities:
+      - University of Pune, Pune
+  updated_at: '2016-09-03T18:49:36+05:30'
+  md5: !binary |-
+    sD5Tn8i0h1QvfMKBX6306Q==

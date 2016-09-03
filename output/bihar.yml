@@ -1,0 +1,874 @@
+---
+Bihar:
+  colleges:
+    1-2812193713:
+      name: GOVERTNMENT POLYTECHNIC, GAYA
+      address: GHUGHRITAND, BODHGAYA ROAD, NEAR ITI, GAYA
+      district: GAYA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812220099:
+      name: C R K POLYTECHNIC
+      address: MAUZA- DHANAUTI JAUNPURI/CHAKAFJAL, HAJIPUR MUNICIPLITY, P.S.- HAJIPUR
+        INDUSTRIAL AREA, ANCHAL HAJIPUR, DISTRICT- VAISHALI, PIN CODE- 844101 STATE-
+        B
+      district: VAISHALI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812241774:
+      name: K. K. POLYTECHNIC
+      address: AT - BERAUTI PO - NEPURA PS - DEEP NAGAR BIHARSHARIF DIST - NALANDA
+      district: NALANDA
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812243435:
+      name: GOVERNMENT POLYTECHNIC MADHUBANI
+      address: GOVERNMENT POLYTECHNIC MADHUBANI, AT-ARARIA SANGRAM, PO-TULAPATGANJ,
+        VIA JHANJHARPUR, DIST- MADHUBANI, BIHAR, PIN-847109
+      district: MADHUBANI
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812243500:
+      name: BUDDHA POLYTECHNIC INSTITUTE
+      address: INDUSTRIAL AREA, GAYA BIHIND RITURAJ COLD STORAGE, GAYA-DOBHI ROAD
+      district: GAYA
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812243945:
+      name: NETAJI SUBHAS INSTITUTE OF TECHNOLOGY
+      address: 'AT + PO: AMHARA, BIHTA, PATNA'
+      district: PATNA
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+      - Aryabhatta Knowledge University, Patna
+    1-2812276627:
+      name: DARBHANGA COLLEGE OF ENGINEERING
+      address: DR JAGGANATH MISHRA INSTITUTE OF TECHNOLOGY MABBI DARBHANGA PO LALSAHPUR
+        VIA PTC DARBHANGA
+      district: DARBHANGA
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+      - Lalit Narayan Mithila University, Darbhanga
+    1-2812280697:
+      name: GOVT. POLYTECHNIC, GULZARBAGH
+      address: P.O.- GULZARBAGH PATNA
+      district: PATNA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812313239:
+      name: GOVERNMENT WOMENS POLYTECHNIC
+      address: GANNIPUR
+      district: MUZAFFARPUR
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812397285:
+      name: CHANDRAGUPT INSTITUTE OF MANAGEMENT PATNA
+      address: MITHAPUR, P.O. GPO, P.S. JAKKANPUR, PATNA-800001, BIHAR
+      district: PATNA
+      institution_type: Govt Aided
+      universities: []
+    1-2812448812:
+      name: SATYAM INTERNATIONAL INSTITUTE OF TECHNOLOGY
+      address: GAURICHAK, PATNA, 800007
+      district: PATNA
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812449019:
+      name: INTERNATIONAL SCHOOL OF MANAGEMENT PATNA
+      address: VILL.-SARARI, P.S. - SHAHPUR, KHAGAUL, DANAPUR, PATNA
+      district: PATNA
+      institution_type: Unaided - Private
+      universities: []
+    1-2812462948:
+      name: DEPARTMENT OF BUSINESS ADMINISTRATION
+      address: GAYA COLLEGE
+      district: GAYA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812463047:
+      name: PATNA SAHIB TECHNICAL CAMPUS
+      address: BAFAPUR BANTHU, BLOCK-BHAGWANPUR, DISTT-VAISHALI
+      district: VAISHALI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+      - Aryabhatta Knowledge University, Patna
+      - Arybhatta Knowledge University, Patna
+    1-2812477307:
+      name: FACULTY OF PHARMACY
+      address: SACHIDANAND SINHA COLLEGE
+      district: AURANGABAD
+      institution_type: Government
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812496115:
+      name: EXALT COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: KAHAULI TEH. GARAUL MAHUA
+      district: VAISHALI
+      institution_type: Unaided - Private
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2812501275:
+      name: GOVT. POLYTECHNIC
+      address: MAIN ROAD MARHOWARH
+      district: SARAN
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812503890:
+      name: VAISHALI INSTITUTE OF BUSINESS & RURAL MANAGEMENT
+      address: INSTITUTIONAL AREA, NARAYANPUR ANANT ROAD, P.O-RAMNA, MITHANPURA, MUZAFFARPUR,
+        BIHAR-842002
+      district: MUZAFFARPUR
+      institution_type: Unaided - Private
+      universities:
+      - Babasaheb Bhimrao Ambedkar Bihar University, Muzzaffarpur
+    1-2812506624:
+      name: SANDIP FOUNDATIONS, SHRI RAM POLYTECHNIC
+      address: 'NEELAM VIDYAVIHAR,, VILLAGE: SIJOUL, AT POST: MAILAM, DIST: MADHUBANI'
+      district: MADHUBANI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812509742:
+      name: R.P.SHARMA INSTITUTE OF TECHNOLOGY
+      address: RAGHUNATH PH WEST BAILEY ROAD DANAPUR PATNA
+      district: PATNA
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+      - Magadh University, Bodhgaya
+    1-2812516129:
+      name: NALANDA COLLEGE
+      address: BIHARSHARIF DIST. NALANDA 803101 (BIHAR)
+      district: NALANDA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812526709:
+      name: MUZAFFARPUR INSTITUTE OF TECHNOLOGY, MUZAFFARPUR
+      address: PRINCIPAL MUZAFFARPUR INSTITUTE OF TECHNOLOGY MUZAFFARPUR AT LAKSHMI
+        CHOWCK PO MIT MUZAFFARPUR BIHAR MUZAFFARPUR-842003
+      district: MUZAFFARPUR
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+      - Babasaheb Bhimrao Ambedkar Bihar University, Muzzaffarpur
+    1-2812529900:
+      name: DEPT OF COMPUTER APPLICATION
+      address: GAYA COLLEGE
+      district: GAYA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812533472:
+      name: NETAJI SUBHAS INSTITUTE OF POLYTECHNIC
+      address: NSIT, AMHARA, BIHTA, PATNA-801118
+      district: PATNA
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812535221:
+      name: GEMS POLYTECHNIC COLLEGE
+      address: VILLAGE- RATANPURA, AURANGABAD BIHAR-824121
+      district: AURANGABAD
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812535710:
+      name: MILLIA INSTITUTE OF TECHNOLOGY
+      address: RAMBAGH, PURNEA
+      district: PURNIA
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+      - Bhupendra Narayan Mandal University Madhepura, Madhepura
+    1-2812541798:
+      name: DEVELOPMENT MANAGEMENT INSTITUTE
+      address: DEVELOPMENT MANAGEMENT INSTITUTE (DMI), SECOND FLOOR, UDYOG BHAVAN,
+        EAST GANDHI MAIDAN PATNA 800004 BIHAR INDIA
+      district: PATNA
+      institution_type: Govt Aided
+      universities: []
+    1-2812543532:
+      name: UNIVERSITY DEPARTMENT OF COMPUTER APPLICATION
+      address: COMPUTER CENTRE TILKA MANJHI BHAGALPUR UNIVERSITY
+      district: BHAGALPUR
+      institution_type: University Managed-Govt
+      universities:
+      - T.M.Bhagalpur University, Bhagalpur
+    1-2812543626:
+      name: DEPARTMENT OF COMPUTER APPLICATION
+      address: SACHIDANAND SINHA COLLEGE, AURANGABAD
+      district: AURANGABAD
+      institution_type: Government
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812546493:
+      name: GOVERNMENT POLYTECHNIC, BARAUNI, BEGUSARAI, BIHAR
+      address: PO- ULAO DIST- BEGUSARAI, BIHAR
+      district: BEGUSARAI
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812548297:
+      name: CENTRAL INSTITUTE OF PLASTICS ENGINEERING & TECHNOLOGY
+      address: "(DEPARTMENT OF CHEMICALS & PETROCHEMICALS MINISTRY OF CHEMICALS &
+        FERTILISERS GOVT. OF INDIA) INDUSTRIAL AREA HAJIPUR VAISHALI - 844101 BIHAR"
+      district: VAISHALI
+      institution_type: Government
+      universities:
+      - Babasaheb Bhimrao Ambedkar Bihar University, Muzzaffarpur
+    1-2812556317:
+      name: GOVERNMENT POLYTECHNIC MOTIHARI
+      address: AT- LUATHAHAN, BEHIND ITI, NEAR COURT P.O.- MOTIHARI COURT DIST- EAST
+        CHAMPARAN
+      district: EAST CHAMPARAN
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812568107:
+      name: GOVERNMENT POLYTECHNIC, SHEOHAR
+      address: AT- PARIHARA POST- CHAMANPUR P.S.- PIPARAHI DISTRICT- SHEOHAR PIN CODE
+        - 843329 BIHAR, INDIA
+      district: SHEOHAR
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812571884:
+      name: AZMET INSTITUTE OF TECHNOLOGY
+      address: ZAFARNAGAR, ANARKALI KISHANGUNJ
+      district: KISHANGANJ
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+      - Aryabhatta Knowledge University, Patna
+    1-2812588367:
+      name: B. S. COLLEGE
+      address: PATNA DIGHA ROAD
+      district: PATNA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812588742:
+      name: GAYA COLLEGE OF ENGINEERING
+      address: SHRIKRISHN NAGAR VIA BUNIYAD GANJ KHIJAR SARAI GAYA
+      district: GAYA
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+      - Magadh University, Bodhgaya
+    1-2812589138:
+      name: NEW GOVERNMENT POLYTECHNIC, PATNA-13
+      address: PATLIPUTRA COLONY, PATNA-13
+      district: PATNA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812590971:
+      name: SITYOG INSTITUTEOF TECHNOLOGY
+      address: GROWTH CENTER JASOIYA MORE AURANGABAD BIHAR
+      district: AURANGABAD
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+      - Aryabhatta Knowledge University, Patna
+    1-2812592350:
+      name: GOVERNMENT POLYTECHNIC GOPALGANJ
+      address: GOPALGANJ
+      district: GOPALGANJ
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812609041:
+      name: LOKNAYAK JAI PRAKASH INSTITUTE OF TECHNOLOGY, CHHAPRA
+      address: IN THE CAMPUS OF LNJP UNIVERSITY, CHHAPRA
+      district: SARAN
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2812613761:
+      name: J.P.INSTITUTE OF TECHNOLOGY
+      address: AT-BIYABANI, PO-MAGHRA, PS-DEEPNAGAR, TAHSIL-BIHARSHARIF
+      district: NALANDA
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812614492:
+      name: MOTI BABU INSTITUTE OF TECHNOLOGY
+      address: INDUSTRIAL ESTATE OFF NH87, FORBESGANJ-854318 (BIHAR)
+      district: ARARIA
+      institution_type: Unaided - Private
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2812626761:
+      name: L.N.MISHRA COLLEGE OF BUSINESS MANAGEMENT
+      address: BHAGAWANPUR CHOWK
+      district: MUZAFFARPUR
+      institution_type: Unaided - Private
+      universities:
+      - Babasaheb Bhimrao Ambedkar Bihar University, Muzzaffarpur
+    1-2812634810:
+      name: GOVERNMENT POLYTECHNIC, ASTHAWAN NALANDA
+      address: GOVERNMENT POLYTECHNIC, ASTHAWAN, DIST - NALANDA, BIHAR
+      district: NALANDA
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812641294:
+      name: GOVT. POLYTECHNIC, LAKHISARAI
+      address: NORTH OF VIDYA PEETH CHOWK LAKHISARAI
+      district: LAKHISARAI
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812648722:
+      name: CRK INSTITUTE OF MANAGEMENT (CRKIM)
+      address: MAUZA-JADHUA, BARAITOLA, P.O.-HAJIPUR, DISTT.-VAISHALI (BIHAR)
+      district: VAISHALI
+      institution_type: Unaided - Private
+      universities:
+      - B. R. Ambedkar Bihar University, Muzzafarpur
+    1-2812654228:
+      name: VIDYADAAN INSTITUTE OF TECHNOLOGY & MANAGEMENT
+      address: VILLAGE & PO. - ARIAON DISTRICT- BUXAR (BIHAR) PIN- 802119
+      district: BUXAR
+      institution_type: Unaided - Private
+      universities:
+      - Arybhatta Knowledge University, Patna
+    1-2812655102:
+      name: BADDIUZAMA KHAN POLYTECHNIC INSTITUTE
+      address: BADDIUZAMA KHAN POLYTECHNIC INSTITUTE AT+PO-JANIPUR, PS-NANPUR, PUPRI,
+        DIST-SITAMARHI, BIHAR, PIN-843333
+      district: SITAMARHI
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+      - STATE BOARD OF TECHNICAL EDUCATION, PATNA
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812657223:
+      name: PATNA WOMEN'S COLLEGE
+      address: BAILEY ROAD, PATNA, 800001
+      district: PATNA
+      institution_type: University Managed-Govt
+      universities:
+      - Patna University
+    1-2812658143:
+      name: GOVERMENT POLYTECHNIC, SAHARSA
+      address: GANGJALA, SAHARSA
+      district: SAHARSA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812665517:
+      name: BIRLA INSTITUTE OF TECHNOLOGY, PATNA
+      address: PO- B.V. COLLEGE, PATNA
+      district: PATNA
+      institution_type: Govt Aided
+      universities:
+      - Birla Institute of Technology, Ranchi
+    1-2812666981:
+      name: GOVT. POLYTECHNIC
+      address: NAYATOLA
+      district: MUZAFFARPUR
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812668636:
+      name: UNIVERSITY DEPARTMENT OF COMMERCE AND BUSINESS ADMINISTRATION
+      address: PRABANDHAN BHAWAN, KAMESHWARANAGAR
+      district: DARBHANGA
+      institution_type: University Managed-Govt
+      universities:
+      - Lalit Narayan Mithila University, Darbhanga
+    1-2812672402:
+      name: GOVERNMENT POLYTECHNIC
+      address: GOVERNMENT POLYTECHNIC, KADIRABAD, DARBHANGA
+      district: DARBHANGA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812674236:
+      name: AZMET COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: AT-SALKI TENGARMARI, PO-GACHHPARA DIST-KISHANGANJ
+      district: KISHANGANJ
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812676463:
+      name: GOVT.PHARMACY INSTITUTE, AGAMKUAN PATNA-7
+      address: GOVT.PHARMACY INSTITUTE, AGAMKUAN PO-GULZARBAGH PATNA-800007
+      district: PATNA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+      - Magadh University, Bodhgaya
+    1-2812686017:
+      name: MAULANA AZAD COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: NEORAGANJ GHORNA NEORA PATNA
+      district: PATNA
+      institution_type: Unaided - Private
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812690537:
+      name: GOVERNMENT POLYTECHNIC PURNEA
+      address: GOOVERNMENT POLYTECHNIC PURNEA, P.O- POLYTECHNIC PURNEA
+      district: PURNIA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812703222:
+      name: UNIVERSITY DEPARTMENT OF COMMERCE AND BUSINESS ADMINISTRATION
+      address: T. M. BHAGALPUR UNIVERSITY
+      district: BHAGALPUR
+      institution_type: Government
+      universities:
+      - T.M.Bhagalpur University, Bhagalpur
+    1-2812708311:
+      name: MOTIHARI COLLEGE OF ENGINEERING, MOTIHARI
+      address: AT/P.O -PHURSATPUR BAIRIYA P.S -MUFASSIL (MOTIHARI) DIST.-EAST CHAMPARAN,
+        BIHAR-845401
+      district: EAST CHAMPARAN
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2812712135:
+      name: GOVT. POLYTECHNIC, VAISHALI
+      address: FATEHPUR, AFZALPUR ROAD, P.O.- CHAKMARUF, VIA- GARAUL DISTRICT- VAISHALI
+        PIN 844118
+      district: VAISHALI
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812715819:
+      name: EXALT COLLEGE OF POLYTECHNIC
+      address: KAHAULI TEH.GARAUL, MAHUA
+      district: VAISHALI
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812763419:
+      name: PRABHU KAILASH POLYTECHNIC
+      address: SANATHUA MORE AURANGABAD BIHAR
+      district: AURANGABAD
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812766622:
+      name: K.K. COLLEGE OF ENGINEERING & MANAGEMENT
+      address: 'VILLAGE+AT: BERAUTI POST OFF: NEPURA THANA: DEEPNAGAR BIHARSHARIF
+        DIST-NALANDA BIHAR'
+      district: NALANDA
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+      - Aryabhatta Knowledge University, Patna
+    1-2812767085:
+      name: COLLEGE OF COMMERCE ARTS & SCEINCE
+      address: KANKARBAGH
+      district: PATNA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812773098:
+      name: GOVT. WOMEN'S POLYTECHNIC
+      address: P.O.- SAHAI NAGAR PHULWARISHARIF
+      district: PATNA
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812799236:
+      name: CENTRAL UNIVERSITY OF SOUTH BIHAR
+      address: CENTRAL UNIVERSITY OF BIHAR, BIT CAMPUS, PO:BV COLLEGE, PATNA - 800014,
+        BIHAR
+      district: PATNA
+      institution_type: Central University
+      universities:
+      - CENTRAL UNIVERSITY OF SOUTH BIHAR
+    1-2812815769:
+      name: GOVT. POLYTECHNIC, DEHRIONSONE
+      address: DEHRIONSONE DIST- ROHTASH
+      district: ROHTAS
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812872970:
+      name: L. N. MISHRA INSTITUTE OF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE
+      address: 1, JAWAHARLAL NEHRU MARG, PATNA
+      district: PATNA
+      institution_type: Government
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812876742:
+      name: MILLIA POLYTECHNIC
+      address: VERIADANGI KISHANGANJ
+      district: KISHANGANJ
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2812889624:
+      name: ANUGRAH NARAYAN COLLEGE, PATNA
+      address: PO-PATLIPUTRA, BORING ROAD, PATNA
+      district: PATNA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812890334:
+      name: BUDDHA INSTITUTE OF TECHNOLOGY
+      address: INDUSTRIAL AREA, GAYA BEHIND RITURAJ COLD STORAGE, GAYA-DOBHI ROAD
+      district: GAYA
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812898209:
+      name: BUDDHA INSTITUTE OF TECHNOLOGY
+      address: INDUSTRIAL AREA, GAYA, BEHIND RITURAJ COLD STORAGE, GAYA-DOBHI ROAD
+      district: GAYA
+      institution_type: Unaided - Private
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2812902568:
+      name: NALANDA COLLEGE OF ENGINEERING, CHANDI
+      address: NALANDA COLLEGE OF ENGINEERING, CHANDI, NALANDA
+      district: NALANDA
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2812909768:
+      name: WOMEN'S INSTITUTE OF TECHNOLOGY
+      address: NAVODAYA COMPLEX, KAMESHWAR NAGAR, L.N.MITHILA UNIVERSITY, DARBHANGA
+      district: DARBHANGA
+      institution_type: University Managed-Govt
+      universities:
+      - Lalit Narayan Mithila University, Darbhanga
+    1-2812910640:
+      name: GANGA MEMORIAL COLLEGE OF POLYTECHNIC
+      address: AT- NH 31, VILLAGE - KHARUARA PO- HARHAUT PS- HARNAUT DIST. - NALANDA
+      district: NALANDA
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812912713:
+      name: DEPARTMENT OF BUSINESS ADMINISTRATION (SSC)
+      address: S.SINHA COLLEGE, AURANGABAD
+      district: AURANGABAD
+      institution_type: Government
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812919978:
+      name: LALIT NARAYAN MISHRA INSTITUTE OF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE
+      address: 1, BAILEY ROAD PATNA - 1 BIHAR
+      district: PATNA
+      institution_type: Government
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812924170:
+      name: SIWAN ENGINEERING & TECHNICAL INSTITUTE SIWAN
+      address: ISLAMIA NAGAR SURAPUR SIWAN
+      district: SIWAN
+      institution_type: Unaided - Private
+      universities:
+      - Jai Prakash University, Chapra
+    1-2812924465:
+      name: B.S.COLLEGE
+      address: PO-DIGHA (DANAPUR), PATNA-12
+      district: PATNA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Gaya
+    1-2812926074:
+      name: L.N.MISHRA COLLEGE OF BUSINESS MANAGEMENT
+      address: BHAGWANPUR CHOWK
+      district: MUZAFFARPUR
+      institution_type: Unaided - Private
+      universities:
+      - Babasaheb Bhimrao Ambedkar Bihar University, Muzzaffarpur
+    1-2812929808:
+      name: L. N. MISHRA INSTITUTEOF ECONOMIC DEVELOPMENT AND SOCIAL CHANGE
+      address: 1, BAILEY ROAD
+      district: PATNA
+      institution_type: Government
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812930477:
+      name: B. D. COLLEGE
+      address: MOH.- MITHAPUR, P.O.- G.P.O.
+      district: PATNA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812940800:
+      name: INSTITUTE OF BUSINESS MANAGEMENT, BELA, DARBHANGA
+      address: BELA, DARBHANGA
+      district: DARBHANGA
+      institution_type: Unaided - Private
+      universities:
+      - Lalit Narayan Mithila University, Darbhanga
+    1-2812946009:
+      name: ADWAITA MISSION INSTITUTE OF TECHNOLOGY
+      address: AT-SHIVDHAM, PO-MANIYARPUR VIA-BOUNSI, DIST-BANKA, BIHAR-813104
+      district: BANKA
+      institution_type: Unaided - Private
+      universities:
+      - Aryabhatta Knowledge University, Patna
+      - Arybhatta Knowledge University, Patna
+    1-2812947396:
+      name: MILLIA POLYTECHNIC
+      address: RAMBAGH, PURNEA
+      district: PURNIA
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812953055:
+      name: BIRLA INSTITUTE OF TECHNOLOGY, PATNA
+      address: PO B V COLLEGE NEAR JPN INTERNATIONAL AIRPORT PATNA
+      district: PATNA
+      institution_type: Private-Aided
+      universities:
+      - Birla Institute of Technology, Ranchi
+    1-2812955327:
+      name: INSTITUTE OF BUSINESS MANAGEMENT
+      address: BUDH MARG, PATNA-800001
+      district: PATNA
+      institution_type: Unaided - Private
+      universities: []
+    1-2812958833:
+      name: GOVT. POLYTECHNIC BHAGALPUR
+      address: GOVT. POLYTECHNIC, BHAGALPUR AT+PO-BARARI BHAGALPUR
+      district: BHAGALPUR
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2812965564:
+      name: MILLIA KISHANGANJ COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: VERIADANGI
+      district: KISHANGANJ
+      institution_type: Unaided - Private
+      universities:
+      - Bhupendra Narayan Mandal University Madhepura, Madhepura
+    1-2812967463:
+      name: BIHAR COLLEGE OF PHARMACY
+      address: NEW BAILEY ROAD, PATNA-801503
+      district: PATNA
+      institution_type: Unaided - Private
+      universities:
+      - Magadh University, Bodhgaya
+    1-2812985117:
+      name: BHAGALPUR COLLEGE OF ENGINEERING, BHAGALPUR
+      address: P.O SABOUR DIST:BHAGALPUR
+      district: BHAGALPUR
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+      - T.M.Bhagalpur University, Bhagalpur
+    1-2812997841:
+      name: VIDYA VIHAR INSTITUTE OF TECHNOLOGY
+      address: INDUSTRIAL GROWTH CENTRE MARANGA PURNIA
+      district: PURNIA
+      institution_type: Unaided - Private
+      universities:
+      - Bhupendra Narayan Mandal University Madhepura, Madhepura
+    1-2813007274:
+      name: GOVERNMENT POLYTECHNIC KATIHAR
+      address: GOVERNMENT POLYTECHNIC KATIHAR BHERIYA RAHIKA P.O-BMP-7 KATIHAR
+      district: KATIHAR
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2813014978:
+      name: GIRIJA DEVI POLYTECHNIC COLLEGE
+      address: PLOT NO-A-4(P) & A-5(P) INDUSTRIAL AREA, DISTRICT- BHOJPUR, BIHIYA,
+        BIHAR- 802152
+      district: BHOJPUR
+      institution_type: Unaided - Private
+      universities:
+      - Department of Technical Education
+      - Directorate of Technical Education
+    1-2816281835:
+      name: J. D. WOMEN'S COLLEGE
+      address: BAILEY ROAD
+      district: PATNA
+      institution_type: Government
+      universities:
+      - Magadh University, Bodhgaya
+    1-2846263901:
+      name: COLLEGE OF COMMERCE, ARTS & SCIENCE
+      address: MAIN ROAD KANKARBAGH PATNA-800020
+      district: PATNA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Gaya
+    1-2847939841:
+      name: GOVT.POLYTECHNIC, RAGHOPUR (SUPAUL)
+      address: AT- KARJAIN BAZAR, MANSAPUR RAGHOPUR, DIST- SUPAUL PIN-8522215
+      district: SUPAUL
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2863462851:
+      name: GOVT. POLYTECHNIC, BANKA
+      address: PRINCIPAL GOVT. POLYTECHNIC, BANKA VILL- KOTWALI, PO-HARCHANDI DIST-
+        BANKA PIN-813105
+      district: BANKA
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNCAL EDUCATION PATNA
+      - STATE BOARD OF TECHNICAL EDUCATION PATNA
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2864534151:
+      name: GOVT. POLYTECHNIC, TEKARI, GAYA
+      address: TEKARI AT - MAKHDUMPUR, GAYA
+      district: GAYA
+      institution_type: Govt Aided
+      universities:
+      - State Board of Technical Education, Patna
+    1-2867375811:
+      name: GOVERNMENT POLYTECHNIC, JAMUI
+      address: KALYANPUR ROAD, POST- JAMUI P.S.- JAMUI DISTRICT- JAMUI
+      district: JAMUI
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2867621284:
+      name: GOVERNMENT POLYTECHNIC, SHEIKHPURA
+      address: GOVERNMENT POLYTECHNIC, LAKHISARAI NORTH OF VIDYA PEETH CHOWK, LAKHISARAI
+      district: LAKHISARAI
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2870237381:
+      name: GOVERNMENT POLYTECHNIC MUNGER
+      address: GOVERNMENT POLYTECHNIC MUNGER, RAMANKABAD, HAWELI KHARAGPUR
+      district: MUNGER
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2871036841:
+      name: HI TECH POLYTECHNIC COLLEGE
+      address: VILL SENUARIA NH-28B BETTIAH, MOTIHARI ROAD WEST CHAMPARAN BIHAR
+      district: WEST CHAMPARAN
+      institution_type: Unaided - Private
+      universities:
+      - State Board of Technical Education, Patna
+    1-2871429431:
+      name: BUDDHA POLYTECHNIC
+      address: 'SIRSA BIRAN, LALGANJ-IMADPUR PATH, P.O- LALGANJ, DIST: VAISHALI'
+      district: VAISHALI
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2875778901:
+      name: GOVERNMENT POLYTECHNIC, KAIMUR
+      address: AT- MACHHANHATTA P.O.- MUJAN KAIMUR
+      district: KAIMUR
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2877056111:
+      name: GOVERNMENT POLYTECHNIC, MADHEPURA
+      address: AT-MANSAPUR, PO-KARJAIN BAZAR, DIST-SUPAUL(BIHAR), PIN-852215
+      district: SUPAUL
+      institution_type: Government
+      universities:
+      - State Board of Technical Education, Patna
+    1-2879706341:
+      name: RASHTRAKAVI RAMDHARI SINGH DINKAR COLLEGE OF ENGINEERING, BEGUSARAI
+      address: ITI BEGUSARAI CAMPUS P.O.- SUHIRDNAGAR
+      district: BEGUSARAI
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2880315521:
+      name: JAMUI POLYTECHNIC
+      address: STATION ROAD, KHAIRMA, JAMUI, BIHAR
+      district: JAMUI
+      institution_type: Unaided - Private
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2881176921:
+      name: KAMESHWAR NARAYAN SINGH GOVERNMENT POLYTECHNIC, SAMASTIPUR
+      address: ADARSH MIDDLE SCHOOL, SINGHIAGHAT, SAMASTIPUR
+      district: SAMASTIPUR
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+    1-2881323321:
+      name: B D COLLEGE
+      address: NEAR GAURIAMATH, MITHAPUR PATNA, POST- GPO, PIN- 800001
+      district: PATNA
+      institution_type: University Managed-Govt
+      universities:
+      - Magadh University, Gaya
+    1-2881506611:
+      name: BAKHTIYARPUR COLLEGE OF ENGINEERING
+      address: OLD- IIT CAMPUS NEW GOVERNMENT POLYTECHNIC PATLIPUTRA, PATNA
+      district: PATNA
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+      - ARYABHATTA KNOWLEDGE UNIVERSITY, PATNA
+    1-2883298784:
+      name: SERSHAH ENGINEERING COLLEGE, SASARAM
+      address: GOVT. POLYTECHNIC, DEHRIONSONE
+      district: ROHTAS
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2884407931:
+      name: SITAMARHI INSTITUTE OF TECHNOLOGY
+      address: BADIUZAMA KHAN INSTITUTE OF TECHNOLOGY AT+P.O.- JANIPUR, NANPUR, SITAMARHI
+      district: SITAMARHI
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2884799241:
+      name: B. P. MANDAL COLLEGE OF ENGINEERING, MADHEPURA
+      address: S. N. P. M. MODEL HIGH SCHOOL CAMPUS MADHEPURA
+      district: MADHEPURA
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2886014491:
+      name: TOOL ROOM & TRAINING CENTER
+      address: PATLIPUTRA INDUSTRIAL ESTATE, PATNA
+      district: PATNA
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2886054381:
+      name: KATIHAR ENGINEERING COLLEGE, KATIHAR
+      address: CAMPUS OF GOVT. POLYTECHNIC, KATIHAR
+      district: KATIHAR
+      institution_type: Government
+      universities:
+      - Aryabhatta Knowledge University, Patna
+    1-2888028511:
+      name: NARAYANA ACADEMY OF MANAGERIAL EXCELLENCE
+      address: 'VILL+PO:JAMUHAR OLD GT ROAD PS: DEHRI ON SONE, DIST-ROHTAS PIN: 821305'
+      district: ROHTAS
+      institution_type: Unaided - Private
+      universities:
+      - Veer Kunwar Singh University, Arrah
+    1-2888623561:
+      name: BRAJ KISHOR NARAYAN SINGH GOVERNMENT POLYTECHNIC, GOPALGANJ
+      address: GOVT. POLYTECHNIC, GOPALGANJ
+      district: GOPALGANJ
+      institution_type: Government
+      universities:
+      - STATE BOARD OF TECHNICAL EDUCATION. Bihar
+  updated_at: '2016-09-03T18:55:44+05:30'
+  md5: !binary |-
+    bfe//HQHOtSjtOLLwTLFNg==

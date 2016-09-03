@@ -1,0 +1,127 @@
+---
+Goa:
+  colleges:
+    1-2809328194:
+      name: SHREE RAYESHWAR INSTITUTE OF ENGINEERING AND INFORMATION TECHNOLOY
+      address: SHIV SHAIL, KARAI, SHIRODA, GOA 403103
+      district: NORTH GOA
+      institution_type: Unaided - Private
+      universities:
+      - Goa University, Goa
+    1-2809364960:
+      name: AGNEL INSTITUTE OF TECHNOLOGY AND DESIGN
+      address: ASSAGAO, BARDEZ, GOA.
+      district: NORTH GOA
+      institution_type: Unaided - Private
+      universities:
+      - Goa University, Goa
+    1-2809439609:
+      name: GOA COLLEGE OF PHARMACY
+      address: 18TH JUNE ROAD, PANAJI-GOA
+      district: NORTH GOA
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Bardez
+      - Goa University, Goa
+    1-2809451721:
+      name: GOA COLLEGE OF ART
+      address: ALTINHO, PANAJI - GOA 403 001
+      district: NORTH GOA
+      institution_type: Government
+      universities:
+      - Goa University, Goa
+    1-2809452173:
+      name: PADRE CONCEICAO COLLEGE OF ENGINEERING
+      address: AGNEL GANV, VERNA, GOA - 403722
+      district: SOUTH GOA
+      institution_type: Unaided - Private
+      universities:
+      - Goa University, Goa
+    1-2809476211:
+      name: GOVERNMENT POLYTECHNIC CURCHOREM
+      address: OPP. KAKODA INDUSTRIAL ESTATE
+      district: SOUTH GOA
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Bardez
+    1-2809500050:
+      name: AGNEL INSTITUTE OF FOOD CRAFTS AND CULINARY SCIENCES
+      address: AGNEL TECHNICAL EDUCATION COMPLEX AGNEL ASHRAM VERNA
+      district: SOUTH GOA
+      institution_type: Unaided - Private
+      universities:
+      - Board of Technical Education, Bardez
+    1-2809505343:
+      name: PONDA EDUCATION SOCIETYS RAJARAM AND TARABAI BANDEKAR COLLEGE OF PHARMACY
+      address: PONDA-PANAJI ROAD, FARMAGUDI, PONDA. GOA-403401
+      district: SOUTH GOA
+      institution_type: Unaided - Private
+      universities:
+      - Goa University
+      - Goa University, Goa
+    1-2809601268:
+      name: GOVERNMENT POLYTECHNIC MAYEM BICHOLIM
+      address: MAYEM BICHOLIM GOA
+      district: NORTH GOA
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Bardez
+    1-2809627186:
+      name: GOA INSTITUTE OF MANAGEMENT
+      address: SANQUELIM
+      district: NORTH GOA
+      institution_type: Unaided - Private
+      universities: []
+    1-2809663582:
+      name: GOA COLLEGE OF ENGINEERING (GOVERNMENT OF GOA)
+      address: FARMAGUDI, PONDA-GOA PIN-403401
+      district: NORTH GOA
+      institution_type: Government
+      universities:
+      - Goa University, Goa
+      - Goa University
+    1-2809721092:
+      name: AGNEL POLYTECHNIC
+      address: AGNEL TECHNICAL EDUCATION COMPLEX
+      district: SOUTH GOA
+      institution_type: Govt Aided
+      universities:
+      - Board of Technical Education, Bardez
+    1-2809746864:
+      name: GUARDIAN ANGEL INSTITUTE OF HOTEL MANAGEMENT AND CATERING TECHNOLOGY
+      address: GUARDIAN ANGEL EDUCATIONAL COMPLEX
+      district: SOUTH GOA
+      institution_type: Unaided - Private
+      universities:
+      - Board of Technical Education, Bardez
+    1-2809799687:
+      name: INSTITUTE OF SHIPBUILDING TECHNOLOGY
+      address: BOGDA, VASCO-DA-GAMA, GOA 403802
+      district: SOUTH GOA
+      institution_type: Govt Aided
+      universities:
+      - Board of Technical Education, Bardez
+    1-2815725802:
+      name: GOVERNMENT POLYTECHNIC PANAJI
+      address: ALTINHO PANAJI GOA 403001
+      district: NORTH GOA
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Bardez
+    1-2816351968:
+      name: DON BOSCO COLLEGE OF ENGINEERING
+      address: DON BOSCO, FATORDA
+      district: SOUTH GOA
+      institution_type: Unaided - Private
+      universities:
+      - Goa University, Goa
+    1-2817134801:
+      name: HQ 2 SIGNAL TRAINING CENTRE
+      address: C/O 56 APO
+      district: NORTH GOA
+      institution_type: Government
+      universities:
+      - Board of Technical Education, Bardez
+  updated_at: '2016-09-03T18:56:17+05:30'
+  md5: !binary |-
+    Jrbq6rgdR68hHJ0lv4Jmww==

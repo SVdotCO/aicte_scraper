@@ -1,0 +1,230 @@
+---
+Puducherry:
+  colleges:
+    1-2811013622:
+      name: BHARATHIYAR COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: THIRUVETTAKUDY KOTTUCHERRY KARAIKAL - 609 609 U.T. OF PUDUCHERRY
+      district: KARAIKAL
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811014407:
+      name: PERUNTHANALAIVAR KAMARAJAR INSTITUTE OF ENGINEERING AND TECHNOLOGY
+      address: NEDUNGADU, KARAIKAL 609 603
+      district: KARAIKAL
+      institution_type: Government
+      universities:
+      - Pondicherry University
+    1-2811073756:
+      name: RAJIV GANDHI COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: RS NO.25, PONDY-CUDDALOR E E.C. ROAD, KIRUMAMPAKKAM, PUDUCHERRY - 607
+        402
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University, Pondicherry
+      - Pondicherry University
+    1-2811167068:
+      name: MOTILAL NEHRU GOVERNMENT POLYTECHNIC COLLEGE
+      address: LAWSPET
+      district: PUDUCHERRY
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Chennai
+    1-2811172152:
+      name: AVVAIYAR COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN
+      address: R.S.NO. 104/1, FCI GODOWN ROAD THIRUVANDARKOIL VILLAGE, VILLIANUR TALUK.
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811185333:
+      name: PONDICHERRY ENGINEERING COLLEGE
+      address: PILLAICHAVADI, PUDUCHERRY - 605014
+      district: PUDUCHERRY
+      institution_type: Government
+      universities:
+      - Pondicherry University
+      - Pondicherry University, Pondicherry
+    1-2811222568:
+      name: WOMEN'S POLYTECHNIC COLLEGE
+      address: AIRPORT ROAD, LAWSPET
+      district: PUDUCHERRY
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Chennai
+    1-2811227348:
+      name: DR.B.R.AMBEDKAR POLYTECHNIC COLLEGE
+      address: DRAKSHARAMA ROAD
+      district: YANAM
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Chennai
+    1-2811251296:
+      name: MANAKULA VINAYAGAR INSTITUTE OF TECHNOLOGY
+      address: KALITHEERTHAL KUPPAM, MADAGADIPET, PONDICHERRY. PIN CODE- 605 107
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811304569:
+      name: SRI MANAKULA VINAYAGAR POLYTECHNIC COLLEGE
+      address: KALITHEERTHALKUPPAM, MADAGADIPET, PONDICHERRY
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education, Chennai
+    1-2811304849:
+      name: MOTHER THERESA POST GRADUATE AND RESEARCH INSTITUTE OF HEALTH SCIENCES
+      address: INDIRA NAGAR, GORIMEDU
+      district: PUDUCHERRY
+      institution_type: Government
+      universities:
+      - Pondicherry University
+    1-2811312543:
+      name: CHRIST COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: PITCHAVEERANPET, MOOLAKULAM, OULGARET MUNICIPALITY
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811317538:
+      name: POPE JOHN PAUL II COLLEGE OF EDUCATION
+      address: VILLIANUR MAIN ROAD, REDDIARPALAYAM, PONDICHERRY - 605 010
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811326943:
+      name: ALPHA COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: KANNIAKOIL TO BAHOUR MAIN ROAD BAHOUR - 607 402
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811337476:
+      name: RVS COLLEGE OF COMPUTER APPLICATION
+      address: KALIKUPPAM THIRUVETTAKUDI KOTTUCHERRY COMMUNE KARAIKAL
+      district: KARAIKAL
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811341689:
+      name: REGENCY INSTITUTE OF TECHNOLOGY
+      address: YANAM-533 464, U. T. OF PUDUCHERRY NEAR KAKINADA (A. P.)
+      district: YANAM
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811386893:
+      name: WOMEN'S POLYTECHNIC COLLEGE (GOVT. OF PUDUCHERRY)
+      address: 'TEMPORARY ADDRESS : KARAIKALMEDU KARAIKAL 609 602 PERMANENT ADDRESS
+        : KEEZHAYUR VILLAGE, THIRUNALLAR TALUK, KARAIKAL'
+      district: KARAIKAL
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Chennai
+    1-2811387255:
+      name: RVS INSTITUTE OF MANAGEMENT STUDIES & COMPUTER APPLICATION
+      address: KALLIKUPPAM, THIRUVEYYAKUDI.
+      district: KARAIKAL
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811430135:
+      name: SRI MANAKULA VINAYAGAR ENGINEERING COLLEGE
+      address: NO.24 MARIAMMAN KOIL STREET MADAGADIPET PUDUCHERRY
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811444350:
+      name: HAYAGRIVA POLYTECHNIC COLLEGE
+      address: GANGAIAMMAN KOIL STREET (EXTN) SOORAMANGALAM PUDUCHERRY - 605107
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Technical Education, Chennai
+    1-2811469900:
+      name: PONNAIYAH RAMAJAYAM INSTITUTE OF SCIENCE AND TECHNOLOGY (PRIST) UNIVERSITY
+      address: URUVAIYAR MAIN ROAD, THIMMANAICKAN PALAYAM
+      district: PUDUCHERRY
+      institution_type: Deemed University(Private)
+      universities:
+      - Ponnaiyah Ramajayam Institute of Science & Technology Vallam, Thanjavur
+    1-2811483452:
+      name: SRI VENKATESHWARAA COLLEGE OF ENGINEERING & TECHNOLOGY
+      address: NO.13-A, PONDY-VILLUPURAM MAIN ROAD, ARIYUR (PANGUR), PUDUCHERRY -605102.
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University, Pondicherry
+    1-2811490717:
+      name: ACHARIYA COLLEGE OF ENGINEERING TECHNOLOGY
+      address: URUVAIYARU, ACHARIYAPURAM VILLIANOOR PUDUCHERRY- PUDUCHERRY- 605 110
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Directorate of Higher and Technical Education, Puducherry
+      - Pondicherry University
+    1-2811494717:
+      name: RAAK COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: "#1, MUTHUPILLAIPALAYAM ROAD, G.N. PALAYAM, PUDUCHERRY - 605010"
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University, Pondicherry
+    1-2811501541:
+      name: INDIRA GANDHI POLYTECHNIC COLLEGE, MAHE
+      address: PONDAYAT KUNNU CHALAKKARA NEW MAHE POST-673311
+      district: MAHE
+      institution_type: Government
+      universities:
+      - Directorate of Higher and Technical Education, Puducherry
+    1-2811504997:
+      name: KARAIKAL POLYTECHNIC COLLEGE
+      address: VARICHIKUDY KOTTUCHERRY POST
+      district: PUDUCHERRY
+      institution_type: Government
+      universities:
+      - Directorate of Technical Education, Chennai
+    1-2811525886:
+      name: SHRI KRISHNAA COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: R.S.NO.74/3, TIRKANUR ROAD, MANNADIPET VILLAGE, PUDUCHERRY-605501
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2811530914:
+      name: BHARATHIAR PALKALAI KOODAM
+      address: CUDDALORE MAIN ROAD, ARIYANKUPPAM
+      district: PUDUCHERRY
+      institution_type: Government
+      universities:
+      - Pondicherry University
+    1-2811576109:
+      name: SRI GANESH COLLEGE OF ENGINEERING AND TECHNOLOGY
+      address: KEELPARIKALPATTU ROAD KEELPARIKALPATTU MULLODAI MANAPET POST BAHOUR
+        PUDUCHERRY
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University, Pondicherry
+      - Pondicherry University
+    1-2811608776:
+      name: CHRIST INSTITUTE OF TECHNOLOGY
+      address: RAMANATHAPURAM REVENUE VILLAGE, VILLIANUR COMMUNE
+      district: PUDUCHERRY
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+    1-2814419602:
+      name: RVS COLLEGE OF ENGINEERING &TECHNOLOGY
+      address: KALIKUPPAM, THIRUVETTAKUDI, KARAIKAL. 609 609
+      district: KARAIKAL
+      institution_type: Unaided - Private
+      universities:
+      - Pondicherry University
+  updated_at: '2016-09-03T19:17:28+05:30'
+  md5: !binary |-
+    T785ZMx8JbxGuirCnkxs3A==
