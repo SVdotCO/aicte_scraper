@@ -32,13 +32,13 @@ Scrapes information on colleges from AICTE's website, and stores it in YAML form
 
     bundle install
     bundle exec ruby scrape.rb --help
-    
+
     Usage: scrape.rb [options]
         -s, --state STATE                Choose state
         -p, --processes COUNT            Number of processes to run simultaneously
 
 Output will be stored to `outputs/[STATE].yml`
-    
+
 To load info for a single state:
 
     bundle exec ruby scrape.rb -s "Andaman and Nicobar Islands"

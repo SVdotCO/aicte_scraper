@@ -2,7 +2,7 @@ class AicteScraper
   class Constants
     COLLEGES_URL = -'http://www.aicte-india.org/dashboard/pages/php/approvedinstituteserver.php?method=fetchdata&year=2016-2017&program=1&level=1&institutiontype=1&Women=1&Minority=1&state=%{state}&course='
 
-    COURSE_DETAILS_URL = 'http://www.aicte-india.org/dashboard/pages/approved.php?aicteid=%{aicte_id}&course=&year=2016-2017'
+    COURSE_DETAILS_URL = -'http://www.aicte-india.org/dashboard/pages/approved.php?aicteid=%{aicte_id}&course=&year=2016-2017'
 
     # Extracted from their form. The value 'Orissa' has been removed since it returns no results, and seems to have been replaced by 'Odisha' - the state's new official name.
     STATES = [
@@ -41,6 +41,6 @@ class AicteScraper
       'Uttar Pradesh',
       'Uttarakhand',
       'West Bengal'
-    ]
+    ].freeze
   end
 end
