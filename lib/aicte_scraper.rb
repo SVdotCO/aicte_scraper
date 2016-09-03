@@ -77,7 +77,7 @@ class AicteScraper
       "#{first}-#{rest}"
     else
       state.upcase
-    end.ljust(13)
+    end.center(13)
   end
 
   # Print the message with an explicit line-break, instead of puts to avoid issues when running with multiple processes.
