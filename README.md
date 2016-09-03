@@ -13,8 +13,8 @@ Scrapes information on colleges from AICTE's website, and stores it in YAML form
           district: Port Blair
           institution_type: Government
           universities:
-          - Maharashtra State Board of Technical Education, Mumbai
-          - Pondicherry University,
+          - Maharashtra State Board Of Technical Education, Mumbai
+          - Pondicherry University
         1-2877581491:
           name: Multidisciplinary Professional College
           address: Pheonix Bay Sts Building
