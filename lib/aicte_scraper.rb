@@ -73,7 +73,7 @@ class AicteScraper
   def log_index
     if state.split.count > 1
       first = state.split[0].upcase
-      rest = state.split[1..-1].map(&:first).join('-').upcase
+      rest = state.split[1..-1].map { |s| s[0] }.join('-').upcase
       "#{first}-#{rest}"
     else
       state.upcase
