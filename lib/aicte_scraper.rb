@@ -129,26 +129,24 @@ class AicteScraper
     universities - %w(None)
   end
 
-  # ' DR. B.R. AMBEDKAR INSTITUTE OF   TECHNOLOGY , SOMEWHERE,  ' => "Dr. B.R. Ambedkar Institute of Technology, Somewhere"
+  # ' DR. B.R. AMBEDKAR INSTITUTE OF   TECHNOLOGY , SOMEWHERE,  ' => 'DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY, SOMEWHERE'
+  # 'State Board Of Technical Examinations,Gujarat , Gandhinagar,' => 'State Board of Technical Examinations, Gujarat, Gandhinagar'
   def fix_text(original_text)
     return if original_text.nil?
-    case_fixed = downcase_all_caps(original_text)
-    line_breaks_removed = remove_line_breaks(case_fixed)
-    space_before_comma_removed = remove_space_before_comma(line_breaks_removed)
-    space_added_after_comma = add_space_after_comma(space_before_comma_removed)
-    capitalized_after_space = capitalize_after_spaces(space_added_after_comma)
-    squish_text = capitalized_after_space.titleize
-    capitalized_after_periods = capitalize_after_periods(squish_text)
-    remove_trailing_comma(capitalized_after_periods)
-  end
 
-  # The reasoning behind this conversion is that all-caps text doesn't have any real casing information. So we can
-  # attempt to reconstruct it, even if the output isn't perfect (contains abbreviations), it's better than all-caps.
-  # 'HELLO' => 'hello'
-  # 'HellO' => 'HellO'
-  # "vavanoor,(via) koottanad,palakkad dist. \r\n679 533"
-  def downcase_all_caps(text)
-    text.upcase == text ? text.downcase : text
+    intermediary = remove_line_breaks(original_text)
+    intermediary = remove_space_before_comma(intermediary)
+    intermediary = add_space_after_comma(intermediary)
+
+    if original_text.upcase == original_text
+      intermediary = intermediary.squeeze(' ').strip
+    else
+      intermediary = capitalize_after_spaces(intermediary)
+      intermediary = intermediary.titleize
+      intermediary = capitalize_after_periods(intermediary)
+    end
+
+    remove_trailing_comma(intermediary)
   end
 
   # "Hello\r\nWorld" => "Hello World"
