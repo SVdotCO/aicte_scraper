@@ -8,17 +8,17 @@ Scrapes information on colleges from AICTE's website, and stores it in YAML form
     Andaman and Nicobar Islands:
       colleges:
         1-2811997238:
-          name: Dr. B.R. Ambedkar Institute Of Technology
-          address: Polytechnic Road Pahar Gaon Po Junglighat
-          district: Port Blair
+          name: DR. B.R. AMBEDKAR INSTITUTE OF TECHNOLOGY
+          address: POLYTECHNIC ROAD PAHAR GAON PO JUNGLIGHAT
+          district: PORT BLAIR
           institution_type: Government
           universities:
-          - Maharashtra State Board Of Technical Education, Mumbai
+          - Maharashtra State Board of Technical Education, Mumbai
           - Pondicherry University
         1-2877581491:
-          name: Multidisciplinary Professional College
-          address: Pheonix Bay Sts Building
-          district: Port Blair
+          name: MULTIDISCIPLINARY PROFESSIONAL COLLEGE
+          address: PHEONIX BAY STS BUILDING
+          district: PORT BLAIR
           institution_type: Government
           universities:
           - Panjab University, Chandigarh
